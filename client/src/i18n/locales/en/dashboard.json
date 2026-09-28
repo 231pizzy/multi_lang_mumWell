@@ -1,0 +1,158 @@
+{
+  "welcome": "Welcome back, {{name}}",
+  "welcomeFallback": "Welcome back",
+  "subtitle": "How are you today? Every small step counts.",
+  "reminders": "Reminder settings",
+  "quick": {
+    "title": "Quick actions",
+    "subtitle": "Choose what feels right today",
+    "voice": "Voice consultation",
+    "voiceSub": "Talk to an AI specialist",
+    "chat": "Chat with MumWell",
+    "chatSub": "Your AI companion, any time",
+    "test": "EPDS screening",
+    "program": "My programme",
+    "mood": "Track mood",
+    "moodSub": "How are you feeling?",
+    "activity": "Log activity",
+    "activitySub": "Record self-care"
+  },
+  "overview": {
+    "title": "Today's overview",
+    "subtitle": "Your wellbeing at a glance, {{date}}",
+    "refresh": "Refresh",
+    "noData": "No data yet",
+    "moodTitle": "Mood score",
+    "moodChecked": "Checked in {{when}}",
+    "moodEmpty": "Track your mood to see it here",
+    "activeTitle": "Active days",
+    "activeDesc": "Days with a check-in or activity this week",
+    "todayTitle": "Activities today",
+    "todayDesc": "Logged activities and exercises",
+    "epdsTitle": "EPDS score",
+    "epdsEmpty": "Take the screening",
+    "updated": "Last updated {{time}}",
+    "loadError": "Some data couldn't be loaded. Please try refreshing."
+  },
+  "insights": {
+    "title": "Insights",
+    "subtitle": "Gentle observations based on your recent activity",
+    "empty": "Complete a few check-ins or activities to see personal insights.",
+    "moodUp": {
+      "title": "Mood lifting",
+      "body": "Your latest mood is above your weekly average. Keep doing what's helping you."
+    },
+    "moodDown": {
+      "title": "A harder stretch",
+      "body": "Your mood has dipped recently. A short breathing exercise or a chat with MumWell may help."
+    },
+    "consistent": {
+      "title": "Consistent practice",
+      "body": "You've been doing relaxation activities regularly, and that helps reduce stress."
+    },
+    "mindful": {
+      "title": "Room for calm",
+      "body": "Try adding a short relaxation activity to your day."
+    },
+    "start": {
+      "title": "Start small",
+      "body": "Log a mood check-in or try a relaxation activity below. Small steps count."
+    },
+    "morning": {
+      "title": "Morning rhythm",
+      "body": "You're most active in the mornings. Consider planning self-care then."
+    },
+    "evening": {
+      "title": "Evening rhythm",
+      "body": "You tend to be more active in the evenings. Remember to wind down before bed."
+    }
+  },
+  "moodDialog": {
+    "title": "How are you feeling?",
+    "subtitle": "Move the slider to record your mood right now.",
+    "labels": [
+      "Very low",
+      "Low",
+      "Okay",
+      "Good",
+      "Great"
+    ],
+    "note": "Anything on your mind? (optional)",
+    "save": "Save mood",
+    "saved": "Mood saved",
+    "savedBody": "Thank you for checking in with yourself.",
+    "failed": "Couldn't save your mood."
+  },
+  "activity": {
+    "title": "Log an activity",
+    "subtitle": "Record something you did for your wellbeing.",
+    "type": "Activity type",
+    "typePlaceholder": "Choose a type",
+    "types": {
+      "meditation": "Meditation",
+      "exercise": "Exercise",
+      "walking": "Walking",
+      "reading": "Reading",
+      "journaling": "Journaling",
+      "therapy": "Therapy session"
+    },
+    "name": "Name",
+    "namePlaceholder": "Morning meditation, evening walk…",
+    "duration": "Duration (minutes)",
+    "description": "Notes (optional)",
+    "descriptionPlaceholder": "How did it go?",
+    "save": "Save activity",
+    "saved": "Activity logged",
+    "required": "Please choose a type and give the activity a name.",
+    "failed": "Couldn't log the activity."
+  },
+  "games": {
+    "title": "Relaxation exercises",
+    "subtitle": "Short, calming activities for anxious or overwhelming moments",
+    "start": "Start {{name}}",
+    "items": {
+      "breathing": {
+        "title": "Breathing patterns",
+        "description": "Follow a calming breathing rhythm with visual guidance",
+        "duration": "5 min"
+      },
+      "garden": {
+        "title": "Zen garden",
+        "description": "Create your own peaceful little garden",
+        "duration": "10 min"
+      },
+      "forest": {
+        "title": "Mindful forest",
+        "description": "Rest with birdsong and rustling leaves",
+        "duration": "5 min"
+      },
+      "waves": {
+        "title": "Ocean waves",
+        "description": "Match your breath to gentle waves",
+        "duration": "5 min"
+      }
+    },
+    "breatheIn": "Breathe in",
+    "hold": "Hold",
+    "breatheOut": "Breathe out",
+    "round": "Round {{round}} of {{total}}",
+    "pause": "Pause",
+    "resume": "Resume",
+    "greatJob": "Well done",
+    "completed": "You've completed {{total}} rounds of calm breathing. How do you feel now?",
+    "again": "Start again",
+    "volume": "Volume",
+    "play": "Play",
+    "wavesHint": "Breathe in as the wave rises, and out as it falls",
+    "gardenHint": "Choose an item, then tap the sand to place it"
+  },
+  "hero": {
+    "programmeLabel": "Your 90-day programme",
+    "programmeDay": "Day {{day}} of {{total}}",
+    "programmeDone": "{{count}} days completed",
+    "programmeCta": "Continue today",
+    "noProgrammeTitle": "Start your personal 90-day programme",
+    "noProgrammeBody": "Small daily steps for rest, recovery and bonding, shaped around you.",
+    "noProgrammeCta": "Create my programme"
+  }
+}

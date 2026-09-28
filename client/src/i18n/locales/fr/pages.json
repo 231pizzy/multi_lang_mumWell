@@ -1,0 +1,111 @@
+{
+  "about": {
+    "eyebrow": "À propos de MumWell",
+    "title": "Chaque mère mérite d'être entendue",
+    "intro": "MumWell est une plateforme de santé mentale périnatale qui accompagne les mères pendant la grossesse, face à la dépression post-partum et aux défis quotidiens des premiers temps de la parentalité. Nous associons un dépistage validé, une IA empathique et des programmes personnalisés pour que l'aide soit là dès qu'on en a besoin, dans la langue de la mère.",
+    "sections": [
+      {
+        "title": "Notre mission",
+        "body": "Rendre un soutien en santé mentale périnatale accessible, empathique et fondé sur des données probantes à chaque mère, quels que soient son lieu de vie et sa langue."
+      },
+      {
+        "title": "Notre vision",
+        "body": "Un monde où aucune mère ne lutte seule : où les symptômes sont repérés tôt, où demander de l'aide n'est pas stigmatisant et où chaque famille peut s'épanouir."
+      },
+      {
+        "title": "Pourquoi c'est important",
+        "body": "Les troubles de santé mentale figurent parmi les complications les plus fréquentes de la grossesse et de l'année qui suit la naissance. Un repérage et un accompagnement précoces améliorent la situation des mères, mais aussi de leurs bébés, de leurs partenaires et de toute la famille."
+      },
+      {
+        "title": "Comment nous aidons",
+        "body": "Les mères peuvent réaliser le dépistage EPDS, échanger à toute heure avec notre compagnon IA, suivre un programme de 90 jours et parler de vive voix avec des spécialistes IA. Chaque étape oriente vers des soins professionnels lorsque c'est nécessaire."
+      },
+      {
+        "title": "Aux côtés du système de soins",
+        "body": "MumWell est conçu pour compléter le travail des sages-femmes, puéricultrices, médecins et équipes de psychiatrie périnatale. Il aide les mères à savoir quand demander de l'aide et à arriver en consultation avec une vision plus claire de ce qu'elles ont ressenti."
+      }
+    ],
+    "valuesTitle": "Ce qui nous guide",
+    "values": [
+      "Bienveillance",
+      "Sécurité",
+      "Confidentialité",
+      "Inclusion",
+      "Rigueur scientifique"
+    ]
+  },
+  "features": {
+    "eyebrow": "Fonctionnalités",
+    "title": "Tout ce dont une jeune mère a besoin, dans un espace apaisant",
+    "intro": "MumWell réunit les outils les plus utiles pendant la période périnatale. Ils sont conçus avec soin, disponibles en cinq langues et protégés selon les standards internationaux de confidentialité les plus stricts.",
+    "detailTitle": "Également inclus",
+    "details": [
+      {
+        "title": "Suivi de l'humeur et des activités",
+        "body": "Des bilans quotidiens rapides et des observations personnelles qui révèlent les tendances au fil du temps."
+      },
+      {
+        "title": "Exercices de relaxation",
+        "body": "Respiration guidée, jardin zen et sons de la nature apaisants pour les moments d'anxiété."
+      },
+      {
+        "title": "Rappels bienveillants",
+        "body": "Des rappels facultatifs par e-mail pour votre bilan quotidien, à l'heure qui vous convient."
+      },
+      {
+        "title": "Comptes rendus écrits",
+        "body": "Un résumé clair après chaque consultation vocale, à imprimer ou à partager avec votre équipe soignante."
+      },
+      {
+        "title": "Soutien en cas de crise",
+        "body": "Détection automatique des signaux de crise, avec les numéros d'urgence et d'écoute de votre pays."
+      },
+      {
+        "title": "Vos données, votre contrôle",
+        "body": "Téléchargez tout ce que nous conservons à votre sujet ou supprimez définitivement votre compte, quand vous le souhaitez."
+      }
+    ]
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Nous sommes là pour vous aider",
+    "intro": "Des questions sur MumWell, un partenariat ou une collaboration de recherche ? Écrivez-nous. Si vous avez besoin d'un soutien urgent, utilisez les lignes d'écoute ci-dessous.",
+    "emailLabel": "E-mail",
+    "privacyLabel": "Confidentialité et protection des données",
+    "responseTime": "Nous répondons généralement sous deux jours ouvrés.",
+    "faqTitle": "Questions fréquentes",
+    "faqs": [
+      {
+        "q": "MumWell remplace-t-il ma sage-femme ou mon médecin ?",
+        "a": "Non. MumWell soutient votre bien-être entre les rendez-vous et vous aide à savoir quand demander de l'aide, mais ne pose pas de diagnostic et ne soigne pas. Restez en contact avec votre sage-femme, votre médecin ou votre puéricultrice."
+      },
+      {
+        "q": "Comment démarrer une consultation ?",
+        "a": "Connectez-vous, puis lancez un chat ou une consultation vocale depuis votre tableau de bord. Les deux sont disponibles à tout moment."
+      },
+      {
+        "q": "Quelles langues puis-je utiliser ?",
+        "a": "Toute l'application, y compris le chat IA, les consultations vocales et les e-mails, fonctionne en anglais, suédois, allemand, français et espagnol. Changez de langue à tout moment avec l'icône en forme de globe."
+      },
+      {
+        "q": "Mes données sont-elles en sécurité ?",
+        "a": "Nous ne collectons que ce qui est nécessaire pour vous accompagner, demandons votre consentement explicite avant de traiter des données de santé, et ne vendons jamais de données ni n'utilisons de traceurs publicitaires. Vous pouvez télécharger ou supprimer définitivement vos données depuis les paramètres de votre compte."
+      },
+      {
+        "q": "Que se passe-t-il si je dis que je suis en crise ?",
+        "a": "L'IA est conçue pour répondre avec bienveillance et vous encourager à contacter immédiatement les services d'urgence ou une ligne d'écoute, et l'application affiche les numéros utiles. MumWell n'est pas un service d'urgence. En cas d'urgence, appelez votre numéro d'urgence local."
+      }
+    ]
+  },
+  "article": {
+    "eyebrow": "Comprendre la dépression post-partum",
+    "title": "Signes, soutien et chemin vers le rétablissement",
+    "intro": "La dépression post-partum est fréquente, ce n'est pas de votre faute et elle se soigne. Ce guide explique à quoi être attentive et où trouver de l'aide.",
+    "readTime": "6 min de lecture",
+    "reviewNote": "Cet article est une information générale et ne remplace pas l'avis d'un professionnel de santé."
+  },
+  "notFound": {
+    "title": "Page introuvable",
+    "body": "La page a peut-être été déplacée ou le lien est incorrect."
+  }
+}

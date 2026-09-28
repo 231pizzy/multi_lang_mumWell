@@ -1,0 +1,168 @@
+{
+  "draftNotice": "Draft for review: this text must be checked by a qualified data-protection lawyer before public launch. Items in [square brackets] need to be completed.",
+  "lastUpdated": "Last updated: {{date}}",
+  "contents": "Contents",
+  "privacy": {
+    "eyebrow": "Privacy policy",
+    "title": "How we protect your data",
+    "intro": "MumWell handles sensitive information about your health and wellbeing. This policy explains what we collect, why, who processes it and the rights you have under the EU General Data Protection Regulation (GDPR).",
+    "sections": [
+      {
+        "heading": "1. Who is responsible for your data",
+        "paragraphs": [
+          "The data controller is [Company legal name], [registered address], [company registration number] (“MumWell”, “we”). You can contact us about privacy at support@mumwell.org.",
+          "[If appointed: our Data Protection Officer can be reached at …]"
+        ]
+      },
+      {
+        "heading": "2. What we collect",
+        "bullets": [
+          "Account data: your name, email address, phone number, country, a securely hashed password and preferred language.",
+          "Consent records: which consents you gave and when.",
+          "Health and wellbeing data (special-category data): mood check-ins, EPDS screening answers and scores, activities, wellness check-ins, your 90-day programme and reflections, AI chat messages, voice consultation transcripts and reports, and information you give when creating your programme (for example pregnancy status or mental-health history).",
+          "Reminder settings: whether reminders are on, your chosen time and time zone.",
+          "Technical data: login session records (device type and expiry) needed to keep your account secure.",
+          "Crisis alert records: when you appear to be at immediate risk, what raised the concern, when, and whether our crisis helpline was notified."
+        ],
+        "paragraphs": [
+          "We do not use advertising or tracking cookies, and we never sell your data."
+        ]
+      },
+      {
+        "heading": "3. Why we use it and our legal basis",
+        "bullets": [
+          "To provide the service you signed up for, including your account, programme, tracking and reminders (GDPR Art. 6(1)(b), performance of a contract).",
+          "To process health and wellbeing data, only with your explicit consent (GDPR Art. 9(2)(a)). You can withdraw consent at any time by deleting your account.",
+          "To keep the service secure and prevent abuse, for example rate limiting and login protection (Art. 6(1)(f), legitimate interests).",
+          "To meet legal obligations where applicable (Art. 6(1)(c)).",
+          "To protect you in a crisis: if a message, screening answer or voice consultation suggests you may harm yourself or your baby, we email our crisis helpline your contact details, any address or phone number you choose to share in that conversation, relevant profile and screening information and the words that raised concern, so a trained person can reach you (Art. 9(2)(a), explicit consent; where you cannot consent, Art. 9(2)(c) and Art. 6(1)(d), vital interests)."
+        ]
+      },
+      {
+        "heading": "4. Artificial intelligence",
+        "paragraphs": [
+          "MumWell uses AI models to reply in chat, to generate your programme, to suggest specialists and to summarise voice consultations. You are always told when you are interacting with AI. The AI also estimates whether a message may indicate a crisis so that we can show emergency information; it does not make decisions that have legal or similarly significant effects on you, and it does not diagnose."
+        ]
+      },
+      {
+        "heading": "5. Who processes your data",
+        "paragraphs": [
+          "We use carefully selected service providers (processors) under data-processing agreements:"
+        ],
+        "bullets": [
+          "MongoDB Atlas: account, chat and tracking database, hosted in the EU (Ireland).",
+          "Neon: programme and consultation database. [Currently hosted in the USA; planned migration to an EU region.]",
+          "Google (Gemini API): AI text generation.",
+          "Vapi and its speech providers: voice consultations (speech recognition, voice and language model).",
+          "[Email provider]: password-reset and reminder emails.",
+          "[Crisis helpline organisation]: receives crisis alerts by email and contacts you under its own confidentiality duties."
+        ]
+      },
+      {
+        "heading": "6. International transfers",
+        "paragraphs": [
+          "Where a provider processes data outside the European Economic Area, we rely on an adequacy decision (such as the EU-US Data Privacy Framework) or Standard Contractual Clauses with supplementary measures. [List the mechanism used for each provider.]"
+        ]
+      },
+      {
+        "heading": "7. How long we keep data",
+        "bullets": [
+          "AI chat conversations: deleted automatically 24 hours after the last message.",
+          "Login sessions: deleted automatically when they expire.",
+          "Password-reset links: valid for one hour.",
+          "Crisis alert records: kept until you delete your account. Alert emails already delivered to the crisis helpline are kept by the helpline under its own policy. [State the helpline's retention period.]",
+          "All other account and health data: kept until you delete your account, then permanently erased from our active systems. [State the backup retention period.]"
+        ]
+      },
+      {
+        "heading": "8. Your rights",
+        "paragraphs": [
+          "Under the GDPR you have the right to:"
+        ],
+        "bullets": [
+          "Access your data and receive a copy: use “Download my data” in Account & privacy.",
+          "Data portability: the download is a machine-readable JSON file.",
+          "Erasure: use “Delete my account” to permanently erase your data.",
+          "Rectification: update your name and settings in Account & privacy, or contact us.",
+          "Withdraw consent at any time, without affecting processing before withdrawal.",
+          "Restrict or object to processing: contact us.",
+          "Lodge a complaint with a data-protection supervisory authority, in particular in the EU country where you live."
+        ]
+      },
+      {
+        "heading": "9. Security",
+        "paragraphs": [
+          "Data is encrypted in transit, passwords are stored as salted hashes, sessions can be revoked, access is restricted to your own account, and conversation content is never written to our logs."
+        ]
+      },
+      {
+        "heading": "10. Age",
+        "paragraphs": [
+          "MumWell is intended for adults aged 18 or over."
+        ]
+      },
+      {
+        "heading": "11. Changes",
+        "paragraphs": [
+          "If we make significant changes to this policy we will tell you in the app and, where required, ask for your consent again."
+        ]
+      }
+    ]
+  },
+  "terms": {
+    "eyebrow": "Terms of use",
+    "title": "Using MumWell safely",
+    "intro": "These terms explain what MumWell is, what it is not, and the responsibilities that come with using it.",
+    "sections": [
+      {
+        "heading": "1. What MumWell is",
+        "paragraphs": [
+          "MumWell is a digital wellbeing service that offers screening, AI-assisted conversations, voice consultations with AI specialists and a personal programme for mothers during pregnancy and after birth. It is provided by [Company legal name]."
+        ]
+      },
+      {
+        "heading": "2. Not a medical or emergency service",
+        "paragraphs": [
+          "MumWell does not diagnose, treat or provide medical advice, and it does not replace midwives, doctors or mental-health professionals. AI responses can be incomplete or wrong. Screening results are an indication only.",
+          "MumWell is not an emergency service. If you or your baby are in danger, or you are thinking about harming yourself, call 112 or your local emergency number immediately."
+        ]
+      },
+      {
+        "heading": "3. Who can use MumWell",
+        "paragraphs": [
+          "You must be 18 or older and give the consents requested at sign-up."
+        ]
+      },
+      {
+        "heading": "4. Your account",
+        "paragraphs": [
+          "Keep your password confidential and tell us if you think your account has been accessed without permission. You can delete your account at any time."
+        ]
+      },
+      {
+        "heading": "5. Acceptable use",
+        "paragraphs": [
+          "Do not misuse the service, attempt to access other people's data, disrupt the service or use it to generate harmful content."
+        ]
+      },
+      {
+        "heading": "6. Availability and changes",
+        "paragraphs": [
+          "We work to keep MumWell available but cannot guarantee uninterrupted access. We may update features and these terms; significant changes will be announced in the app."
+        ]
+      },
+      {
+        "heading": "7. Liability",
+        "paragraphs": [
+          "Nothing in these terms limits liability that cannot be limited under applicable law, including your statutory consumer rights. [Complete in line with the governing law.]"
+        ]
+      },
+      {
+        "heading": "8. Governing law",
+        "paragraphs": [
+          "These terms are governed by the laws of [country]. [Add dispute-resolution details.]"
+        ]
+      }
+    ]
+  }
+}

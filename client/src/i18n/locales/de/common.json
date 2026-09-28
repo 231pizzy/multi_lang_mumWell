@@ -1,0 +1,150 @@
+{
+  "meta": {
+    "title": "MumWell · Unterstützung für die psychische Gesundheit jeder Mutter"
+  },
+  "brand": {
+    "tagline": "Perinatale psychische Gesundheit"
+  },
+  "nav": {
+    "about": "Über uns",
+    "features": "Funktionen",
+    "article": "Wochenbettdepression verstehen",
+    "contact": "Kontakt",
+    "dashboard": "Übersicht",
+    "test": "Screening",
+    "consultation": "Sprachberatung",
+    "chat": "KI-Chat",
+    "program": "Mein Programm",
+    "emergency": "Hilfe finden",
+    "signIn": "Anmelden",
+    "getStarted": "Jetzt starten",
+    "signOut": "Abmelden",
+    "notifications": "Erinnerungen",
+    "account": "Konto & Datenschutz",
+    "openMenu": "Menü öffnen",
+    "closeMenu": "Menü schließen",
+    "accountMenu": "Kontomenü",
+    "main": "Hauptnavigation",
+    "mobile": "Mobile Navigation",
+    "skipToContent": "Zum Inhalt springen"
+  },
+  "language": {
+    "label": "Sprache",
+    "choose": "Sprache wählen"
+  },
+  "theme": {
+    "toggle": "Zwischen hellem und dunklem Design wechseln"
+  },
+  "actions": {
+    "continue": "Weiter",
+    "back": "Zurück",
+    "next": "Weiter",
+    "cancel": "Abbrechen",
+    "save": "Speichern",
+    "saving": "Wird gespeichert…",
+    "close": "Schließen",
+    "tryAgain": "Erneut versuchen",
+    "done": "Fertig",
+    "refresh": "Aktualisieren",
+    "backHome": "Zur Startseite",
+    "backToDashboard": "Zurück zur Übersicht",
+    "loading": "Wird geladen…"
+  },
+  "errors": {
+    "generic": "Etwas ist schiefgelaufen. Bitte versuche es erneut.",
+    "network": "MumWell ist gerade nicht erreichbar. Prüfe deine Verbindung und versuche es erneut.",
+    "timeout": "Die Anfrage hat zu lange gedauert. Bitte versuche es erneut."
+  },
+  "footer": {
+    "tagline": "Evidenzbasierte, KI-gestützte Unterstützung für Mütter in der Schwangerschaft und im ersten Jahr nach der Geburt.",
+    "rights": "© {{year}} MumWell. Alle Rechte vorbehalten.",
+    "disclaimer": "MumWell ergänzt professionelle Versorgung, ersetzt sie aber nicht. Im Notfall wähle deine örtliche Notrufnummer.",
+    "product": "Angebot",
+    "support": "Hilfe",
+    "legal": "Rechtliches",
+    "privacy": "Datenschutzerklärung",
+    "terms": "Nutzungsbedingungen",
+    "getHelp": "Krisen-Hotlines",
+    "noTracking": "Keine Werbe- oder Tracking-Cookies. Datenschutz nach DSGVO-Standard.",
+    "photos": "Fotos: {{names}} über",
+    "crisisTitle": "Brauchst du jetzt Hilfe?",
+    "crisisBody": "Wenn du oder dein Baby in Gefahr seid, wähle deine örtliche Notrufnummer oder finde eine Hotline für dein Land.",
+    "languagesTitle": "Sprachen",
+    "poweredBy": "Betrieben von"
+  },
+  "ai": {
+    "disclosure": "Du sprichst mit einer KI, nicht mit einem Menschen. Sie kann Fehler machen und ersetzt keine professionelle Versorgung."
+  },
+  "crisis": {
+    "compactTitle": "Du musst das nicht allein durchstehen.",
+    "compactBody": "Wenn du daran denkst, dir oder deinem Baby etwas anzutun, oder dich nicht sicher fühlst, wähle jetzt deine örtliche Notrufnummer oder wende dich an eine Vertrauensperson in deiner Nähe.",
+    "seeHelplines": "Krisen-Hotlines ansehen",
+    "title": "Brauchst du jetzt Hilfe?",
+    "intro": "Wenn du in akuter Gefahr bist oder daran denkst, dir oder deinem Baby etwas anzutun, wende dich jetzt an den Notruf oder eine Krisen-Hotline. Eine Wochenbettdepression ist häufig und gut behandelbar, und um Hilfe zu bitten ist ein Zeichen von Stärke.",
+    "emergencyLabel": "Notruf",
+    "supportLabel": "Europäisches Sorgentelefon",
+    "supportNote": "Die 116 123 ist in vielen europäischen Ländern erreichbar.",
+    "countryLabel": "Hotlines anzeigen für",
+    "elsewhere": "Woanders? Eine kostenlose, vertrauliche Hotline findest du unter",
+    "countries": {
+      "SE": "Schweden",
+      "DE": "Deutschland",
+      "AT": "Österreich",
+      "CH": "Schweiz",
+      "FR": "Frankreich",
+      "BE": "Belgien",
+      "ES": "Spanien",
+      "IE": "Irland",
+      "GB": "Vereinigtes Königreich",
+      "NL": "Niederlande",
+      "US": "USA",
+      "CA": "Kanada",
+      "AU": "Australien",
+      "NZ": "Neuseeland",
+      "NG": "Nigeria"
+    },
+    "notes": {
+      "free247": "Rund um die Uhr, kostenlos",
+      "always": "Rund um die Uhr",
+      "mindChat": "Auch per Chat auf mind.se",
+      "healthAdvice": "Gesundheitsberatung rund um die Uhr",
+      "medicalEmergency": "Medizinischer Notfall",
+      "dutch247": "Auf Niederländisch, rund um die Uhr",
+      "french247": "Auf Französisch, rund um die Uhr",
+      "urgentEngland": "Dringende Hilfe bei psychischen Krisen (England)",
+      "callOrText247": "Anruf oder SMS, rund um die Uhr",
+      "perinatal": "Unterstützung bei perinatalen psychischen Krisen",
+      "also112": "112 funktioniert auch",
+      "also112Mobile": "112 funktioniert auch vom Handy",
+      "allEu": "Alle 27 EU-Länder"
+    },
+    "noLocalHelplines": "Für dein Land haben wir noch keine Hotline-Nummern. Bitte wähle deine örtliche Notrufnummer oder ein Nachbarland unten.",
+    "call": "Anrufen",
+    "callNumber": "{{number}} anrufen, Notrufnummer: {{country}}",
+    "directoryTitle": "Notrufnummern nach Land",
+    "directoryIntro": "Wenn du oder dein Baby in unmittelbarer Gefahr seid, wähle sofort die Notrufnummer des Landes, in dem du dich befindest. Tippe auf eine Nummer, um anzurufen.",
+    "euTitle": "Europäische Union"
+  },
+  "notFound": {
+    "title": "Diese Seite haben wir nicht gefunden",
+    "body": "Die Seite wurde möglicherweise verschoben oder der Link ist fehlerhaft."
+  },
+  "consentGate": {
+    "title": "Bevor es weitergeht",
+    "body": "Wir haben verbessert, wie wir dich schützen: Wenn du in unmittelbarer Gefahr zu sein scheinst, kann MumWell jetzt eine Krisen-Hotline benachrichtigen, damit sich jemand bei dir meldet. Bitte prüfe und bestätige die folgenden Punkte, um fortzufahren.",
+    "confirm": "Bestätigen und fortfahren",
+    "signOutInstead": "Stattdessen abmelden"
+  },
+  "consent": {
+    "terms": "Ich habe die <terms>Nutzungsbedingungen</terms> und die <privacy>Datenschutzerklärung</privacy> gelesen und akzeptiere sie.",
+    "health": "Ich willige ausdrücklich ein, dass MumWell Angaben zu meiner Gesundheit und meinem Wohlbefinden (z. B. Stimmung, Screening-Ergebnisse und Gespräche) verarbeitet, um den Dienst bereitzustellen. Ich kann diese Einwilligung jederzeit widerrufen, indem ich mein Konto lösche. Wenn ich in unmittelbarer Gefahr zu sein scheine, mir oder meinem Baby etwas anzutun, darf MumWell meine Kontaktdaten und die besorgniserregende Nachricht an seine Krisen-Hotline weitergeben, damit eine geschulte Person mich erreichen kann.",
+    "age": "Ich bin mindestens 18 Jahre alt.",
+    "required": "Bitte bestätige alle drei Punkte, um fortzufahren."
+  },
+  "supportBar": {
+    "text": "In einer Krise oder in Sorge um deine Sicherheit? Wähle deine örtliche Notrufnummer.",
+    "link": "Hotline finden"
+  },
+  "notYet": "Noch nicht",
+  "notAvailable": "Nicht verfügbar"
+}

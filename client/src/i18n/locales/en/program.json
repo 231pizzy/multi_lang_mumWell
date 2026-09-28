@@ -1,0 +1,141 @@
+{
+  "loadingTitle": "Preparing your programme…",
+  "loadingBody": "Just a moment while we personalise your wellbeing journey.",
+  "errorTitle": "Something went wrong",
+  "loadFailed": "We couldn't load your programme.",
+  "createFailed": "We couldn't create your programme. Please try again.",
+  "ready": "Your 90-day programme is ready!",
+  "readyTip": "Tip: turn on daily reminders in Reminder settings.",
+  "generating": "Creating your personalised 90-day programme. This usually takes about a minute, so please keep this page open.",
+  "pleaseWait": "Please wait",
+  "complete": {
+    "title": "You've completed your 90-day programme!",
+    "body": "That's a real achievement. Keep using what helped you, and start a new programme whenever you'd like continued support.",
+    "restart": "Start a new programme"
+  },
+  "checkinDone": {
+    "title": "Wellness check-in complete",
+    "body": "You've already recorded your mood, stress, sleep and energy today. You can continue to today's programme.",
+    "continue": "Go to today's programme"
+  },
+  "setup": {
+    "title": "Create your programme",
+    "intro": "A few short questions, one step at a time, so we can tailor 90 days of gentle support to you.",
+    "step": "Step {{step}} of 3",
+    "name": "Your name",
+    "age": "Age",
+    "ageError": "Please enter an age between 18 and 70.",
+    "pregnant": "Are you currently pregnant?",
+    "yes": "Yes",
+    "no": "No",
+    "children": "Number of children",
+    "support": "Who supports you?",
+    "supportOptions": {
+      "partner": "Partner",
+      "family": "Family",
+      "friends": "Friends"
+    },
+    "supportOther": "Other support",
+    "history": "Have you experienced mental health difficulties before?",
+    "historyNotes": "Anything you'd like us to know (optional)",
+    "delivery": "Type of birth",
+    "deliveryPlaceholder": "Select",
+    "deliveryOptions": {
+      "vaginal": "Vaginal birth",
+      "c-section": "Caesarean section"
+    },
+    "weeks": "Weeks since birth",
+    "weeksPlaceholder": "Select",
+    "week": "Week {{week}}",
+    "create": "Create my programme",
+    "creating": "Creating programme…",
+    "privacy": "Your answers are used only to personalise your programme. Your name is never sent to the AI.",
+    "footer": "Your feelings matter. You're not alone."
+  },
+  "wellness": {
+    "title": "Daily wellness check-in",
+    "intro": "Take a gentle moment to notice how you are. There are no right answers.",
+    "step": "Step {{step}} of {{total}}",
+    "finish": "Finish",
+    "saved": "Check-in saved",
+    "savedBody": "Thank you for checking in today.",
+    "failed": "Couldn't save your check-in.",
+    "metrics": {
+      "mood": {
+        "title": "Mood",
+        "question": "How are you feeling emotionally today?",
+        "labels": [
+          "Very low",
+          "Low",
+          "Okay",
+          "Good",
+          "Great"
+        ]
+      },
+      "stress": {
+        "title": "Stress",
+        "question": "How much pressure or tension do you feel right now?",
+        "labels": [
+          "Very calm",
+          "Calm",
+          "Neutral",
+          "Stressed",
+          "Overwhelmed"
+        ]
+      },
+      "sleep": {
+        "title": "Sleep",
+        "question": "How well did you sleep last night?",
+        "labels": [
+          "Very poorly",
+          "Poorly",
+          "Okay",
+          "Well",
+          "Very well"
+        ]
+      },
+      "energy": {
+        "title": "Energy",
+        "question": "How much energy do you have today?",
+        "labels": [
+          "Very low",
+          "Low",
+          "Moderate",
+          "Good",
+          "High"
+        ]
+      }
+    }
+  },
+  "day": {
+    "progress": "Day {{day}} of {{total}} · Step {{step}} of 3",
+    "welcome": "Welcome back",
+    "theme": "Today's theme",
+    "objectives": "Today's objectives",
+    "tasks": "Today's tasks",
+    "tasksNote": "Do what feels possible today. Every small effort counts.",
+    "reflection": "Reflection",
+    "reflectionNote": "Take a moment to acknowledge your effort and how you feel.",
+    "reflectionPlaceholder": "Write your thoughts here…",
+    "reflectionLabel": "Your reflection",
+    "done": "Complete today",
+    "submitting": "Saving…",
+    "failed": "Couldn't save today's programme.",
+    "celebrateTitle": "Well done!",
+    "celebrateBody": "You've completed today's programme. You're doing an amazing job caring for yourself and your baby.",
+    "talkTitle": "Would you like to talk to someone?",
+    "talkBody": "One of our AI wellbeing consultants can talk with you about your mood, today's tasks or anything on your mind."
+  },
+  "consultants": {
+    "1": {
+      "specialist": "Perinatal psychologist",
+      "description": "Supports your emotions, stress, adjustment and bonding with evidence-based psychology.",
+      "firstMessage": "Hi, I'm your MumWell perinatal psychologist. How are you feeling after today's activities?"
+    },
+    "2": {
+      "specialist": "Wellbeing coach",
+      "description": "Helps you build small, realistic routines for rest, recovery and connection.",
+      "firstMessage": "Hello, I'm your MumWell wellbeing coach. How did today's tasks feel for you?"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Reminder settings",
+  "intro": "Gentle email reminders 1 hour, 30 minutes and 10 minutes before your daily wellness check-in.",
+  "needsProgram": "Reminders are part of your 90-day programme. <link>Create your programme</link> first, then come back to choose a time.",
+  "enable": "Email reminders",
+  "enableHint": "Turn reminders for your daily check-in on or off.",
+  "time": "Daily check-in time",
+  "timezone": "Time zone",
+  "save": "Save changes",
+  "saved": "Reminder settings updated.",
+  "saveFailed": "Couldn't update your settings. Please try again.",
+  "loadFailed": "Couldn't load your reminder settings."
+}

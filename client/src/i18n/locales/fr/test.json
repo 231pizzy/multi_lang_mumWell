@@ -1,0 +1,125 @@
+{
+  "title": "Échelle d'Édimbourg de dépression postnatale (EPDS)",
+  "intro": "Un questionnaire de dépistage largement utilisé pour évaluer le bien-être émotionnel pendant la grossesse et après la naissance. Il prend environ trois minutes. Il s'agit d'un dépistage, pas d'un diagnostic.",
+  "question": "Question {{current}} sur {{total}}",
+  "timeframe": "Au cours des 7 derniers jours…",
+  "previous": "Question précédente",
+  "score": "Votre score EPDS : {{score}} / 30",
+  "saved": "Votre résultat de dépistage a été enregistré.",
+  "saveFailed": "Nous n'avons pas pu enregistrer votre résultat.",
+  "retake": "Refaire le dépistage",
+  "shareNote": "N'hésitez pas à partager votre résultat avec votre sage-femme, votre médecin ou votre puéricultrice. Ils peuvent vous aider à décider de la suite.",
+  "footer": "Vos émotions comptent. Vous n'êtes pas seule.",
+  "levels": {
+    "Low Risk": "Risque faible",
+    "Mild Risk": "Symptômes légers possibles",
+    "High Risk": "Dépression possible : demandez du soutien"
+  },
+  "results": {
+    "low": {
+      "message": "Vos réponses indiquent peu de signes de dépression pour le moment. Continuez à privilégier le repos, le soutien et le soin de vous, et refaites le dépistage si les choses changent.",
+      "chat": "Échanger avec MumWell pour continuer à aller bien"
+    },
+    "mild": {
+      "message": "Vos réponses suggèrent quelques changements d'humeur. En parler à vos proches, à votre sage-femme ou à votre médecin peut aider, et il est utile de refaire le dépistage dans deux semaines.",
+      "chat": "En parler avec MumWell"
+    },
+    "high": {
+      "message": "Vos réponses suggèrent que vous pourriez traverser une dépression. Contactez rapidement votre sage-femme, votre médecin ou votre puéricultrice pour une évaluation. Un accompagnement aide vraiment.",
+      "chat": "Parler avec MumWell maintenant"
+    }
+  },
+  "questions": [
+    {
+      "q": "J'ai pu rire et prendre les choses du bon côté.",
+      "options": [
+        "Aussi souvent que d'habitude",
+        "Pas tout à fait autant",
+        "Vraiment beaucoup moins souvent ces jours-ci",
+        "Absolument pas"
+      ]
+    },
+    {
+      "q": "Je me suis sentie confiante et joyeuse en pensant à l'avenir.",
+      "options": [
+        "Autant que d'habitude",
+        "Plutôt moins que d'habitude",
+        "Vraiment moins que d'habitude",
+        "Pratiquement pas"
+      ]
+    },
+    {
+      "q": "Je me suis reproché, sans raison, d'être responsable quand les choses allaient mal.",
+      "options": [
+        "Non, pas du tout",
+        "Pas très souvent",
+        "Oui, parfois",
+        "Oui, la plupart du temps"
+      ]
+    },
+    {
+      "q": "Je me suis sentie inquiète ou soucieuse sans motif.",
+      "options": [
+        "Non, pas du tout",
+        "Presque jamais",
+        "Oui, parfois",
+        "Oui, très souvent"
+      ]
+    },
+    {
+      "q": "Je me suis sentie effrayée ou paniquée sans vraiment de raison.",
+      "options": [
+        "Non, pas du tout",
+        "Non, pas vraiment",
+        "Oui, parfois",
+        "Oui, vraiment souvent"
+      ]
+    },
+    {
+      "q": "J'ai eu tendance à me sentir dépassée par les événements.",
+      "options": [
+        "Non, j'ai pu faire face aussi bien que d'habitude",
+        "Non, la plupart du temps j'ai pu faire face à la situation",
+        "Oui, parfois je ne me suis pas sentie aussi capable de faire face que d'habitude",
+        "Oui, la plupart du temps je me suis sentie incapable de faire face à la situation"
+      ]
+    },
+    {
+      "q": "Je me suis sentie si malheureuse que j'ai eu des problèmes de sommeil.",
+      "options": [
+        "Non, pas du tout",
+        "Pas très souvent",
+        "Oui, parfois",
+        "Oui, la plupart du temps"
+      ]
+    },
+    {
+      "q": "Je me suis sentie triste ou peu heureuse.",
+      "options": [
+        "Non, pas du tout",
+        "Pas très souvent",
+        "Oui, assez souvent",
+        "Oui, la plupart du temps"
+      ]
+    },
+    {
+      "q": "Je me suis sentie si malheureuse que j'en ai pleuré.",
+      "options": [
+        "Non, jamais",
+        "Seulement de temps en temps",
+        "Oui, assez souvent",
+        "Oui, la plupart du temps"
+      ]
+    },
+    {
+      "q": "Il m'est arrivé de penser à me faire du mal.",
+      "options": [
+        "Jamais",
+        "Presque jamais",
+        "Parfois",
+        "Oui, très souvent"
+      ]
+    }
+  ],
+  "source": "EPDS : Cox, J.L., Holden, J.M. et Sagovsky, R. (1987). British Journal of Psychiatry, 150, 782–786."
+}

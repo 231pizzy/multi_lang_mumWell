@@ -1,0 +1,13 @@
+{
+  "title": "Inställningar för påminnelser",
+  "intro": "Varsamma påminnelser via e-post 1 timme, 30 minuter och 10 minuter före din dagliga incheckning.",
+  "needsProgram": "Påminnelser ingår i ditt 90-dagarsprogram. <link>Skapa ditt program</link> först och kom sedan tillbaka för att välja en tid.",
+  "enable": "Påminnelser via e-post",
+  "enableHint": "Slå på eller av påminnelser om din dagliga incheckning.",
+  "time": "Tid för daglig incheckning",
+  "timezone": "Tidszon",
+  "save": "Spara ändringar",
+  "saved": "Inställningarna för påminnelser har uppdaterats.",
+  "saveFailed": "Det gick inte att uppdatera inställningarna. Försök igen.",
+  "loadFailed": "Det gick inte att hämta dina inställningar för påminnelser."
+}

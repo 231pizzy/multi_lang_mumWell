@@ -1,0 +1,150 @@
+{
+  "meta": {
+    "title": "MumWell · Stöd för psykisk hälsa för varje mamma, kring graviditet och förlossning"
+  },
+  "brand": {
+    "tagline": "Perinatal psykisk hälsa"
+  },
+  "nav": {
+    "about": "Om oss",
+    "features": "Funktioner",
+    "article": "Om förlossningsdepression",
+    "contact": "Kontakt",
+    "dashboard": "Översikt",
+    "test": "Screening",
+    "consultation": "Röstkonsultation",
+    "chat": "AI-chatt",
+    "program": "Mitt program",
+    "emergency": "Få hjälp",
+    "signIn": "Logga in",
+    "getStarted": "Kom igång",
+    "signOut": "Logga ut",
+    "notifications": "Påminnelser",
+    "account": "Konto och integritet",
+    "openMenu": "Öppna menyn",
+    "closeMenu": "Stäng menyn",
+    "accountMenu": "Kontomeny",
+    "main": "Huvudmeny",
+    "mobile": "Mobilmeny",
+    "skipToContent": "Hoppa till innehållet"
+  },
+  "language": {
+    "label": "Språk",
+    "choose": "Välj språk"
+  },
+  "theme": {
+    "toggle": "Växla mellan ljust och mörkt tema"
+  },
+  "actions": {
+    "continue": "Fortsätt",
+    "back": "Tillbaka",
+    "next": "Nästa",
+    "cancel": "Avbryt",
+    "save": "Spara",
+    "saving": "Sparar…",
+    "close": "Stäng",
+    "tryAgain": "Försök igen",
+    "done": "Klar",
+    "refresh": "Uppdatera",
+    "backHome": "Tillbaka till startsidan",
+    "backToDashboard": "Tillbaka till översikten",
+    "loading": "Laddar…"
+  },
+  "errors": {
+    "generic": "Något gick fel. Försök igen.",
+    "network": "Vi når inte MumWell just nu. Kontrollera din anslutning och försök igen.",
+    "timeout": "Förfrågan tog för lång tid. Försök igen."
+  },
+  "footer": {
+    "tagline": "Evidensbaserat, AI-stött stöd för mammor under graviditeten och det första året efter förlossningen.",
+    "rights": "© {{year}} MumWell. Alla rättigheter förbehållna.",
+    "disclaimer": "MumWell kompletterar men ersätter inte professionell vård. Ring ditt lokala nödnummer i en nödsituation.",
+    "product": "Tjänsten",
+    "support": "Stöd",
+    "legal": "Juridiskt",
+    "privacy": "Integritetspolicy",
+    "terms": "Användarvillkor",
+    "getHelp": "Stödlinjer vid kris",
+    "noTracking": "Inga reklam- eller spårningskakor. Integriteten skyddas enligt GDPR-standard.",
+    "photos": "Foton: {{names}} via",
+    "crisisTitle": "Behöver du hjälp nu?",
+    "crisisBody": "Om du eller ditt barn är i fara, ring ditt lokala nödnummer eller hitta en stödlinje för ditt land.",
+    "languagesTitle": "Språk",
+    "poweredBy": "Drivs av"
+  },
+  "ai": {
+    "disclosure": "Du pratar med en AI, inte en människa. Den kan göra misstag och ersätter inte professionell vård."
+  },
+  "crisis": {
+    "compactTitle": "Du behöver inte gå igenom det här ensam.",
+    "compactBody": "Om du har tankar på att skada dig själv eller ditt barn, eller om du känner dig otrygg, ring ditt lokala nödnummer nu eller kontakta någon du litar på i närheten.",
+    "seeHelplines": "Se stödlinjer",
+    "title": "Behöver du hjälp just nu?",
+    "intro": "Om du är i akut fara, eller har tankar på att skada dig själv eller ditt barn, kontakta räddningstjänsten eller en stödlinje nu. Förlossningsdepression är vanligt och går att behandla, och att be om hjälp är ett tecken på styrka.",
+    "emergencyLabel": "Nödnummer",
+    "supportLabel": "Europeisk stödlinje för samtal",
+    "supportNote": "116 123 finns i många europeiska länder.",
+    "countryLabel": "Visa stödlinjer för",
+    "elsewhere": "Någon annanstans? Hitta en kostnadsfri, konfidentiell stödlinje på",
+    "countries": {
+      "SE": "Sverige",
+      "DE": "Tyskland",
+      "AT": "Österrike",
+      "CH": "Schweiz",
+      "FR": "Frankrike",
+      "BE": "Belgien",
+      "ES": "Spanien",
+      "IE": "Irland",
+      "GB": "Storbritannien",
+      "NL": "Nederländerna",
+      "US": "USA",
+      "CA": "Kanada",
+      "AU": "Australien",
+      "NZ": "Nya Zeeland",
+      "NG": "Nigeria"
+    },
+    "notes": {
+      "free247": "Dygnet runt, kostnadsfritt",
+      "always": "Dygnet runt",
+      "mindChat": "Erbjuder även chatt på mind.se",
+      "healthAdvice": "Sjukvårdsrådgivning dygnet runt",
+      "medicalEmergency": "Akut medicinsk nödsituation",
+      "dutch247": "På nederländska, dygnet runt",
+      "french247": "På franska, dygnet runt",
+      "urgentEngland": "Akut hjälp vid psykisk ohälsa (England)",
+      "callOrText247": "Ring eller sms:a, dygnet runt",
+      "perinatal": "Stöd för psykisk hälsa kring förlossning",
+      "also112": "112 fungerar också",
+      "also112Mobile": "112 fungerar också från mobiler",
+      "allEu": "Alla 27 EU-länder"
+    },
+    "noLocalHelplines": "Vi har ännu inga stödnummer för ditt land. Ring ditt lokala nödnummer, eller välj ett närliggande land nedan.",
+    "call": "Ring",
+    "callNumber": "Ring {{number}}, nödnummer i {{country}}",
+    "directoryTitle": "Nödnummer per land",
+    "directoryIntro": "Om du eller ditt barn är i omedelbar fara, ring nödnumret i det land där du befinner dig. Tryck på ett nummer för att ringa.",
+    "euTitle": "Europeiska unionen"
+  },
+  "notFound": {
+    "title": "Vi hittade inte sidan",
+    "body": "Sidan kan ha flyttats eller så är länken felaktig."
+  },
+  "consentGate": {
+    "title": "Innan du fortsätter",
+    "body": "Vi har förbättrat hur vi skyddar dig: om du verkar vara i omedelbar fara kan MumWell nu larma en krisstödlinje så att någon kan kontakta dig. Läs igenom och bekräfta punkterna nedan för att fortsätta.",
+    "confirm": "Bekräfta och fortsätt",
+    "signOutInstead": "Logga ut i stället"
+  },
+  "consent": {
+    "terms": "Jag har läst och godkänner <terms>användarvillkoren</terms> och <privacy>integritetspolicyn</privacy>.",
+    "health": "Jag samtycker uttryckligen till att MumWell behandlar uppgifter om min hälsa och mitt välmående (till exempel humör, screeningresultat och samtal) för att kunna tillhandahålla tjänsten. Jag kan när som helst återkalla samtycket genom att radera mitt konto. Om jag verkar vara i omedelbar fara att skada mig själv eller mitt barn får MumWell dela mina kontaktuppgifter och meddelandet som väckte oro med sin krisstödlinje, så att en utbildad person kan nå mig.",
+    "age": "Jag är 18 år eller äldre.",
+    "required": "Bekräfta alla tre punkterna för att fortsätta."
+  },
+  "supportBar": {
+    "text": "I kris eller orolig för din säkerhet? Ring ditt lokala nödnummer.",
+    "link": "Hitta en stödlinje"
+  },
+  "notYet": "Inte än",
+  "notAvailable": "Saknas"
+}

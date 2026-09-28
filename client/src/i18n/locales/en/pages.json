@@ -1,0 +1,111 @@
+{
+  "about": {
+    "eyebrow": "About MumWell",
+    "title": "Every mother deserves to be heard",
+    "intro": "MumWell is a perinatal mental health platform supporting mothers through pregnancy, postpartum depression and the everyday challenges of early parenthood. We combine validated screening, an empathetic AI companion and personalised programmes so help is there the moment it's needed, in the mother's own language.",
+    "sections": [
+      {
+        "title": "Our mission",
+        "body": "To make accessible, empathetic and evidence-informed perinatal mental health support available to every mother, wherever she lives and whatever language she speaks."
+      },
+      {
+        "title": "Our vision",
+        "body": "A world where no mother struggles alone: where symptoms are recognised early, where asking for help carries no stigma, and where every family can thrive."
+      },
+      {
+        "title": "Why it matters",
+        "body": "Perinatal mental health problems are among the most common complications of pregnancy and the year after birth. Early detection and support improve outcomes not only for mothers, but for their babies, partners and whole families."
+      },
+      {
+        "title": "How we help",
+        "body": "Mothers can complete the EPDS screening, talk with our AI companion at any hour, follow a 90-day programme and speak by voice with AI specialists. Every step points towards professional care when it's needed."
+      },
+      {
+        "title": "Working with the care system",
+        "body": "MumWell is designed to complement midwives, health visitors, GPs and perinatal mental health teams. It helps mothers recognise when to seek help and arrive at appointments with a clearer picture of how they have been feeling."
+      }
+    ],
+    "valuesTitle": "What guides us",
+    "values": [
+      "Compassion",
+      "Safety",
+      "Privacy",
+      "Inclusion",
+      "Evidence"
+    ]
+  },
+  "features": {
+    "eyebrow": "Features",
+    "title": "Everything a new mother needs, in one calm place",
+    "intro": "MumWell brings together the tools that matter most in the perinatal period. They are designed with care, available in five languages and protected to the strictest international privacy standards.",
+    "detailTitle": "Also included",
+    "details": [
+      {
+        "title": "Mood and activity tracking",
+        "body": "Quick daily check-ins and personal insights that reveal patterns over time."
+      },
+      {
+        "title": "Relaxation exercises",
+        "body": "Guided breathing, a zen garden and calming nature soundscapes for anxious moments."
+      },
+      {
+        "title": "Gentle reminders",
+        "body": "Optional email reminders for your daily check-in, at a time that suits you."
+      },
+      {
+        "title": "Written consultation reports",
+        "body": "A clear summary after each voice consultation that you can print or share with your care team."
+      },
+      {
+        "title": "Crisis support",
+        "body": "Automatic detection of crisis language, with emergency and helpline numbers for your country."
+      },
+      {
+        "title": "Your data, your control",
+        "body": "Download everything we store about you, or delete your account permanently, whenever you like."
+      }
+    ]
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "We're here to help",
+    "intro": "Questions about MumWell, partnerships or research collaborations? Get in touch. If you need urgent support, use the helplines below.",
+    "emailLabel": "Email",
+    "privacyLabel": "Privacy & data protection",
+    "responseTime": "We aim to reply within two working days.",
+    "faqTitle": "Frequently asked questions",
+    "faqs": [
+      {
+        "q": "Is MumWell a replacement for my midwife or doctor?",
+        "a": "No. MumWell supports your wellbeing between appointments and helps you recognise when to seek help, but it does not diagnose or treat. Please stay in touch with your midwife, GP or health visitor."
+      },
+      {
+        "q": "How do I start a consultation?",
+        "a": "Sign in, then start a chat or a voice consultation from your dashboard. Both are available at any time."
+      },
+      {
+        "q": "Which languages can I use?",
+        "a": "The whole app, including the AI chat, voice consultations and emails, works in English, Swedish, German, French and Spanish. Change language at any time with the globe icon."
+      },
+      {
+        "q": "Is my data safe?",
+        "a": "We only collect what's needed to support you, ask for your explicit consent before processing health information, and never sell data or use advertising trackers. You can download or permanently delete your data from your account settings."
+      },
+      {
+        "q": "What happens if I say I'm in crisis?",
+        "a": "The AI is instructed to respond with care and to encourage you to contact emergency services or a crisis line straight away, and the app shows helpline numbers. MumWell is not an emergency service. In an emergency, call your local emergency number."
+      }
+    ]
+  },
+  "article": {
+    "eyebrow": "Understanding postpartum depression",
+    "title": "Signs, support and the path to recovery",
+    "intro": "Postpartum depression is common, it is not your fault, and it is treatable. This guide explains what to look out for and where to find help.",
+    "readTime": "6 min read",
+    "reviewNote": "This article is general information and does not replace advice from a health professional."
+  },
+  "notFound": {
+    "title": "We couldn't find that page",
+    "body": "The page may have moved or the link may be incorrect."
+  }
+}

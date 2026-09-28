@@ -1,0 +1,150 @@
+{
+  "meta": {
+    "title": "MumWell · Perinatal mental health support for every mother"
+  },
+  "brand": {
+    "tagline": "Perinatal mental health"
+  },
+  "nav": {
+    "about": "About",
+    "features": "Features",
+    "article": "Understanding PPD",
+    "contact": "Contact",
+    "dashboard": "Dashboard",
+    "test": "Screening",
+    "consultation": "Voice consultation",
+    "chat": "AI chat",
+    "program": "My programme",
+    "emergency": "Get help",
+    "signIn": "Sign in",
+    "getStarted": "Get started",
+    "signOut": "Sign out",
+    "notifications": "Reminders",
+    "account": "Account & privacy",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "accountMenu": "Account menu",
+    "main": "Main",
+    "mobile": "Mobile",
+    "skipToContent": "Skip to content"
+  },
+  "language": {
+    "label": "Language",
+    "choose": "Choose language"
+  },
+  "theme": {
+    "toggle": "Toggle light or dark theme"
+  },
+  "actions": {
+    "continue": "Continue",
+    "back": "Back",
+    "next": "Next",
+    "cancel": "Cancel",
+    "save": "Save",
+    "saving": "Saving…",
+    "close": "Close",
+    "tryAgain": "Try again",
+    "done": "Done",
+    "refresh": "Refresh",
+    "backHome": "Back to home",
+    "backToDashboard": "Back to dashboard",
+    "loading": "Loading…"
+  },
+  "errors": {
+    "generic": "Something went wrong. Please try again.",
+    "network": "Can't reach MumWell right now. Check your connection and try again.",
+    "timeout": "The request took too long. Please try again."
+  },
+  "footer": {
+    "tagline": "Evidence-informed, AI-assisted support for mothers during pregnancy and the first year after birth.",
+    "rights": "© {{year}} MumWell. All rights reserved.",
+    "disclaimer": "MumWell supports but does not replace professional care. In an emergency, call your local emergency number.",
+    "product": "Product",
+    "support": "Support",
+    "legal": "Legal",
+    "privacy": "Privacy policy",
+    "terms": "Terms of use",
+    "getHelp": "Crisis helplines",
+    "noTracking": "No advertising or tracking cookies. Privacy protected to GDPR standards.",
+    "photos": "Photos: {{names}} via",
+    "crisisTitle": "Need help right now?",
+    "crisisBody": "If you or your baby are in danger, call your local emergency number or find a helpline for your country.",
+    "languagesTitle": "Languages",
+    "poweredBy": "Powered by"
+  },
+  "ai": {
+    "disclosure": "You are talking to an AI, not a human. It can make mistakes and does not replace professional care."
+  },
+  "crisis": {
+    "compactTitle": "You don't have to go through this alone.",
+    "compactBody": "If you are thinking about harming yourself or your baby, or you feel unsafe, call your local emergency number now or reach out to someone you trust nearby.",
+    "seeHelplines": "See crisis helplines",
+    "title": "Need help right now?",
+    "intro": "If you are in immediate danger, or thinking about harming yourself or your baby, contact emergency services or a crisis line now. Postpartum depression is common and treatable, and reaching out is a sign of strength.",
+    "emergencyLabel": "Emergency services",
+    "supportLabel": "European emotional support line",
+    "supportNote": "116 123 is available in many European countries.",
+    "countryLabel": "Show helplines for",
+    "elsewhere": "Somewhere else? Find a free, confidential helpline at",
+    "countries": {
+      "SE": "Sweden",
+      "DE": "Germany",
+      "AT": "Austria",
+      "CH": "Switzerland",
+      "FR": "France",
+      "BE": "Belgium",
+      "ES": "Spain",
+      "IE": "Ireland",
+      "GB": "United Kingdom",
+      "NL": "Netherlands",
+      "US": "United States",
+      "CA": "Canada",
+      "AU": "Australia",
+      "NZ": "New Zealand",
+      "NG": "Nigeria"
+    },
+    "notes": {
+      "free247": "24/7, free",
+      "always": "24/7",
+      "mindChat": "Also offers chat at mind.se",
+      "healthAdvice": "Healthcare advice, 24/7",
+      "medicalEmergency": "Medical emergency",
+      "dutch247": "In Dutch, 24/7",
+      "french247": "In French, 24/7",
+      "urgentEngland": "Urgent mental health help (England)",
+      "callOrText247": "Call or text, 24/7",
+      "perinatal": "Perinatal mental health support",
+      "also112": "112 also works",
+      "also112Mobile": "112 also works from mobiles",
+      "allEu": "All 27 EU countries"
+    },
+    "noLocalHelplines": "We don't have helpline numbers for your country yet. Please call your local emergency number, or choose a nearby country below.",
+    "call": "Call",
+    "callNumber": "Call {{number}}, emergency number in {{country}}",
+    "directoryTitle": "Emergency numbers by country",
+    "directoryIntro": "If you or your baby are in immediate danger, call the emergency number for the country you are in right now. Tap a number to call.",
+    "euTitle": "European Union"
+  },
+  "notFound": {
+    "title": "We couldn't find that page",
+    "body": "The page may have moved or the link may be incorrect."
+  },
+  "consentGate": {
+    "title": "Before you continue",
+    "body": "We've updated how we keep you safe: if you appear to be at immediate risk, MumWell can now alert a crisis helpline so someone can contact you. Please review and confirm the points below to continue.",
+    "confirm": "Confirm and continue",
+    "signOutInstead": "Sign out instead"
+  },
+  "consent": {
+    "terms": "I have read and accept the <terms>Terms of use</terms> and <privacy>Privacy policy</privacy>.",
+    "health": "I explicitly consent to MumWell processing information about my health and wellbeing (such as mood, screening results and conversations) to provide the service. I can withdraw this consent at any time by deleting my account. If I appear to be at immediate risk of harming myself or my baby, MumWell may share my contact details and the message that raised concern with its crisis helpline so that a trained person can reach me.",
+    "age": "I am 18 years or older.",
+    "required": "Please confirm all three points to continue."
+  },
+  "supportBar": {
+    "text": "In crisis or worried about your safety? Call your local emergency number.",
+    "link": "Find a helpline"
+  },
+  "notYet": "Not yet",
+  "notAvailable": "Not available"
+}

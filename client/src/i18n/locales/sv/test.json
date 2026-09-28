@@ -1,0 +1,125 @@
+{
+  "title": "Edinburgh Postnatal Depression Scale (EPDS)",
+  "intro": "Ett välkänt screeningformulär för känslomässigt välmående under graviditeten och efter förlossningen. Det tar ungefär tre minuter. Det är en screening, ingen diagnos.",
+  "question": "Fråga {{current}} av {{total}}",
+  "timeframe": "Under de senaste 7 dagarna…",
+  "previous": "Föregående fråga",
+  "score": "Din EPDS-poäng: {{score}} / 30",
+  "saved": "Ditt screeningresultat har sparats.",
+  "saveFailed": "Vi kunde inte spara ditt resultat.",
+  "retake": "Gör screeningen igen",
+  "shareNote": "Dela gärna resultatet med din barnmorska, läkare eller BVC-sköterska. De kan hjälpa dig att bestämma nästa steg.",
+  "footer": "Dina känslor är viktiga. Du är inte ensam.",
+  "levels": {
+    "Low Risk": "Låg risk",
+    "Mild Risk": "Möjliga lindriga symtom",
+    "High Risk": "Möjlig depression: sök stöd"
+  },
+  "results": {
+    "low": {
+      "message": "Dina svar tyder på få tecken på depression just nu. Fortsätt att prioritera vila, stöd och egenvård, och gör screeningen igen om något förändras.",
+      "chat": "Prata med MumWell om hur du fortsätter må bra"
+    },
+    "mild": {
+      "message": "Dina svar tyder på vissa humörförändringar. Det kan hjälpa att prata med någon nära dig, din barnmorska eller läkare, och att göra screeningen igen om två veckor.",
+      "chat": "Prata igenom det med MumWell"
+    },
+    "high": {
+      "message": "Dina svar tyder på att du kan ha en depression. Kontakta din barnmorska, läkare eller BVC-sköterska snart för en ordentlig bedömning. Stöd hjälper verkligen.",
+      "chat": "Prata med MumWell nu"
+    }
+  },
+  "questions": [
+    {
+      "q": "Jag har kunnat skratta och se det roliga i saker och ting.",
+      "options": [
+        "Lika mycket som jag alltid kunnat",
+        "Inte riktigt lika mycket nu",
+        "Absolut inte så mycket nu",
+        "Inte alls"
+      ]
+    },
+    {
+      "q": "Jag har sett fram emot saker med glädje.",
+      "options": [
+        "Lika mycket som förut",
+        "Något mindre än jag brukade",
+        "Absolut mindre än jag brukade",
+        "Knappast alls"
+      ]
+    },
+    {
+      "q": "Jag har klandrat mig själv i onödan när saker har gått fel.",
+      "options": [
+        "Nej, aldrig",
+        "Inte särskilt ofta",
+        "Ja, ibland",
+        "Ja, för det mesta"
+      ]
+    },
+    {
+      "q": "Jag har varit orolig eller bekymrad utan särskild anledning.",
+      "options": [
+        "Nej, inte alls",
+        "Nästan aldrig",
+        "Ja, ibland",
+        "Ja, väldigt ofta"
+      ]
+    },
+    {
+      "q": "Jag har känt mig rädd eller panikslagen utan särskild anledning.",
+      "options": [
+        "Nej, inte alls",
+        "Nej, inte särskilt",
+        "Ja, ibland",
+        "Ja, ganska mycket"
+      ]
+    },
+    {
+      "q": "Det har blivit för mycket för mig.",
+      "options": [
+        "Nej, jag har klarat mig lika bra som vanligt",
+        "Nej, för det mesta har jag klarat mig ganska bra",
+        "Ja, ibland har jag inte klarat mig så bra som vanligt",
+        "Ja, för det mesta har jag inte klarat mig alls"
+      ]
+    },
+    {
+      "q": "Jag har varit så ledsen att jag haft svårt att sova.",
+      "options": [
+        "Nej, inte alls",
+        "Inte särskilt ofta",
+        "Ja, ibland",
+        "Ja, för det mesta"
+      ]
+    },
+    {
+      "q": "Jag har känt mig nedstämd eller olycklig.",
+      "options": [
+        "Nej, inte alls",
+        "Inte särskilt ofta",
+        "Ja, ganska ofta",
+        "Ja, för det mesta"
+      ]
+    },
+    {
+      "q": "Jag har varit så olycklig att jag har gråtit.",
+      "options": [
+        "Nej, aldrig",
+        "Bara någon gång",
+        "Ja, ganska ofta",
+        "Ja, för det mesta"
+      ]
+    },
+    {
+      "q": "Tanken på att skada mig själv har slagit mig.",
+      "options": [
+        "Aldrig",
+        "Nästan aldrig",
+        "Ibland",
+        "Ja, ganska ofta"
+      ]
+    }
+  ],
+  "source": "EPDS: Cox, J.L., Holden, J.M. och Sagovsky, R. (1987). British Journal of Psychiatry, 150, 782–786."
+}

@@ -1,0 +1,125 @@
+{
+  "title": "Edinburgh Postnatal Depression Scale (EPDS)",
+  "intro": "A widely used screening questionnaire for emotional wellbeing during pregnancy and after birth. It takes about three minutes. It is a screening, not a diagnosis.",
+  "question": "Question {{current}} of {{total}}",
+  "timeframe": "Over the past 7 days…",
+  "previous": "Previous question",
+  "score": "Your EPDS score: {{score}} / 30",
+  "saved": "Your screening result has been saved.",
+  "saveFailed": "We couldn't save your result.",
+  "retake": "Retake the screening",
+  "shareNote": "Consider sharing your result with your midwife, GP or health visitor. They can help you decide on next steps.",
+  "footer": "Your feelings matter. You're not alone.",
+  "levels": {
+    "Low Risk": "Low risk",
+    "Mild Risk": "Possible mild symptoms",
+    "High Risk": "Possible depression: please seek support"
+  },
+  "results": {
+    "low": {
+      "message": "Your answers suggest few signs of depression right now. Keep prioritising rest, support and self-care, and check in again if things change.",
+      "chat": "Talk with MumWell about staying well"
+    },
+    "mild": {
+      "message": "Your answers suggest some mood changes. Talking to people close to you, your midwife or GP can help, and it's worth repeating the screening in two weeks.",
+      "chat": "Talk it through with MumWell"
+    },
+    "high": {
+      "message": "Your answers suggest you may be experiencing depression. Please contact your midwife, GP or health visitor soon for a proper assessment. Support really helps.",
+      "chat": "Talk with MumWell now"
+    }
+  },
+  "questions": [
+    {
+      "q": "I have been able to laugh and see the funny side of things.",
+      "options": [
+        "As much as I always could",
+        "Not quite so much now",
+        "Definitely not so much now",
+        "Not at all"
+      ]
+    },
+    {
+      "q": "I have looked forward with enjoyment to things.",
+      "options": [
+        "As much as I ever did",
+        "Rather less than I used to",
+        "Definitely less than I used to",
+        "Hardly at all"
+      ]
+    },
+    {
+      "q": "I have blamed myself unnecessarily when things went wrong.",
+      "options": [
+        "No, never",
+        "Not very often",
+        "Yes, sometimes",
+        "Yes, most of the time"
+      ]
+    },
+    {
+      "q": "I have been anxious or worried for no good reason.",
+      "options": [
+        "No, not at all",
+        "Hardly ever",
+        "Yes, sometimes",
+        "Yes, very often"
+      ]
+    },
+    {
+      "q": "I have felt scared or panicky for no good reason.",
+      "options": [
+        "No, not at all",
+        "No, not much",
+        "Yes, sometimes",
+        "Yes, quite a lot"
+      ]
+    },
+    {
+      "q": "Things have been getting on top of me.",
+      "options": [
+        "No, I have been coping as well as ever",
+        "No, most of the time I have coped quite well",
+        "Yes, sometimes I haven't been coping as well as usual",
+        "Yes, most of the time I haven't been able to cope at all"
+      ]
+    },
+    {
+      "q": "I have been so unhappy that I have had difficulty sleeping.",
+      "options": [
+        "No, not at all",
+        "Not very often",
+        "Yes, sometimes",
+        "Yes, most of the time"
+      ]
+    },
+    {
+      "q": "I have felt sad or miserable.",
+      "options": [
+        "No, not at all",
+        "Not very often",
+        "Yes, quite often",
+        "Yes, most of the time"
+      ]
+    },
+    {
+      "q": "I have been so unhappy that I have been crying.",
+      "options": [
+        "No, never",
+        "Only occasionally",
+        "Yes, quite often",
+        "Yes, most of the time"
+      ]
+    },
+    {
+      "q": "The thought of harming myself has occurred to me.",
+      "options": [
+        "Never",
+        "Hardly ever",
+        "Sometimes",
+        "Yes, quite often"
+      ]
+    }
+  ],
+  "source": "EPDS: Cox, J.L., Holden, J.M., & Sagovsky, R. (1987). British Journal of Psychiatry, 150, 782–786."
+}

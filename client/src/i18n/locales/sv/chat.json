@@ -1,0 +1,37 @@
+{
+  "title": "MumWell-följeslagaren",
+  "sessions": "Samtal",
+  "showSessions": "Samtal",
+  "closeSessions": "Stäng samtal",
+  "newSession": "Nytt samtal",
+  "noSessions": "Inga tidigare samtal ännu.",
+  "newChat": "Nytt samtal",
+  "noMessages": "Inga meddelanden ännu",
+  "messageCount_one": "{{count}} meddelande",
+  "messageCount_other": "{{count}} meddelanden",
+  "justNow": "Just nu",
+  "you": "Du",
+  "assistant": "MumWell",
+  "typing": "Skriver…",
+  "welcomeTitle": "Hej, jag finns här för dig",
+  "welcomeBody": "Det här är en trygg plats där du kan dela det du bär på, stort som smått. Hur mår du i dag?",
+  "starters": [
+    "Jag har känt mig överväldigad på sistone",
+    "Jag kan inte sova, inte ens när bebisen sover",
+    "Jag känner mig skyldig hela tiden",
+    "Jag behöver bara någon att prata med"
+  ],
+  "placeholder": "Skriv det du tänker på…",
+  "message": "Meddelande",
+  "send": "Skicka meddelande",
+  "hint": "Enter för att skicka · Skift + Enter för ny rad",
+  "privacy": "Samtalen raderas automatiskt 24 timmar efter ditt senaste meddelande.",
+  "missing": "Det här samtalet finns inte längre. För att skydda din integritet raderas samtal 24 timmar efter det senaste meddelandet.",
+  "startNew": "Starta ett nytt samtal",
+  "errors": {
+    "create": "Det gick inte att starta ett nytt samtal.",
+    "list": "Det gick inte att hämta dina tidigare samtal.",
+    "load": "Det gick inte att hämta samtalet.",
+    "send": "Jag har svårt att ansluta just nu. Försök igen."
+  }
+}

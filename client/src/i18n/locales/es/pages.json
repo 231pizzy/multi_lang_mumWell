@@ -1,0 +1,111 @@
+{
+  "about": {
+    "eyebrow": "Sobre MumWell",
+    "title": "Toda madre merece ser escuchada",
+    "intro": "MumWell es una plataforma de salud mental perinatal que acompaña a las madres durante el embarazo, la depresión posparto y los retos diarios de la crianza temprana. Combinamos un cribado validado, una compañía de IA empática y programas personalizados para que la ayuda esté ahí en el momento en que se necesita, en el idioma de cada madre.",
+    "sections": [
+      {
+        "title": "Nuestra misión",
+        "body": "Hacer que un apoyo en salud mental perinatal accesible, empático y basado en la evidencia llegue a todas las madres, vivan donde vivan y hablen el idioma que hablen."
+      },
+      {
+        "title": "Nuestra visión",
+        "body": "Un mundo en el que ninguna madre luche sola: donde los síntomas se detecten a tiempo, pedir ayuda no suponga un estigma y cada familia pueda prosperar."
+      },
+      {
+        "title": "Por qué es importante",
+        "body": "Los problemas de salud mental son de las complicaciones más frecuentes del embarazo y del año posterior al parto. Detectarlos y acompañarlos pronto mejora la situación no solo de las madres, sino también de sus bebés, sus parejas y toda la familia."
+      },
+      {
+        "title": "Cómo ayudamos",
+        "body": "Las madres pueden hacer el cribado EPDS, hablar a cualquier hora con nuestra compañía de IA, seguir un programa de 90 días y hablar por voz con especialistas de IA. Cada paso orienta hacia la atención profesional cuando hace falta."
+      },
+      {
+        "title": "Junto al sistema sanitario",
+        "body": "MumWell está pensado para complementar a matronas, enfermeras pediátricas, médicos de familia y equipos de salud mental perinatal, ayudando a las madres a saber cuándo pedir ayuda y a llegar a las consultas con una idea más clara de cómo se han sentido."
+      }
+    ],
+    "valuesTitle": "Lo que nos guía",
+    "values": [
+      "Compasión",
+      "Seguridad",
+      "Privacidad",
+      "Inclusión",
+      "Evidencia"
+    ]
+  },
+  "features": {
+    "eyebrow": "Funciones",
+    "title": "Todo lo que una madre reciente necesita, en un lugar sereno",
+    "intro": "MumWell reúne las herramientas más importantes del periodo perinatal: diseñadas con cuidado, disponibles en cinco idiomas y protegidas con los estándares internacionales de privacidad más exigentes.",
+    "detailTitle": "También incluye",
+    "details": [
+      {
+        "title": "Registro de ánimo y actividades",
+        "body": "Registros diarios rápidos y observaciones personales que muestran patrones con el tiempo."
+      },
+      {
+        "title": "Ejercicios de relajación",
+        "body": "Respiración guiada, un jardín zen y sonidos relajantes de la naturaleza para los momentos de ansiedad."
+      },
+      {
+        "title": "Recordatorios amables",
+        "body": "Recordatorios opcionales por correo para tu registro diario, a la hora que mejor te venga."
+      },
+      {
+        "title": "Resúmenes escritos",
+        "body": "Un resumen claro tras cada consulta por voz, para imprimirlo o compartirlo con tu equipo sanitario."
+      },
+      {
+        "title": "Apoyo en crisis",
+        "body": "Detección automática de expresiones de crisis, con números de emergencia y de ayuda de tu país."
+      },
+      {
+        "title": "Tus datos, tu control",
+        "body": "Descarga todo lo que guardamos sobre ti o elimina tu cuenta definitivamente cuando quieras."
+      }
+    ]
+  },
+  "contact": {
+    "eyebrow": "Contacto",
+    "title": "Estamos aquí para ayudarte",
+    "intro": "¿Tienes preguntas sobre MumWell, colaboraciones o proyectos de investigación? Escríbenos. Y si necesitas apoyo urgente, usa las líneas de ayuda que aparecen abajo.",
+    "emailLabel": "Correo electrónico",
+    "privacyLabel": "Privacidad y protección de datos",
+    "responseTime": "Solemos responder en un plazo de dos días laborables.",
+    "faqTitle": "Preguntas frecuentes",
+    "faqs": [
+      {
+        "q": "¿MumWell sustituye a mi matrona o a mi médico?",
+        "a": "No. MumWell apoya tu bienestar entre consultas y te ayuda a saber cuándo pedir ayuda, pero no diagnostica ni trata. Mantén el contacto con tu matrona, tu médico o tu enfermera pediátrica."
+      },
+      {
+        "q": "¿Cómo empiezo una consulta?",
+        "a": "Inicia sesión y empieza un chat o una consulta por voz desde tu panel. Ambas opciones están disponibles en cualquier momento."
+      },
+      {
+        "q": "¿Qué idiomas puedo usar?",
+        "a": "Toda la aplicación, incluidos el chat con IA, las consultas por voz y los correos, funciona en inglés, sueco, alemán, francés y español. Cambia de idioma cuando quieras con el icono del globo."
+      },
+      {
+        "q": "¿Están seguros mis datos?",
+        "a": "Solo recogemos lo necesario para ayudarte, pedimos tu consentimiento explícito antes de tratar datos de salud y nunca vendemos datos ni usamos rastreadores publicitarios. Puedes descargar o eliminar definitivamente tus datos desde los ajustes de tu cuenta."
+      },
+      {
+        "q": "¿Qué pasa si digo que estoy en crisis?",
+        "a": "La IA está preparada para responder con cuidado y animarte a contactar de inmediato con los servicios de emergencia o una línea de ayuda, y la aplicación te muestra los números. MumWell no es un servicio de emergencias: en caso de emergencia, llama a tu número de emergencias local."
+      }
+    ]
+  },
+  "article": {
+    "eyebrow": "Entender la depresión posparto",
+    "title": "Señales, apoyo y el camino hacia la recuperación",
+    "intro": "La depresión posparto es frecuente, no es culpa tuya y tiene tratamiento. Esta guía explica en qué fijarte y dónde encontrar ayuda.",
+    "readTime": "6 min de lectura",
+    "reviewNote": "Este artículo es información general y no sustituye el consejo de un profesional sanitario."
+  },
+  "notFound": {
+    "title": "No hemos encontrado esa página",
+    "body": "Puede que la página se haya movido o que el enlace no sea correcto."
+  }
+}

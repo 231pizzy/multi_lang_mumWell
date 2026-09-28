@@ -1,0 +1,158 @@
+{
+  "welcome": "Hola de nuevo, {{name}}",
+  "welcomeFallback": "Hola de nuevo",
+  "subtitle": "¿Cómo estás hoy? Cada pequeño paso cuenta.",
+  "reminders": "Ajustes de recordatorios",
+  "quick": {
+    "title": "Accesos rápidos",
+    "subtitle": "Elige lo que te apetezca hoy",
+    "voice": "Consulta por voz",
+    "voiceSub": "Habla con un especialista de IA",
+    "chat": "Chatea con MumWell",
+    "chatSub": "Tu compañía de IA, cuando quieras",
+    "test": "Cribado EPDS",
+    "program": "Mi programa",
+    "mood": "Registrar ánimo",
+    "moodSub": "¿Cómo te sientes?",
+    "activity": "Añadir actividad",
+    "activitySub": "Registra tu autocuidado"
+  },
+  "overview": {
+    "title": "Resumen de hoy",
+    "subtitle": "Tu bienestar de un vistazo: {{date}}",
+    "refresh": "Actualizar",
+    "noData": "Aún no hay datos",
+    "moodTitle": "Estado de ánimo",
+    "moodChecked": "Registrado {{when}}",
+    "moodEmpty": "Registra tu ánimo para verlo aquí",
+    "activeTitle": "Días activos",
+    "activeDesc": "Días con registro o actividad esta semana",
+    "todayTitle": "Actividades de hoy",
+    "todayDesc": "Actividades y ejercicios registrados",
+    "epdsTitle": "Puntuación EPDS",
+    "epdsEmpty": "Haz el cribado",
+    "updated": "Actualizado a las {{time}}",
+    "loadError": "No se han podido cargar algunos datos: prueba a actualizar."
+  },
+  "insights": {
+    "title": "Observaciones",
+    "subtitle": "Observaciones amables sobre tu actividad reciente",
+    "empty": "Haz algunos registros o actividades para ver observaciones personalizadas.",
+    "moodUp": {
+      "title": "Tu ánimo mejora",
+      "body": "Tu último registro está por encima de tu media semanal. Sigue con lo que te está ayudando."
+    },
+    "moodDown": {
+      "title": "Una etapa más difícil",
+      "body": "Tu ánimo ha bajado últimamente. Un breve ejercicio de respiración o una charla con MumWell pueden ayudar."
+    },
+    "consistent": {
+      "title": "Práctica constante",
+      "body": "Estás haciendo ejercicios de relajación con regularidad: eso ayuda a reducir el estrés."
+    },
+    "mindful": {
+      "title": "Un espacio para la calma",
+      "body": "Prueba a añadir un breve ejercicio de relajación a tu día."
+    },
+    "start": {
+      "title": "Empieza poco a poco",
+      "body": "Registra tu ánimo o prueba un ejercicio de relajación: los pequeños pasos cuentan."
+    },
+    "morning": {
+      "title": "Ritmo de mañana",
+      "body": "Estás más activa por la mañana. Aprovecha ese momento para cuidarte."
+    },
+    "evening": {
+      "title": "Ritmo de tarde",
+      "body": "Sueles estar más activa por la tarde y la noche. Recuerda relajarte antes de dormir."
+    }
+  },
+  "moodDialog": {
+    "title": "¿Cómo te sientes?",
+    "subtitle": "Mueve el control para registrar tu ánimo ahora mismo.",
+    "labels": [
+      "Muy mal",
+      "Mal",
+      "Regular",
+      "Bien",
+      "Muy bien"
+    ],
+    "note": "¿Algo que te ronde la cabeza? (opcional)",
+    "save": "Guardar ánimo",
+    "saved": "Ánimo guardado",
+    "savedBody": "Gracias por dedicarte este momento.",
+    "failed": "No se ha podido guardar tu estado de ánimo."
+  },
+  "activity": {
+    "title": "Añadir una actividad",
+    "subtitle": "Registra algo que hayas hecho por tu bienestar.",
+    "type": "Tipo de actividad",
+    "typePlaceholder": "Elige un tipo",
+    "types": {
+      "meditation": "Meditación",
+      "exercise": "Ejercicio",
+      "walking": "Paseo",
+      "reading": "Lectura",
+      "journaling": "Escritura de diario",
+      "therapy": "Sesión de terapia"
+    },
+    "name": "Nombre",
+    "namePlaceholder": "Meditación matinal, paseo de la tarde…",
+    "duration": "Duración (minutos)",
+    "description": "Notas (opcional)",
+    "descriptionPlaceholder": "¿Qué tal ha ido?",
+    "save": "Guardar actividad",
+    "saved": "Actividad registrada",
+    "required": "Elige un tipo y ponle un nombre a la actividad.",
+    "failed": "No se ha podido registrar la actividad."
+  },
+  "games": {
+    "title": "Ejercicios de relajación",
+    "subtitle": "Actividades breves y calmantes para momentos de ansiedad o agobio",
+    "start": "Empezar {{name}}",
+    "items": {
+      "breathing": {
+        "title": "Patrones de respiración",
+        "description": "Sigue un ritmo de respiración relajante con guía visual",
+        "duration": "5 min"
+      },
+      "garden": {
+        "title": "Jardín zen",
+        "description": "Crea tu propio rincón de calma",
+        "duration": "10 min"
+      },
+      "forest": {
+        "title": "Bosque consciente",
+        "description": "Descansa con el canto de los pájaros y el susurro de las hojas",
+        "duration": "5 min"
+      },
+      "waves": {
+        "title": "Olas del mar",
+        "description": "Respira al ritmo de olas suaves",
+        "duration": "5 min"
+      }
+    },
+    "breatheIn": "Inspira",
+    "hold": "Mantén",
+    "breatheOut": "Espira",
+    "round": "Ronda {{round}} de {{total}}",
+    "pause": "Pausa",
+    "resume": "Reanudar",
+    "greatJob": "Muy bien",
+    "completed": "Has completado {{total}} rondas de respiración tranquila. ¿Cómo te sientes ahora?",
+    "again": "Empezar de nuevo",
+    "volume": "Volumen",
+    "play": "Reproducir",
+    "wavesHint": "Inspira cuando la ola sube y espira cuando baja",
+    "gardenHint": "Elige un elemento y toca la arena para colocarlo"
+  },
+  "hero": {
+    "programmeLabel": "Tu programa de 90 días",
+    "programmeDay": "Día {{day}} de {{total}}",
+    "programmeDone": "{{count}} días completados",
+    "programmeCta": "Continuar hoy",
+    "noProgrammeTitle": "Empieza tu programa personal de 90 días",
+    "noProgrammeBody": "Pequeños pasos diarios para descansar, recuperarte y crear vínculo, adaptados a ti.",
+    "noProgrammeCta": "Crear mi programa"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Ajustes de recordatorios",
+  "intro": "Recordatorios amables por correo 1 hora, 30 minutos y 10 minutos antes de tu registro diario de bienestar.",
+  "needsProgram": "Los recordatorios forman parte de tu programa de 90 días. <link>Crea primero tu programa</link> y vuelve después para elegir una hora.",
+  "enable": "Recordatorios por correo",
+  "enableHint": "Activa o desactiva los recordatorios de tu registro diario.",
+  "time": "Hora del registro diario",
+  "timezone": "Zona horaria",
+  "save": "Guardar cambios",
+  "saved": "Ajustes de recordatorios actualizados.",
+  "saveFailed": "No se han podido actualizar tus ajustes. Inténtalo de nuevo.",
+  "loadFailed": "No se han podido cargar tus ajustes de recordatorios."
+}

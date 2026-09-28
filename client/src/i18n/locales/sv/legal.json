@@ -1,0 +1,168 @@
+{
+  "draftNotice": "Utkast för granskning: texten måste granskas av en jurist med inriktning på dataskydd innan lansering. Uppgifter inom [hakparentes] behöver fyllas i.",
+  "lastUpdated": "Senast uppdaterad: {{date}}",
+  "contents": "Innehåll",
+  "privacy": {
+    "eyebrow": "Integritetspolicy",
+    "title": "Så skyddar vi dina uppgifter",
+    "intro": "MumWell hanterar känsliga uppgifter om din hälsa och ditt välmående. Den här policyn förklarar vad vi samlar in, varför, vem som behandlar uppgifterna och vilka rättigheter du har enligt EU:s dataskyddsförordning (GDPR).",
+    "sections": [
+      {
+        "heading": "1. Vem som ansvarar för dina uppgifter",
+        "paragraphs": [
+          "Personuppgiftsansvarig är [Företagets juridiska namn], [registrerad adress], [organisationsnummer] (”MumWell”, ”vi”). Du kan kontakta oss i integritetsfrågor på support@mumwell.org.",
+          "[Om utsett: vårt dataskyddsombud nås på …]"
+        ]
+      },
+      {
+        "heading": "2. Vad vi samlar in",
+        "bullets": [
+          "Kontouppgifter: ditt namn, din e-postadress, ditt telefonnummer, ditt land, ett säkert hashat lösenord och ditt föredragna språk.",
+          "Samtyckesregister: vilka samtycken du har lämnat och när.",
+          "Uppgifter om hälsa och välmående (känsliga personuppgifter): humörincheckningar, svar och poäng från EPDS-screeningen, aktiviteter, dagliga incheckningar, ditt 90-dagarsprogram och dina reflektioner, meddelanden i AI-chatten, transkriptioner och sammanfattningar av röstkonsultationer samt uppgifter du lämnar när du skapar ditt program (till exempel om du är gravid eller tidigare psykisk ohälsa).",
+          "Inställningar för påminnelser: om påminnelser är aktiverade, vald tid och tidszon.",
+          "Tekniska uppgifter: inloggningssessioner (typ av enhet och giltighetstid) som behövs för att hålla ditt konto säkert.",
+          "Uppgifter om krislarm: när du verkar vara i omedelbar fara, vad som väckte oro, när det hände och om vår krisstödlinje underrättades."
+        ],
+        "paragraphs": [
+          "Vi använder inga reklam- eller spårningskakor och säljer aldrig dina uppgifter."
+        ]
+      },
+      {
+        "heading": "3. Varför vi använder uppgifterna och vår rättsliga grund",
+        "bullets": [
+          "För att tillhandahålla tjänsten du har registrerat dig för, det vill säga konto, program, dagbok och påminnelser (GDPR art. 6.1 b, fullgörande av avtal).",
+          "För att behandla uppgifter om hälsa och välmående, endast med ditt uttryckliga samtycke (GDPR art. 9.2 a). Du kan när som helst återkalla samtycket genom att radera ditt konto.",
+          "För att hålla tjänsten säker och förhindra missbruk, till exempel begränsning av förfrågningar och inloggningsskydd (art. 6.1 f, berättigat intresse).",
+          "För att uppfylla rättsliga förpliktelser när det är tillämpligt (art. 6.1 c).",
+          "För att skydda dig i en kris: om ett meddelande, ett screeningsvar eller en röstkonsultation tyder på att du kan skada dig själv eller ditt barn, mejlar vi dina kontaktuppgifter, en adress eller ett telefonnummer som du själv väljer att dela i samtalet, relevanta profil- och screeninguppgifter och orden som väckte oro till vår krisstödlinje, så att en utbildad person kan nå dig (art. 9.2 a, uttryckligt samtycke; om du inte kan samtycka, art. 9.2 c och art. 6.1 d, grundläggande intressen)."
+        ]
+      },
+      {
+        "heading": "4. Artificiell intelligens",
+        "paragraphs": [
+          "MumWell använder AI-modeller för att svara i chatten, skapa ditt program, föreslå specialister och sammanfatta röstkonsultationer. Du får alltid veta när du interagerar med AI. AI:n bedömer också om ett meddelande kan tyda på en kris så att vi kan visa information om akut hjälp; den fattar inga beslut som har rättsliga eller liknande betydande följder för dig och ställer inga diagnoser."
+        ]
+      },
+      {
+        "heading": "5. Vem som behandlar dina uppgifter",
+        "paragraphs": [
+          "Vi anlitar noggrant utvalda leverantörer (personuppgiftsbiträden) med personuppgiftsbiträdesavtal:"
+        ],
+        "bullets": [
+          "MongoDB Atlas: databas för konto, chatt och dagbok, lagrad inom EU (Irland).",
+          "Neon: databas för program och konsultationer. [Lagras i dag i USA; flytt till en EU-region planeras.]",
+          "Google (Gemini API): AI-genererad text.",
+          "Vapi och dess talleverantörer: röstkonsultationer (taligenkänning, röst och språkmodell).",
+          "[E-postleverantör]: e-post för återställning av lösenord och påminnelser.",
+          "[Krisstödlinjens organisation]: tar emot krislarm via e-post och kontaktar dig under sin egen tystnadsplikt."
+        ]
+      },
+      {
+        "heading": "6. Överföring till tredjeland",
+        "paragraphs": [
+          "När en leverantör behandlar uppgifter utanför EES stöder vi oss på ett beslut om adekvat skyddsnivå (till exempel EU-US Data Privacy Framework) eller standardavtalsklausuler med kompletterande åtgärder. [Ange vilken mekanism som används för varje leverantör.]"
+        ]
+      },
+      {
+        "heading": "7. Hur länge vi sparar uppgifterna",
+        "bullets": [
+          "AI-chattsamtal: raderas automatiskt 24 timmar efter det senaste meddelandet.",
+          "Inloggningssessioner: raderas automatiskt när de löper ut.",
+          "Länkar för återställning av lösenord: giltiga i en timme.",
+          "Uppgifter om krislarm: sparas tills du raderar ditt konto. Larmmejl som redan levererats till krisstödlinjen sparas av stödlinjen enligt dess egna regler. [Ange stödlinjens lagringstid.]",
+          "Övriga konto- och hälsouppgifter: sparas tills du raderar ditt konto och raderas då permanent från våra aktiva system. [Ange hur länge säkerhetskopior sparas.]"
+        ]
+      },
+      {
+        "heading": "8. Dina rättigheter",
+        "paragraphs": [
+          "Enligt GDPR har du rätt att:"
+        ],
+        "bullets": [
+          "Få tillgång till dina uppgifter och en kopia: använd ”Ladda ned mina uppgifter” under Konto och integritet.",
+          "Dataportabilitet: nedladdningen är en maskinläsbar JSON-fil.",
+          "Radering: använd ”Radera mitt konto” för att permanent radera dina uppgifter.",
+          "Rättelse: uppdatera ditt namn och dina inställningar under Konto och integritet, eller kontakta oss.",
+          "När som helst återkalla ditt samtycke, utan att det påverkar behandlingen innan återkallelsen.",
+          "Begära begränsning av eller invända mot behandling: kontakta oss.",
+          "Lämna klagomål till en tillsynsmyndighet för dataskydd, särskilt i det EU-land där du bor."
+        ]
+      },
+      {
+        "heading": "9. Säkerhet",
+        "paragraphs": [
+          "Uppgifter krypteras under överföring, lösenord lagras som saltade hashvärden, sessioner kan återkallas, åtkomst begränsas till ditt eget konto och innehållet i samtal skrivs aldrig till våra loggar."
+        ]
+      },
+      {
+        "heading": "10. Ålder",
+        "paragraphs": [
+          "MumWell är avsett för vuxna som är 18 år eller äldre."
+        ]
+      },
+      {
+        "heading": "11. Ändringar",
+        "paragraphs": [
+          "Om vi gör väsentliga ändringar i den här policyn informerar vi dig i appen och ber, när det krävs, om ditt samtycke igen."
+        ]
+      }
+    ]
+  },
+  "terms": {
+    "eyebrow": "Användarvillkor",
+    "title": "Att använda MumWell på ett säkert sätt",
+    "intro": "Villkoren förklarar vad MumWell är, vad tjänsten inte är och vilket ansvar som följer med att använda den.",
+    "sections": [
+      {
+        "heading": "1. Vad MumWell är",
+        "paragraphs": [
+          "MumWell är en digital tjänst för välmående som erbjuder screening, AI-stödda samtal, röstkonsultationer med AI-specialister och ett personligt program för mammor under graviditeten och efter förlossningen. Tjänsten tillhandahålls av [Företagets juridiska namn]."
+        ]
+      },
+      {
+        "heading": "2. Ingen medicinsk tjänst och ingen larmtjänst",
+        "paragraphs": [
+          "MumWell ställer inga diagnoser, ger ingen behandling eller medicinsk rådgivning och ersätter inte barnmorskor, läkare eller psykologer. AI-svar kan vara ofullständiga eller felaktiga. Screeningresultat är endast en indikation.",
+          "MumWell är ingen larmtjänst. Om du eller ditt barn är i fara, eller om du har tankar på att skada dig själv, ring 112 eller ditt lokala nödnummer omedelbart."
+        ]
+      },
+      {
+        "heading": "3. Vem som får använda MumWell",
+        "paragraphs": [
+          "Du måste vara minst 18 år och lämna de samtycken som efterfrågas vid registreringen."
+        ]
+      },
+      {
+        "heading": "4. Ditt konto",
+        "paragraphs": [
+          "Håll ditt lösenord hemligt och meddela oss om du tror att någon har använt ditt konto utan tillåtelse. Du kan radera ditt konto när som helst."
+        ]
+      },
+      {
+        "heading": "5. Godtagbar användning",
+        "paragraphs": [
+          "Missbruka inte tjänsten, försök inte komma åt andras uppgifter, stör inte tjänsten och använd den inte för att skapa skadligt innehåll."
+        ]
+      },
+      {
+        "heading": "6. Tillgänglighet och ändringar",
+        "paragraphs": [
+          "Vi arbetar för att MumWell ska vara tillgängligt men kan inte garantera oavbruten åtkomst. Vi kan uppdatera funktioner och dessa villkor; väsentliga ändringar meddelas i appen."
+        ]
+      },
+      {
+        "heading": "7. Ansvar",
+        "paragraphs": [
+          "Ingenting i dessa villkor begränsar ansvar som inte kan begränsas enligt tillämplig lag, inklusive dina lagstadgade rättigheter som konsument. [Fyll i enligt tillämplig lag.]"
+        ]
+      },
+      {
+        "heading": "8. Tillämplig lag",
+        "paragraphs": [
+          "Dessa villkor regleras av lagstiftningen i [land]. [Lägg till uppgifter om tvistlösning.]"
+        ]
+      }
+    ]
+  }
+}

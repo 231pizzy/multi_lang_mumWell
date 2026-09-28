@@ -1,0 +1,50 @@
+{
+  "title": "Account & privacy",
+  "intro": "Manage your details, language and data. You're always in control of your information.",
+  "profile": {
+    "title": "Profile",
+    "name": "Name",
+    "email": "Email",
+    "language": "Language",
+    "languageHint": "Used for the app, AI conversations, voice consultations and emails.",
+    "country": "Country",
+    "save": "Save changes",
+    "saved": "Your details have been updated."
+  },
+  "password": {
+    "title": "Change password",
+    "current": "Current password",
+    "new": "New password",
+    "confirm": "Confirm new password",
+    "submit": "Change password",
+    "mismatch": "The new passwords do not match.",
+    "otherSessions": "Other devices will be signed out."
+  },
+  "consents": {
+    "title": "Your consents",
+    "terms": "Terms of use and privacy policy",
+    "health": "Processing of health and wellbeing data",
+    "age": "Confirmed 18 or older",
+    "given": "Given on {{date}}",
+    "withdraw": "You can withdraw your consent to health-data processing at any time by deleting your account below. MumWell cannot work without it."
+  },
+  "data": {
+    "title": "Your data",
+    "body": "Download a copy of everything MumWell stores about you (your account, check-ins, screening results, conversations, programme and consultation summaries) as a JSON file.",
+    "download": "Download my data",
+    "downloading": "Preparing…",
+    "downloaded": "Your data export has been downloaded.",
+    "retention": "Chats are deleted automatically 24 hours after the last message. Everything else is kept until you delete your account."
+  },
+  "delete": {
+    "title": "Delete account",
+    "body": "Permanently delete your account and all your data from MumWell. This cannot be undone.",
+    "button": "Delete my account",
+    "confirmTitle": "Delete your account permanently?",
+    "confirmBody": "All your check-ins, screening results, conversations, programme and consultation summaries will be erased immediately. Enter your password to confirm.",
+    "password": "Your password",
+    "confirm": "Delete permanently",
+    "deleting": "Deleting…",
+    "done": "Your account has been deleted."
+  }
+}

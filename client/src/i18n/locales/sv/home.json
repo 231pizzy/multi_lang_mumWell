@@ -1,0 +1,242 @@
+{
+  "hero": {
+    "eyebrow": "Perinatal psykisk hälsa",
+    "title": "Stöd för varje mamma, <accent>på hennes eget språk.</accent>",
+    "subtitle": "MumWell kombinerar validerad screening, en medkännande AI-följeslagare och ett personligt 90-dagarsprogram som hjälper mammor genom graviditeten och det första året efter förlossningen, på English, Svenska, Deutsch, Français och Español.",
+    "primaryCta": "Skapa ett kostnadsfritt konto",
+    "secondaryCta": "Gör EPDS-screeningen",
+    "trust": {
+      "languages": "5 språk",
+      "gdpr": "Integritet enligt GDPR",
+      "available": "Tillgängligt dygnet runt",
+      "evidence": "Evidensbaserat"
+    },
+    "cardLanguageTitle": "Hej! Hallo! Bonjour! ¡Hola!",
+    "cardLanguageValue": "Prata på ditt språk",
+    "badge": "Screening · AI-stöd · Röstvård",
+    "cardScreeningTitle": "EPDS-screening",
+    "cardScreeningStep": "Fråga 4 av 10",
+    "cardChatUser": "Jag har inte sovit ordentligt på flera veckor och känner mig så ensam.",
+    "cardChatAi": "Det låter utmattande. Du är inte ensam vi tar det ett steg i taget.",
+    "cardSafetyTitle": "Krisstöd redo",
+    "cardSafetyBody": "Lokala stödlinjer, ett tryck bort"
+  },
+  "standards": {
+    "title": "Utformat med utgångspunkt i",
+    "items": [
+      "WHO:s vägledning om perinatal psykisk hälsa",
+      "Edinburgh Postnatal Depression Scale (EPDS)",
+      "EU:s dataskyddsförordning (GDPR)",
+      "EU:s AI-förordning om transparens",
+      "WCAG:s riktlinjer för tillgänglighet"
+    ]
+  },
+  "stats": {
+    "eyebrow": "Den globala utmaningen",
+    "title": "Vanligt, behandlingsbart och alltför ofta osynligt",
+    "body": "Psykisk ohälsa kring graviditet och förlossning drabbar mammor i alla länder. Om den inte upptäcks påverkar den anknytning, amning och omvårdnad av barnet. Med stöd i tid återhämtar sig de flesta helt.",
+    "items": [
+      {
+        "value": "10 %",
+        "label": "av gravida kvinnor i världen drabbas av psykisk ohälsa, främst depression."
+      },
+      {
+        "value": "13 %",
+        "label": "av kvinnor som nyss fött barn drabbas av psykisk ohälsa."
+      },
+      {
+        "value": "19,8 %",
+        "label": "av kvinnor efter förlossning i utvecklingsländer, en betydligt tyngre börda där vården är knapp."
+      },
+      {
+        "value": "Bättre",
+        "label": "tillväxt och utveckling för nyfödda när mammans depression behandlas."
+      }
+    ],
+    "source": "Källa: Världshälsoorganisationen (WHO), Maternal mental health.",
+    "sourceLink": "Visa källa"
+  },
+  "how": {
+    "eyebrow": "MumWells vårdkedja",
+    "title": "Stöd i steg, från första incheckningen till professionell vård",
+    "body": "Enkel självhjälp för alla, mer stöd när det behövs och en tydlig väg till vårdpersonal och krisstöd när det verkligen gäller.",
+    "steps": [
+      {
+        "title": "Screena",
+        "body": "En validerad EPDS-incheckning med tio frågor, bedömd direkt med tydliga och omtänksamma nästa steg.",
+        "tag": "5 minuter"
+      },
+      {
+        "title": "Prata",
+        "body": "En empatisk AI-följeslagare som lyssnar dygnet runt och känner igen tecken på kris.",
+        "tag": "Dygnet runt"
+      },
+      {
+        "title": "Väx",
+        "body": "Ett personligt 90-dagarsprogram med små dagliga steg för vila, återhämtning och anknytning.",
+        "tag": "90 dagar"
+      },
+      {
+        "title": "Konsultera",
+        "body": "Röstkonsultationer med nio AI-specialister, var och en följd av en skriftlig sammanfattning.",
+        "tag": "9 specialister"
+      },
+      {
+        "title": "Få kontakt",
+        "body": "Sammanfattningar att dela med barnmorska eller läkare, och lokala stödlinjer när det är bråttom.",
+        "tag": "Mänsklig vård"
+      }
+    ]
+  },
+  "features": {
+    "eyebrow": "Det här erbjuder MumWell",
+    "title": "Stöd som passar in i livet med en nyfödd",
+    "items": {
+      "screening": {
+        "title": "Validerad screening",
+        "body": "EPDS-formuläret som används inom vården över hela världen, med tydliga nästa steg för varje resultat.",
+        "tag": "Validerat verktyg",
+        "points": [
+          "EPDS med tio frågor, bedömd på samma sätt som i vården",
+          "Resultat i klarspråk med ett nästa steg för varje poäng",
+          "Minsta tecken på självskada visar direkt krisstöd"
+        ]
+      },
+      "companion": {
+        "title": "AI-följeslagare",
+        "body": "En varm, evidensbaserad chatt som minns ert samtal och känner igen när du behöver akut hjälp.",
+        "tag": "Dygnet runt",
+        "points": [
+          "Minns ert samtal, så att du aldrig behöver upprepa dig",
+          "Känner igen krisspråk på alla fem språk",
+          "Varsamma svar utan dömande, på det språk du väljer"
+        ]
+      },
+      "specialists": {
+        "title": "Röstkonsultationer",
+        "body": "Nio AI-specialister från obstetrik och amning till psykisk hälsa som du helt enkelt kan prata med.",
+        "tag": "Nio specialister",
+        "points": [
+          "Från förlossning, barnmedicin och amning till psykisk hälsa och kost",
+          "Naturliga röster på engelska, svenska, tyska, franska och spanska",
+          "En utskrivbar sammanfattning efter varje konsultation"
+        ]
+      },
+      "programme": {
+        "title": "90-dagarsprogram",
+        "body": "Personliga dagliga steg för vila, återhämtning, anknytning och gemenskap, anpassade efter din situation.",
+        "tag": "Tre faser",
+        "points": [
+          "Anpassat efter din situation, ditt nätverk och din historia",
+          "Faserna Grund, Uppbyggnad och Blomstring under 90 dagar",
+          "Dagliga uppgifter, reflektioner och valfria påminnelser via e-post"
+        ]
+      }
+    },
+    "cta": "Utforska alla funktioner"
+  },
+  "safety": {
+    "eyebrow": "Klinisk säkerhet",
+    "title": "Säkerhet inbyggd från början",
+    "body": "Varje meddelande kontrolleras för tecken på kris. När en risk upptäcks svarar MumWell varsamt, visar nöd- och stödnummer för mammans land och uppmuntrar henne att kontakta någon hon litar på.",
+    "flow": [
+      {
+        "title": "Hon hör av sig",
+        "body": "En mamma skriver eller pratar på sitt eget språk."
+      },
+      {
+        "title": "Risken känns igen",
+        "body": "Krisspråk upptäcks på fem språk, tillsammans med en AI-baserad riskbedömning."
+      },
+      {
+        "title": "Säkerheten först",
+        "body": "Svaret blir lugnt, tydligt och inriktat på hennes omedelbara säkerhet."
+      },
+      {
+        "title": "Hjälp ett tryck bort",
+        "body": "Lokala nöd- och stödnummer visas direkt."
+      }
+    ],
+    "doesTitle": "Det här gör MumWells AI",
+    "does": [
+      "Lyssnar, speglar och ger evidensbaserade strategier för att hantera vardagen",
+      "Förklarar screeningresultat i klarspråk",
+      "Hänvisar till professionell vård och akut hjälp"
+    ],
+    "doesntTitle": "Det här gör den aldrig",
+    "doesnt": [
+      "Ställer diagnoser eller skriver ut läkemedel",
+      "Ersätter barnmorskor, läkare eller psykologer",
+      "Säljer, delar eller gör reklam med personuppgifter"
+    ],
+    "aiNotice": "Användare får alltid veta när de pratar med en AI."
+  },
+  "mood": {
+    "title": "Hur mår du just nu?",
+    "subtitle": "Det finns inget fel svar. Att lägga märke till hur du mår är första steget.",
+    "hint": "Välj det ansikte som ligger närmast hur du mår.",
+    "labels": [
+      "Mycket dåligt",
+      "Dåligt",
+      "Okej",
+      "Bra",
+      "Mycket bra"
+    ],
+    "responses": [
+      "Tack för att du är ärlig. Du förtjänar stöd, och du är inte ensam.",
+      "Tunga dagar händer. Små steg och ett vänligt ord till dig själv räknas.",
+      "Okej är okej. Det är viktigt att känna efter hur du mår.",
+      "Vad skönt att höra. Lägg märke till vad som hjälper i dag.",
+      "Underbart. Håll fast vid den här känslan och det som gav den."
+    ],
+    "cta": "Börja följa ditt välmående",
+    "kicker": "En stund för dig"
+  },
+  "global": {
+    "eyebrow": "Globalt från början",
+    "title": "Ditt språk. Dina uppgifter. Dina rättigheter.",
+    "body": "Var du än befinner dig skyddar MumWell dig enligt världens strängaste integritetsstandarder, inklusive EU:s GDPR, och möter dig på ditt eget språk.",
+    "points": [
+      "Hela upplevelsen, även AI-chatt och röst, på engelska, svenska, tyska, franska och spanska",
+      "Uttryckligt samtycke innan några hälsouppgifter behandlas",
+      "Ladda ned eller radera dina uppgifter permanent när du vill",
+      "Ingen reklam, inga spårningskakor och ingen försäljning av uppgifter, någonsin"
+    ],
+    "languagesTitle": "Finns på",
+    "helplines": "Nöd- och stödnummer för 15 länder på fyra kontinenter"
+  },
+  "principles": {
+    "eyebrow": "Våra principer",
+    "title": "Teknik med ett mänskligt hjärta",
+    "items": [
+      {
+        "title": "Säkerheten först",
+        "body": "Varje samtal kontrolleras för tecken på kris, och nödnummer och stödlinjer finns bara ett tryck bort."
+      },
+      {
+        "title": "Evidensbaserat",
+        "body": "Byggt på validerade verktyg och metoder som KBT, beteendeaktivering och självmedkänsla."
+      },
+      {
+        "title": "Integritet från början",
+        "body": "Bara de uppgifter som behövs för att hjälpa dig, skyddade av samtycke, kryptering under överföring och din rätt att radera dem."
+      },
+      {
+        "title": "Ett komplement till vården",
+        "body": "MumWell stöttar, men ersätter aldrig, barnmorskor, läkare, BVC-sköterskor och psykologer."
+      }
+    ]
+  },
+  "faq": {
+    "eyebrow": "Vanliga frågor",
+    "title": "Frågor och svar",
+    "more": "Fler frågor? Kontakta oss"
+  },
+  "cta": {
+    "title": "Du förtjänar att känna dig stöttad.",
+    "body": "Skapa ett kostnadsfritt konto på under en minut och ta det första varsamma steget i dag.",
+    "button": "Kom igång",
+    "secondary": "Gör screeningen",
+    "note": "Gratis · Privat · På ditt språk"
+  }
+}

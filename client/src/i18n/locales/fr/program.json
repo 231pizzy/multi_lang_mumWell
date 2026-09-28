@@ -1,0 +1,141 @@
+{
+  "loadingTitle": "Préparation de votre programme…",
+  "loadingBody": "Un instant, nous personnalisons votre parcours de bien-être.",
+  "errorTitle": "Une erreur s'est produite",
+  "loadFailed": "Nous n'avons pas pu charger votre programme.",
+  "createFailed": "Nous n'avons pas pu créer votre programme. Veuillez réessayer.",
+  "ready": "Votre programme de 90 jours est prêt !",
+  "readyTip": "Astuce : activez les rappels quotidiens dans les paramètres des rappels.",
+  "generating": "Nous créons votre programme personnalisé de 90 jours. Cela prend généralement environ une minute, merci de garder cette page ouverte.",
+  "pleaseWait": "Veuillez patienter",
+  "complete": {
+    "title": "Vous avez terminé votre programme de 90 jours !",
+    "body": "C'est une vraie réussite. Continuez ce qui vous a aidée et lancez un nouveau programme dès que vous souhaitez un accompagnement.",
+    "restart": "Lancer un nouveau programme"
+  },
+  "checkinDone": {
+    "title": "Bilan du jour terminé",
+    "body": "Vous avez déjà noté votre humeur, votre stress, votre sommeil et votre énergie aujourd'hui. Vous pouvez passer au programme du jour.",
+    "continue": "Aller au programme du jour"
+  },
+  "setup": {
+    "title": "Créer votre programme",
+    "intro": "Quelques questions courtes, une étape à la fois, pour adapter 90 jours d'accompagnement en douceur à votre situation.",
+    "step": "Étape {{step}} sur 3",
+    "name": "Votre prénom",
+    "age": "Âge",
+    "ageError": "Veuillez indiquer un âge compris entre 18 et 70 ans.",
+    "pregnant": "Êtes-vous enceinte actuellement ?",
+    "yes": "Oui",
+    "no": "Non",
+    "children": "Nombre d'enfants",
+    "support": "Qui vous soutient ?",
+    "supportOptions": {
+      "partner": "Partenaire",
+      "family": "Famille",
+      "friends": "Amis"
+    },
+    "supportOther": "Autre soutien",
+    "history": "Avez-vous déjà eu des difficultés de santé mentale ?",
+    "historyNotes": "Souhaitez-vous nous dire quelque chose ? (facultatif)",
+    "delivery": "Type d'accouchement",
+    "deliveryPlaceholder": "Sélectionner",
+    "deliveryOptions": {
+      "vaginal": "Accouchement par voie basse",
+      "c-section": "Césarienne"
+    },
+    "weeks": "Semaines depuis la naissance",
+    "weeksPlaceholder": "Sélectionner",
+    "week": "Semaine {{week}}",
+    "create": "Créer mon programme",
+    "creating": "Création du programme…",
+    "privacy": "Vos réponses servent uniquement à personnaliser votre programme. Votre prénom n'est jamais transmis à l'IA.",
+    "footer": "Vos émotions comptent. Vous n'êtes pas seule."
+  },
+  "wellness": {
+    "title": "Bilan bien-être du jour",
+    "intro": "Prenez un moment pour observer comment vous allez. Il n'y a pas de bonne réponse.",
+    "step": "Étape {{step}} sur {{total}}",
+    "finish": "Terminer",
+    "saved": "Bilan enregistré",
+    "savedBody": "Merci d'avoir pris ce moment pour vous aujourd'hui.",
+    "failed": "Impossible d'enregistrer votre bilan.",
+    "metrics": {
+      "mood": {
+        "title": "Humeur",
+        "question": "Comment vous sentez-vous émotionnellement aujourd'hui ?",
+        "labels": [
+          "Très mal",
+          "Mal",
+          "Correct",
+          "Bien",
+          "Très bien"
+        ]
+      },
+      "stress": {
+        "title": "Stress",
+        "question": "Quelle pression ou tension ressentez-vous en ce moment ?",
+        "labels": [
+          "Très calme",
+          "Calme",
+          "Neutre",
+          "Stressée",
+          "Débordée"
+        ]
+      },
+      "sleep": {
+        "title": "Sommeil",
+        "question": "Avez-vous bien dormi la nuit dernière ?",
+        "labels": [
+          "Très mal",
+          "Mal",
+          "Correctement",
+          "Bien",
+          "Très bien"
+        ]
+      },
+      "energy": {
+        "title": "Énergie",
+        "question": "Quel est votre niveau d'énergie aujourd'hui ?",
+        "labels": [
+          "Très faible",
+          "Faible",
+          "Moyen",
+          "Bon",
+          "Élevé"
+        ]
+      }
+    }
+  },
+  "day": {
+    "progress": "Jour {{day}} sur {{total}} · Étape {{step}} sur 3",
+    "welcome": "Bon retour",
+    "theme": "Thème du jour",
+    "objectives": "Objectifs du jour",
+    "tasks": "Tâches du jour",
+    "tasksNote": "Faites ce qui vous semble possible aujourd'hui. Chaque petit effort compte.",
+    "reflection": "Réflexion",
+    "reflectionNote": "Prenez un moment pour reconnaître vos efforts et ce que vous ressentez.",
+    "reflectionPlaceholder": "Écrivez vos pensées ici…",
+    "reflectionLabel": "Votre réflexion",
+    "done": "Terminer la journée",
+    "submitting": "Enregistrement…",
+    "failed": "Impossible d'enregistrer le programme du jour.",
+    "celebrateTitle": "Bravo !",
+    "celebrateBody": "Vous avez terminé le programme du jour. Vous prenez merveilleusement soin de vous et de votre bébé.",
+    "talkTitle": "Souhaitez-vous parler à quelqu'un ?",
+    "talkBody": "L'un de nos conseillers IA en bien-être peut échanger avec vous sur votre humeur, les tâches du jour ou tout ce qui vous préoccupe."
+  },
+  "consultants": {
+    "1": {
+      "specialist": "Psychologue périnatale",
+      "description": "Vous accompagne dans vos émotions, votre stress, votre adaptation et le lien avec votre bébé grâce à une psychologie fondée sur des données probantes.",
+      "firstMessage": "Bonjour, je suis votre psychologue périnatale MumWell. Comment vous sentez-vous après les activités d'aujourd'hui ?"
+    },
+    "2": {
+      "specialist": "Coach bien-être",
+      "description": "Vous aide à mettre en place de petites routines réalistes pour le repos, la récupération et le lien aux autres.",
+      "firstMessage": "Bonjour, je suis votre coach bien-être MumWell. Comment avez-vous vécu les tâches d'aujourd'hui ?"
+    }
+  }
+}

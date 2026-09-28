@@ -1,0 +1,37 @@
+{
+  "title": "MumWell-Begleitung",
+  "sessions": "Gespräche",
+  "showSessions": "Gespräche",
+  "closeSessions": "Gespräche schließen",
+  "newSession": "Neues Gespräch",
+  "noSessions": "Noch keine früheren Gespräche.",
+  "newChat": "Neues Gespräch",
+  "noMessages": "Noch keine Nachrichten",
+  "messageCount_one": "{{count}} Nachricht",
+  "messageCount_other": "{{count}} Nachrichten",
+  "justNow": "Gerade eben",
+  "you": "Du",
+  "assistant": "MumWell",
+  "typing": "Schreibt…",
+  "welcomeTitle": "Hallo, ich bin für dich da",
+  "welcomeBody": "Das ist ein geschützter Raum für alles, was dich beschäftigt, ob groß oder klein. Wie geht es dir heute?",
+  "starters": [
+    "Ich fühle mich in letzter Zeit überfordert",
+    "Ich kann nicht schlafen, selbst wenn das Baby schläft",
+    "Ich habe ständig Schuldgefühle",
+    "Ich brauche einfach jemanden zum Reden"
+  ],
+  "placeholder": "Schreib, was dich beschäftigt…",
+  "message": "Nachricht",
+  "send": "Nachricht senden",
+  "hint": "Enter zum Senden · Umschalt + Enter für eine neue Zeile",
+  "privacy": "Gespräche werden 24 Stunden nach deiner letzten Nachricht automatisch gelöscht.",
+  "missing": "Dieses Gespräch ist nicht mehr verfügbar. Zum Schutz deiner Privatsphäre werden Gespräche 24 Stunden nach der letzten Nachricht gelöscht.",
+  "startNew": "Neues Gespräch beginnen",
+  "errors": {
+    "create": "Es konnte kein neues Gespräch gestartet werden.",
+    "list": "Deine früheren Gespräche konnten nicht geladen werden.",
+    "load": "Dieses Gespräch konnte nicht geladen werden.",
+    "send": "Ich habe gerade Verbindungsprobleme. Bitte versuche es erneut."
+  }
+}

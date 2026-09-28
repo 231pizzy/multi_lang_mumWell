@@ -1,0 +1,242 @@
+{
+  "hero": {
+    "eyebrow": "Santé mentale périnatale",
+    "title": "Un soutien pour chaque mère, <accent>dans sa propre langue.</accent>",
+    "subtitle": "MumWell associe un dépistage validé, une IA bienveillante et un programme personnalisé de 90 jours pour accompagner les mères pendant la grossesse et la première année après la naissance, en English, Svenska, Deutsch, Français et Español.",
+    "primaryCta": "Créer un compte gratuit",
+    "secondaryCta": "Faire le dépistage EPDS",
+    "trust": {
+      "languages": "5 langues",
+      "gdpr": "Confidentialité conforme au RGPD",
+      "available": "Disponible jour et nuit",
+      "evidence": "Fondé sur des données probantes"
+    },
+    "cardLanguageTitle": "Hej! Hallo! Bonjour! ¡Hola!",
+    "cardLanguageValue": "Échangez dans votre langue",
+    "badge": "Dépistage · Compagnon IA · Soins vocaux",
+    "cardScreeningTitle": "Dépistage EPDS",
+    "cardScreeningStep": "Question 4 sur 10",
+    "cardChatUser": "Je ne dors plus vraiment depuis des semaines et je me sens tellement seule.",
+    "cardChatAi": "Cela semble épuisant. Vous n'êtes pas seule avançons, une étape à la fois.",
+    "cardSafetyTitle": "Aide en cas de crise",
+    "cardSafetyBody": "Lignes d'écoute locales, à portée de main"
+  },
+  "standards": {
+    "title": "Conçu en référence à",
+    "items": [
+      "Orientations de l'OMS sur la santé mentale périnatale",
+      "Échelle d'Édimbourg (EPDS)",
+      "Règlement général sur la protection des données (RGPD)",
+      "Obligations de transparence du règlement européen sur l'IA",
+      "Règles d'accessibilité WCAG"
+    ]
+  },
+  "stats": {
+    "eyebrow": "Un enjeu mondial",
+    "title": "Fréquente, traitable et trop souvent invisible",
+    "body": "Les troubles de santé mentale autour de la grossesse et de la naissance touchent des mères dans tous les pays. Non repérés, ils pèsent sur le lien mère-enfant, l'allaitement et les soins au bébé. Avec un soutien précoce, la plupart des femmes se rétablissent complètement.",
+    "items": [
+      {
+        "value": "10 %",
+        "label": "des femmes enceintes dans le monde connaissent un trouble mental, surtout la dépression."
+      },
+      {
+        "value": "13 %",
+        "label": "des femmes qui viennent d'accoucher connaissent un trouble mental."
+      },
+      {
+        "value": "19,8 %",
+        "label": "des femmes après l'accouchement dans les pays en développement, un fardeau bien plus lourd là où les soins manquent."
+      },
+      {
+        "value": "Mieux",
+        "label": "les nouveau-nés grandissent et se développent quand la dépression de leur mère est traitée."
+      }
+    ],
+    "source": "Source : Organisation mondiale de la Santé (OMS), Maternal mental health.",
+    "sourceLink": "Voir la source"
+  },
+  "how": {
+    "eyebrow": "Le parcours de soins MumWell",
+    "title": "Un soutien progressif, du premier bilan aux soins professionnels",
+    "body": "Une auto-assistance légère pour toutes, davantage de soutien quand il le faut, et un accès clair aux professionnels et aux services de crise quand c'est essentiel.",
+    "steps": [
+      {
+        "title": "Dépister",
+        "body": "Un bilan EPDS validé en dix questions, évalué immédiatement, avec des étapes claires et bienveillantes.",
+        "tag": "5 minutes"
+      },
+      {
+        "title": "Parler",
+        "body": "Un compagnon IA empathique qui écoute jour et nuit et reconnaît les signes de détresse.",
+        "tag": "Jour et nuit"
+      },
+      {
+        "title": "Progresser",
+        "body": "Un programme personnel de 90 jours, fait de petites actions quotidiennes pour le repos, la récupération et le lien.",
+        "tag": "90 jours"
+      },
+      {
+        "title": "Consulter",
+        "body": "Des consultations vocales avec neuf spécialistes IA, chacune suivie d'un compte rendu écrit.",
+        "tag": "9 spécialistes"
+      },
+      {
+        "title": "Relier",
+        "body": "Des comptes rendus à partager avec votre sage-femme ou votre médecin, et des lignes d'écoute locales en cas d'urgence.",
+        "tag": "Soins humains"
+      }
+    ]
+  },
+  "features": {
+    "eyebrow": "Ce que propose MumWell",
+    "title": "Un accompagnement adapté à la vie avec un nouveau-né",
+    "items": {
+      "screening": {
+        "title": "Dépistage validé",
+        "body": "Le questionnaire EPDS utilisé par les services de santé du monde entier, avec des étapes claires pour chaque résultat.",
+        "tag": "Outil validé",
+        "points": [
+          "L'EPDS en dix questions, évaluée comme en consultation",
+          "Des résultats en langage clair, avec une étape pour chaque score",
+          "Tout signe d'auto-agression affiche immédiatement les ressources d'urgence"
+        ]
+      },
+      "companion": {
+        "title": "Compagnon IA",
+        "body": "Un chat chaleureux et fondé sur des données probantes, qui se souvient de votre échange et repère quand vous avez besoin d'une aide urgente.",
+        "tag": "Jour et nuit",
+        "points": [
+          "Se souvient de votre conversation pour que vous n'ayez jamais à vous répéter",
+          "Reconnaît le langage de crise dans les cinq langues",
+          "Des réponses douces et sans jugement, dans la langue de votre choix"
+        ]
+      },
+      "specialists": {
+        "title": "Consultations vocales",
+        "body": "Neuf spécialistes IA de l'obstétrique à l'allaitement en passant par la santé mentale avec qui vous pouvez simplement parler.",
+        "tag": "Neuf spécialistes",
+        "points": [
+          "De l'obstétrique, la pédiatrie et l'allaitement à la santé mentale et la nutrition",
+          "Des voix naturelles en anglais, suédois, allemand, français et espagnol",
+          "Un compte rendu imprimable après chaque consultation"
+        ]
+      },
+      "programme": {
+        "title": "Programme de 90 jours",
+        "body": "Des étapes quotidiennes personnalisées pour le repos, la récupération, le lien et la connexion, adaptées à votre situation.",
+        "tag": "Trois phases",
+        "points": [
+          "Adapté à votre situation, votre entourage et vos antécédents",
+          "Les phases Fondations, Consolidation et Épanouissement sur 90 jours",
+          "Tâches quotidiennes, réflexions et rappels par e-mail facultatifs"
+        ]
+      }
+    },
+    "cta": "Découvrir toutes les fonctionnalités"
+  },
+  "safety": {
+    "eyebrow": "Sécurité clinique",
+    "title": "La sécurité intégrée dès la conception",
+    "body": "Chaque message est analysé pour repérer les signes de crise. Lorsqu'un risque est détecté, MumWell répond avec bienveillance, affiche les numéros d'urgence et d'écoute du pays de la mère et l'encourage à contacter une personne de confiance.",
+    "flow": [
+      {
+        "title": "Elle se confie",
+        "body": "Une mère écrit ou parle dans sa propre langue."
+      },
+      {
+        "title": "Le risque est repéré",
+        "body": "Le langage de crise est détecté dans cinq langues, avec une évaluation du risque par l'IA."
+      },
+      {
+        "title": "La sécurité d'abord",
+        "body": "La réponse devient calme, claire et centrée sur sa sécurité immédiate."
+      },
+      {
+        "title": "L'aide à portée de main",
+        "body": "Les numéros d'urgence et d'écoute locaux s'affichent aussitôt."
+      }
+    ],
+    "doesTitle": "Ce que fait l'IA de MumWell",
+    "does": [
+      "Écoute, reformule et propose des stratégies d'adaptation fondées sur des données probantes",
+      "Explique les résultats du dépistage en langage clair",
+      "Oriente vers les soins professionnels et d'urgence"
+    ],
+    "doesntTitle": "Ce qu'elle ne fait jamais",
+    "doesnt": [
+      "Poser un diagnostic ou prescrire des médicaments",
+      "Remplacer les sages-femmes, les médecins ou les professionnels de santé mentale",
+      "Vendre, partager ou exploiter les données personnelles à des fins publicitaires"
+    ],
+    "aiNotice": "Les utilisatrices sont toujours informées lorsqu'elles échangent avec une IA."
+  },
+  "mood": {
+    "title": "Comment vous sentez-vous en ce moment ?",
+    "subtitle": "Il n'y a pas de mauvaise réponse. Prendre conscience est le premier pas.",
+    "hint": "Choisissez le visage qui correspond le mieux à votre humeur.",
+    "labels": [
+      "Très mal",
+      "Mal",
+      "Correct",
+      "Bien",
+      "Très bien"
+    ],
+    "responses": [
+      "Merci pour votre honnêteté. Vous méritez du soutien, et vous n'êtes pas seule.",
+      "Les jours difficiles arrivent. Les petits pas et un mot bienveillant envers vous-même comptent.",
+      "Correct, c'est déjà bien. Prendre des nouvelles de soi est important.",
+      "Ravie de l'entendre. Remarquez ce qui vous fait du bien aujourd'hui.",
+      "Merveilleux. Gardez ce sentiment et ce qui l'a fait naître."
+    ],
+    "cta": "Commencer à suivre votre bien-être",
+    "kicker": "Un moment pour vous"
+  },
+  "global": {
+    "eyebrow": "Mondial par conception",
+    "title": "Votre langue. Vos données. Vos droits.",
+    "body": "Où que vous soyez, MumWell vous protège selon les standards de confidentialité les plus stricts au monde, dont le RGPD européen, et vous accompagne dans votre langue.",
+    "points": [
+      "Toute l'expérience, y compris le chat IA et la voix, en anglais, suédois, allemand, français et espagnol",
+      "Un consentement explicite avant tout traitement de données de santé",
+      "Téléchargez ou supprimez définitivement vos données à tout moment",
+      "Aucune publicité, aucun cookie de suivi, aucune vente de données, jamais"
+    ],
+    "languagesTitle": "Disponible en",
+    "helplines": "Numéros d'urgence et d'écoute pour 15 pays sur quatre continents"
+  },
+  "principles": {
+    "eyebrow": "Nos principes",
+    "title": "Une technologie au cœur humain",
+    "items": [
+      {
+        "title": "La sécurité avant tout",
+        "body": "Chaque conversation est analysée pour repérer les signes de crise, avec les numéros d'urgence et d'écoute à portée de main."
+      },
+      {
+        "title": "Fondé sur des données probantes",
+        "body": "Construit sur des outils et approches validés comme la TCC, l'activation comportementale et l'autocompassion."
+      },
+      {
+        "title": "Confidentialité dès la conception",
+        "body": "Seules les données nécessaires pour vous aider, protégées par votre consentement, le chiffrement en transit et votre droit à l'effacement."
+      },
+      {
+        "title": "En complément des soins",
+        "body": "MumWell soutient, sans jamais les remplacer, les sages-femmes, médecins, puéricultrices et professionnels de la santé mentale."
+      }
+    ]
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "Vos questions, nos réponses",
+    "more": "D'autres questions ? Contactez-nous"
+  },
+  "cta": {
+    "title": "Vous méritez de vous sentir soutenue.",
+    "body": "Créez un compte gratuit en moins d'une minute et faites le premier pas en douceur dès aujourd'hui.",
+    "button": "Commencer",
+    "secondary": "Faire le dépistage",
+    "note": "Gratuit · Confidentiel · Dans votre langue"
+  }
+}

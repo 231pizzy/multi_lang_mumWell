@@ -1,0 +1,242 @@
+{
+  "hero": {
+    "eyebrow": "Salud mental perinatal",
+    "title": "Apoyo para cada madre, <accent>en su propio idioma.</accent>",
+    "subtitle": "MumWell combina un cribado validado, una compañía de IA empática y un programa personal de 90 días para acompañar a las madres durante el embarazo y el primer año tras el parto, en English, Svenska, Deutsch, Français y Español.",
+    "primaryCta": "Crear una cuenta gratuita",
+    "secondaryCta": "Hacer el cribado EPDS",
+    "trust": {
+      "languages": "5 idiomas",
+      "gdpr": "Privacidad conforme al RGPD",
+      "available": "Disponible día y noche",
+      "evidence": "Basado en la evidencia"
+    },
+    "cardLanguageTitle": "Hej! Hallo! Bonjour! ¡Hola!",
+    "cardLanguageValue": "Habla en tu idioma",
+    "badge": "Cribado · Compañía de IA · Atención por voz",
+    "cardScreeningTitle": "Cribado EPDS",
+    "cardScreeningStep": "Pregunta 4 de 10",
+    "cardChatUser": "Hace semanas que no duermo bien y me siento muy sola.",
+    "cardChatAi": "Suena agotador. No estás sola: vamos paso a paso.",
+    "cardSafetyTitle": "Apoyo en crisis listo",
+    "cardSafetyBody": "Líneas de ayuda locales, a un toque"
+  },
+  "standards": {
+    "title": "Diseñado con referencia a",
+    "items": [
+      "Orientaciones de la OMS sobre salud mental perinatal",
+      "Escala de Depresión Postnatal de Edimburgo (EPDS)",
+      "Reglamento General de Protección de Datos de la UE",
+      "Obligaciones de transparencia del Reglamento de IA de la UE",
+      "Pautas de accesibilidad WCAG"
+    ]
+  },
+  "stats": {
+    "eyebrow": "El reto global",
+    "title": "Frecuente, tratable y demasiadas veces invisible",
+    "body": "Los problemas de salud mental durante el embarazo y tras el parto afectan a madres de todos los países. Si no se detectan, pesan sobre el vínculo, la lactancia y el cuidado del bebé. Con apoyo a tiempo, la mayoría de las mujeres se recuperan por completo.",
+    "items": [
+      {
+        "value": "10 %",
+        "label": "de las embarazadas en el mundo sufren un trastorno mental, sobre todo depresión."
+      },
+      {
+        "value": "13 %",
+        "label": "de las mujeres que acaban de dar a luz sufren un trastorno mental."
+      },
+      {
+        "value": "19,8 %",
+        "label": "de las mujeres tras el parto en países en desarrollo: una carga mucho mayor donde escasea la atención."
+      },
+      {
+        "value": "Mejor",
+        "label": "crecimiento y desarrollo de los recién nacidos cuando se trata la depresión materna."
+      }
+    ],
+    "source": "Fuente: Organización Mundial de la Salud (OMS), Maternal mental health.",
+    "sourceLink": "Ver fuente"
+  },
+  "how": {
+    "eyebrow": "El itinerario de cuidados de MumWell",
+    "title": "Apoyo escalonado, desde el primer registro hasta la atención profesional",
+    "body": "Autoayuda sencilla para todas, más apoyo cuando hace falta y un camino claro hacia profesionales y servicios de crisis cuando más importa.",
+    "steps": [
+      {
+        "title": "Cribar",
+        "body": "Un registro EPDS validado de diez preguntas, puntuado al instante, con pasos claros y compasivos.",
+        "tag": "5 minutos"
+      },
+      {
+        "title": "Hablar",
+        "body": "Una compañía de IA empática que escucha de día y de noche y reconoce señales de malestar.",
+        "tag": "Día y noche"
+      },
+      {
+        "title": "Crecer",
+        "body": "Un programa personal de 90 días con pequeñas acciones diarias para descansar, recuperarte y crear vínculo.",
+        "tag": "90 días"
+      },
+      {
+        "title": "Consultar",
+        "body": "Consultas por voz con nueve especialistas de IA, cada una seguida de un resumen escrito.",
+        "tag": "9 especialistas"
+      },
+      {
+        "title": "Conectar",
+        "body": "Resúmenes para compartir con tu matrona o tu médico, y líneas de ayuda locales cuando es urgente.",
+        "tag": "Atención humana"
+      }
+    ]
+  },
+  "features": {
+    "eyebrow": "Lo que ofrece MumWell",
+    "title": "Un apoyo que encaja en la vida con un recién nacido",
+    "items": {
+      "screening": {
+        "title": "Cribado validado",
+        "body": "El cuestionario EPDS que usan los servicios sanitarios de todo el mundo, con pasos claros para cada resultado.",
+        "tag": "Herramienta validada",
+        "points": [
+          "La EPDS de diez preguntas, puntuada como en la consulta",
+          "Resultados en lenguaje claro, con un siguiente paso para cada puntuación",
+          "Cualquier señal de autolesión muestra al instante recursos de crisis"
+        ]
+      },
+      "companion": {
+        "title": "Compañía de IA",
+        "body": "Un chat cálido y basado en la evidencia que recuerda vuestra conversación y detecta cuándo necesitas ayuda urgente.",
+        "tag": "Día y noche",
+        "points": [
+          "Recuerda vuestra conversación para que nunca tengas que repetirte",
+          "Reconoce el lenguaje de crisis en los cinco idiomas",
+          "Respuestas amables y sin juicios, en el idioma que elijas"
+        ]
+      },
+      "specialists": {
+        "title": "Consultas por voz",
+        "body": "Nueve especialistas de IA de obstetricia y lactancia a salud mental con quienes puedes hablar sin más.",
+        "tag": "Nueve especialistas",
+        "points": [
+          "De obstetricia, pediatría y lactancia a salud mental y nutrición",
+          "Voces naturales en inglés, sueco, alemán, francés y español",
+          "Un resumen imprimible después de cada consulta"
+        ]
+      },
+      "programme": {
+        "title": "Programa de 90 días",
+        "body": "Pasos diarios personalizados para el descanso, la recuperación, el vínculo y la conexión, adaptados a tu situación.",
+        "tag": "Tres fases",
+        "points": [
+          "Adaptado a tu situación, tu red de apoyo y tus antecedentes",
+          "Fases de Base, Construcción y Plenitud a lo largo de 90 días",
+          "Tareas diarias, reflexiones y recordatorios opcionales por correo"
+        ]
+      }
+    },
+    "cta": "Ver todas las funciones"
+  },
+  "safety": {
+    "eyebrow": "Seguridad clínica",
+    "title": "Seguridad integrada desde el diseño",
+    "body": "Cada mensaje se revisa en busca de señales de crisis. Cuando se detecta un riesgo, MumWell responde con cuidado, muestra los números de emergencia y de ayuda del país de la madre y la anima a contactar con alguien de confianza.",
+    "flow": [
+      {
+        "title": "Ella se acerca",
+        "body": "Una madre escribe o habla en su propio idioma."
+      },
+      {
+        "title": "Se reconoce el riesgo",
+        "body": "El lenguaje de crisis se detecta en cinco idiomas, junto con una evaluación de riesgo por IA."
+      },
+      {
+        "title": "Primero, la seguridad",
+        "body": "La respuesta se vuelve serena, clara y centrada en su seguridad inmediata."
+      },
+      {
+        "title": "Ayuda a un toque",
+        "body": "Los números locales de emergencia y de ayuda aparecen al instante."
+      }
+    ],
+    "doesTitle": "Lo que hace la IA de MumWell",
+    "does": [
+      "Escucha, refleja y ofrece estrategias de afrontamiento basadas en la evidencia",
+      "Explica los resultados del cribado en lenguaje claro",
+      "Orienta hacia la atención profesional y de urgencia"
+    ],
+    "doesntTitle": "Lo que nunca hace",
+    "doesnt": [
+      "Diagnosticar ni recetar medicamentos",
+      "Sustituir a matronas, médicos o profesionales de salud mental",
+      "Vender, compartir o usar datos personales para publicidad"
+    ],
+    "aiNotice": "Siempre se informa a las usuarias de que están hablando con una IA."
+  },
+  "mood": {
+    "title": "¿Cómo te sientes ahora mismo?",
+    "subtitle": "No hay respuestas equivocadas. Darte cuenta es el primer paso.",
+    "hint": "Elige la cara que más se parezca a cómo te sientes.",
+    "labels": [
+      "Muy mal",
+      "Mal",
+      "Regular",
+      "Bien",
+      "Muy bien"
+    ],
+    "responses": [
+      "Gracias por tu sinceridad. Mereces apoyo: no estás sola.",
+      "Los días difíciles existen. Los pequeños pasos y una palabra amable hacia ti cuentan.",
+      "Regular también está bien. Es importante escucharte.",
+      "Qué bien. Fíjate en lo que te está ayudando hoy.",
+      "¡Estupendo! Guarda esta sensación y lo que te la ha traído."
+    ],
+    "cta": "Empieza a cuidar tu bienestar",
+    "kicker": "Un momento para ti"
+  },
+  "global": {
+    "eyebrow": "Global desde el diseño",
+    "title": "Tu idioma. Tus datos. Tus derechos.",
+    "body": "Estés donde estés, MumWell te protege con los estándares de privacidad más exigentes del mundo, incluido el RGPD de la UE, y te acompaña en tu propio idioma.",
+    "points": [
+      "Toda la experiencia, incluidos el chat con IA y la voz, en inglés, sueco, alemán, francés y español",
+      "Consentimiento explícito antes de tratar cualquier dato de salud",
+      "Descarga o elimina definitivamente tus datos cuando quieras",
+      "Sin publicidad, sin cookies de seguimiento y sin venta de datos, nunca"
+    ],
+    "languagesTitle": "Disponible en",
+    "helplines": "Números de emergencia y de ayuda para 15 países en cuatro continentes"
+  },
+  "principles": {
+    "eyebrow": "Nuestros principios",
+    "title": "Tecnología con corazón humano",
+    "items": [
+      {
+        "title": "La seguridad, lo primero",
+        "body": "Cada conversación se revisa en busca de señales de crisis, con los números de emergencia y ayuda a un solo toque."
+      },
+      {
+        "title": "Basado en la evidencia",
+        "body": "Construido sobre herramientas y enfoques validados como la TCC, la activación conductual y la autocompasión."
+      },
+      {
+        "title": "Privacidad desde el diseño",
+        "body": "Solo los datos necesarios para ayudarte, protegidos por tu consentimiento, el cifrado en tránsito y tu derecho a borrarlos."
+      },
+      {
+        "title": "Complementa la atención",
+        "body": "MumWell apoya, pero nunca sustituye, a matronas, médicos, enfermeras pediátricas y profesionales de la salud mental."
+      }
+    ]
+  },
+  "faq": {
+    "eyebrow": "Preguntas frecuentes",
+    "title": "Tus preguntas, respondidas",
+    "more": "¿Más preguntas? Escríbenos"
+  },
+  "cta": {
+    "title": "Mereces sentirte acompañada.",
+    "body": "Crea una cuenta gratuita en menos de un minuto y da hoy el primer paso con calma.",
+    "button": "Empezar",
+    "secondary": "Hacer el cribado",
+    "note": "Gratis · Privado · En tu idioma"
+  }
+}

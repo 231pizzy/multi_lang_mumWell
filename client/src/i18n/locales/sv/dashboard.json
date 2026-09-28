@@ -1,0 +1,158 @@
+{
+  "welcome": "Välkommen tillbaka, {{name}}",
+  "welcomeFallback": "Välkommen tillbaka",
+  "subtitle": "Hur mår du i dag? Varje litet steg räknas.",
+  "reminders": "Inställningar för påminnelser",
+  "quick": {
+    "title": "Snabbval",
+    "subtitle": "Välj det som känns rätt i dag",
+    "voice": "Röstkonsultation",
+    "voiceSub": "Prata med en AI-specialist",
+    "chat": "Chatta med MumWell",
+    "chatSub": "Din AI-följeslagare, när som helst",
+    "test": "EPDS-screening",
+    "program": "Mitt program",
+    "mood": "Registrera humör",
+    "moodSub": "Hur känner du dig?",
+    "activity": "Logga aktivitet",
+    "activitySub": "Registrera egenvård"
+  },
+  "overview": {
+    "title": "Dagens översikt",
+    "subtitle": "Ditt välmående i korthet, {{date}}",
+    "refresh": "Uppdatera",
+    "noData": "Inga uppgifter ännu",
+    "moodTitle": "Humör",
+    "moodChecked": "Registrerat {{when}}",
+    "moodEmpty": "Registrera ditt humör för att se det här",
+    "activeTitle": "Aktiva dagar",
+    "activeDesc": "Dagar med incheckning eller aktivitet den här veckan",
+    "todayTitle": "Aktiviteter i dag",
+    "todayDesc": "Loggade aktiviteter och övningar",
+    "epdsTitle": "EPDS-poäng",
+    "epdsEmpty": "Gör screeningen",
+    "updated": "Senast uppdaterad {{time}}",
+    "loadError": "Vissa uppgifter kunde inte hämtas. Försök uppdatera sidan."
+  },
+  "insights": {
+    "title": "Insikter",
+    "subtitle": "Varsamma iakttagelser utifrån din senaste aktivitet",
+    "empty": "Gör några incheckningar eller aktiviteter för att se personliga insikter.",
+    "moodUp": {
+      "title": "Humöret stiger",
+      "body": "Ditt senaste humör ligger över veckans genomsnitt. Fortsätt med det som hjälper dig."
+    },
+    "moodDown": {
+      "title": "En tyngre period",
+      "body": "Ditt humör har sjunkit på sistone. En kort andningsövning eller ett samtal med MumWell kan hjälpa."
+    },
+    "consistent": {
+      "title": "Regelbunden träning",
+      "body": "Du har gjort avslappningsövningar regelbundet, och det hjälper till att minska stress."
+    },
+    "mindful": {
+      "title": "Plats för lugn",
+      "body": "Prova att lägga in en kort avslappningsövning i din dag."
+    },
+    "start": {
+      "title": "Börja smått",
+      "body": "Registrera ditt humör eller prova en avslappningsövning nedan. Små steg räknas."
+    },
+    "morning": {
+      "title": "Morgonrytm",
+      "body": "Du är mest aktiv på morgonen. Planera gärna in egenvård då."
+    },
+    "evening": {
+      "title": "Kvällsrytm",
+      "body": "Du är ofta mer aktiv på kvällen. Kom ihåg att varva ned innan du lägger dig."
+    }
+  },
+  "moodDialog": {
+    "title": "Hur känner du dig?",
+    "subtitle": "Dra i reglaget för att registrera hur du mår just nu.",
+    "labels": [
+      "Mycket dåligt",
+      "Dåligt",
+      "Okej",
+      "Bra",
+      "Mycket bra"
+    ],
+    "note": "Något du tänker på? (valfritt)",
+    "save": "Spara humör",
+    "saved": "Humöret är sparat",
+    "savedBody": "Tack för att du känner efter hur du mår.",
+    "failed": "Det gick inte att spara ditt humör."
+  },
+  "activity": {
+    "title": "Logga en aktivitet",
+    "subtitle": "Registrera något du har gjort för ditt välmående.",
+    "type": "Typ av aktivitet",
+    "typePlaceholder": "Välj en typ",
+    "types": {
+      "meditation": "Meditation",
+      "exercise": "Träning",
+      "walking": "Promenad",
+      "reading": "Läsning",
+      "journaling": "Dagboksskrivande",
+      "therapy": "Terapisamtal"
+    },
+    "name": "Namn",
+    "namePlaceholder": "Morgonmeditation, kvällspromenad…",
+    "duration": "Längd (minuter)",
+    "description": "Anteckningar (valfritt)",
+    "descriptionPlaceholder": "Hur gick det?",
+    "save": "Spara aktivitet",
+    "saved": "Aktiviteten är loggad",
+    "required": "Välj en typ och ge aktiviteten ett namn.",
+    "failed": "Det gick inte att logga aktiviteten."
+  },
+  "games": {
+    "title": "Avslappningsövningar",
+    "subtitle": "Korta, lugnande aktiviteter för oroliga eller överväldigande stunder",
+    "start": "Starta {{name}}",
+    "items": {
+      "breathing": {
+        "title": "Andningsmönster",
+        "description": "Följ en lugnande andningsrytm med visuell vägledning",
+        "duration": "5 min"
+      },
+      "garden": {
+        "title": "Zenträdgård",
+        "description": "Skapa din egen lilla fridfulla trädgård",
+        "duration": "10 min"
+      },
+      "forest": {
+        "title": "Medveten skog",
+        "description": "Vila till fågelsång och prasslande löv",
+        "duration": "5 min"
+      },
+      "waves": {
+        "title": "Havsvågor",
+        "description": "Andas i takt med mjuka vågor",
+        "duration": "5 min"
+      }
+    },
+    "breatheIn": "Andas in",
+    "hold": "Håll andan",
+    "breatheOut": "Andas ut",
+    "round": "Omgång {{round}} av {{total}}",
+    "pause": "Pausa",
+    "resume": "Fortsätt",
+    "greatJob": "Bra gjort",
+    "completed": "Du har gjort {{total}} omgångar lugn andning. Hur känner du dig nu?",
+    "again": "Börja om",
+    "volume": "Volym",
+    "play": "Spela",
+    "wavesHint": "Andas in när vågen stiger och ut när den sjunker",
+    "gardenHint": "Välj ett föremål och tryck sedan på sanden för att placera det"
+  },
+  "hero": {
+    "programmeLabel": "Ditt 90-dagarsprogram",
+    "programmeDay": "Dag {{day}} av {{total}}",
+    "programmeDone": "{{count}} dagar klara",
+    "programmeCta": "Fortsätt i dag",
+    "noProgrammeTitle": "Starta ditt personliga 90-dagarsprogram",
+    "noProgrammeBody": "Små dagliga steg för vila, återhämtning och anknytning, anpassade efter dig.",
+    "noProgrammeCta": "Skapa mitt program"
+  }
+}

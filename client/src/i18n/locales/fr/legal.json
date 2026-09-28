@@ -1,0 +1,168 @@
+{
+  "draftNotice": "Projet à valider : ce texte doit être relu par un avocat spécialisé en protection des données avant tout lancement public. Les éléments entre [crochets] doivent être complétés.",
+  "lastUpdated": "Dernière mise à jour : {{date}}",
+  "contents": "Sommaire",
+  "privacy": {
+    "eyebrow": "Politique de confidentialité",
+    "title": "Comment nous protégeons vos données",
+    "intro": "MumWell traite des informations sensibles sur votre santé et votre bien-être. Cette politique explique ce que nous collectons, pourquoi, qui traite ces données et quels sont vos droits au titre du Règlement général sur la protection des données (RGPD).",
+    "sections": [
+      {
+        "heading": "1. Responsable du traitement",
+        "paragraphs": [
+          "Le responsable du traitement est [dénomination sociale], [adresse du siège], [numéro d'immatriculation] (« MumWell », « nous »). Pour toute question relative à la confidentialité, écrivez à support@mumwell.org.",
+          "[Le cas échéant : notre délégué à la protection des données est joignable à …]"
+        ]
+      },
+      {
+        "heading": "2. Données collectées",
+        "bullets": [
+          "Données de compte : votre nom, votre adresse e-mail, votre numéro de téléphone, votre pays, un mot de passe haché de manière sécurisée et votre langue préférée.",
+          "Registre des consentements : les consentements que vous avez donnés et leur date.",
+          "Données de santé et de bien-être (catégories particulières de données) : bilans d'humeur, réponses et scores au dépistage EPDS, activités, bilans quotidiens, votre programme de 90 jours et vos réflexions, messages du chat IA, transcriptions et comptes rendus des consultations vocales, ainsi que les informations fournies lors de la création de votre programme (par exemple grossesse ou antécédents de santé mentale).",
+          "Paramètres des rappels : activation des rappels, heure et fuseau horaire choisis.",
+          "Données techniques : sessions de connexion (type d'appareil et date d'expiration) nécessaires à la sécurité de votre compte.",
+          "Registres d'alertes de crise : quand vous sembliez exposée à un risque immédiat, ce qui a suscité l'inquiétude et si notre ligne d'écoute de crise a été prévenue."
+        ],
+        "paragraphs": [
+          "Nous n'utilisons aucun cookie publicitaire ou de suivi et ne vendons jamais vos données."
+        ]
+      },
+      {
+        "heading": "3. Finalités et bases légales",
+        "bullets": [
+          "Fournir le service auquel vous vous êtes inscrite, à savoir le compte, le programme, le suivi et les rappels (art. 6, paragraphe 1, point b) du RGPD, exécution du contrat).",
+          "Traiter les données de santé et de bien-être, uniquement avec votre consentement explicite (art. 9, paragraphe 2, point a) du RGPD). Vous pouvez le retirer à tout moment en supprimant votre compte.",
+          "Assurer la sécurité du service et prévenir les abus, par exemple par la limitation des requêtes et la protection des connexions (art. 6, paragraphe 1, point f), intérêt légitime).",
+          "Respecter nos obligations légales le cas échéant (art. 6, paragraphe 1, point c)).",
+          "Pour vous protéger en cas de crise : si un message, une réponse au dépistage ou une consultation vocale laisse penser que vous pourriez vous faire du mal ou faire du mal à votre bébé, nous envoyons par e-mail à notre ligne d'écoute de crise vos coordonnées, toute adresse ou tout numéro que vous choisissez de partager dans cet échange, les informations utiles de votre profil et de votre dépistage ainsi que les mots préoccupants, afin qu'une personne formée puisse vous joindre (art. 9, paragraphe 2, point a), consentement explicite ; si vous ne pouvez pas consentir, art. 9, paragraphe 2, point c), et art. 6, paragraphe 1, point d), intérêts vitaux)."
+        ]
+      },
+      {
+        "heading": "4. Intelligence artificielle",
+        "paragraphs": [
+          "MumWell utilise des modèles d'IA pour répondre dans le chat, générer votre programme, suggérer des spécialistes et résumer les consultations vocales. Vous êtes toujours informée lorsque vous interagissez avec une IA. L'IA évalue également si un message peut signaler une crise afin d'afficher des informations d'urgence ; elle ne prend aucune décision produisant des effets juridiques ou similaires significatifs à votre égard et ne pose pas de diagnostic."
+        ]
+      },
+      {
+        "heading": "5. Qui traite vos données",
+        "paragraphs": [
+          "Nous faisons appel à des prestataires soigneusement sélectionnés (sous-traitants) liés par des contrats de sous-traitance :"
+        ],
+        "bullets": [
+          "MongoDB Atlas : base de données du compte, du chat et du suivi, hébergée dans l'UE (Irlande).",
+          "Neon : base de données des programmes et consultations. [Actuellement hébergée aux États-Unis ; migration vers une région de l'UE prévue.]",
+          "Google (API Gemini) : génération de texte par IA.",
+          "Vapi et ses fournisseurs vocaux : consultations vocales (reconnaissance vocale, synthèse vocale et modèle de langage).",
+          "[Fournisseur d'e-mail] : e-mails de réinitialisation du mot de passe et de rappel.",
+          "[Organisme de la ligne d'écoute de crise] : reçoit les alertes de crise par e-mail et vous contacte dans le respect de sa propre obligation de confidentialité."
+        ]
+      },
+      {
+        "heading": "6. Transferts internationaux",
+        "paragraphs": [
+          "Lorsqu'un prestataire traite des données hors de l'Espace économique européen, nous nous appuyons sur une décision d'adéquation (comme le cadre de protection des données UE-États-Unis) ou sur des clauses contractuelles types assorties de mesures complémentaires. [Préciser le mécanisme utilisé pour chaque prestataire.]"
+        ]
+      },
+      {
+        "heading": "7. Durées de conservation",
+        "bullets": [
+          "Conversations du chat IA : supprimées automatiquement 24 heures après le dernier message.",
+          "Sessions de connexion : supprimées automatiquement à leur expiration.",
+          "Liens de réinitialisation du mot de passe : valables une heure.",
+          "Registres d'alertes de crise : conservés jusqu'à la suppression de votre compte. Les e-mails d'alerte déjà remis à la ligne d'écoute sont conservés par celle-ci selon ses propres règles. [Indiquer la durée de conservation de la ligne d'écoute.]",
+          "Toutes les autres données de compte et de santé : conservées jusqu'à la suppression de votre compte, puis effacées définitivement de nos systèmes actifs. [Indiquer la durée de conservation des sauvegardes.]"
+        ]
+      },
+      {
+        "heading": "8. Vos droits",
+        "paragraphs": [
+          "Conformément au RGPD, vous avez le droit :"
+        ],
+        "bullets": [
+          "D'accéder à vos données et d'en obtenir une copie : utilisez « Télécharger mes données » dans Compte et confidentialité.",
+          "À la portabilité des données : le téléchargement est un fichier JSON lisible par machine.",
+          "À l'effacement : utilisez « Supprimer mon compte » pour effacer définitivement vos données.",
+          "De rectification : modifiez votre nom et vos paramètres dans Compte et confidentialité, ou contactez-nous.",
+          "De retirer votre consentement à tout moment, sans remettre en cause la licéité du traitement effectué auparavant.",
+          "De demander la limitation du traitement ou de vous y opposer : contactez-nous.",
+          "D'introduire une réclamation auprès d'une autorité de protection des données, notamment dans le pays de l'UE où vous résidez (en France, la CNIL)."
+        ]
+      },
+      {
+        "heading": "9. Sécurité",
+        "paragraphs": [
+          "Les données sont chiffrées en transit, les mots de passe sont stockés sous forme de hachages salés, les sessions peuvent être révoquées, l'accès est limité à votre propre compte et le contenu des conversations n'est jamais inscrit dans nos journaux."
+        ]
+      },
+      {
+        "heading": "10. Âge",
+        "paragraphs": [
+          "MumWell s'adresse aux adultes âgés de 18 ans ou plus."
+        ]
+      },
+      {
+        "heading": "11. Modifications",
+        "paragraphs": [
+          "En cas de modification importante de cette politique, nous vous en informerons dans l'application et, si nécessaire, vous demanderons à nouveau votre consentement."
+        ]
+      }
+    ]
+  },
+  "terms": {
+    "eyebrow": "Conditions d'utilisation",
+    "title": "Utiliser MumWell en toute sécurité",
+    "intro": "Ces conditions expliquent ce qu'est MumWell, ce qu'il n'est pas et les responsabilités liées à son utilisation.",
+    "sections": [
+      {
+        "heading": "1. Ce qu'est MumWell",
+        "paragraphs": [
+          "MumWell est un service numérique de bien-être proposant un dépistage, des conversations assistées par l'IA, des consultations vocales avec des spécialistes IA et un programme personnalisé pour les mères pendant la grossesse et après la naissance. Il est fourni par [dénomination sociale]."
+        ]
+      },
+      {
+        "heading": "2. Ni service médical, ni service d'urgence",
+        "paragraphs": [
+          "MumWell ne pose pas de diagnostic, ne soigne pas, ne donne pas d'avis médical et ne remplace pas les sages-femmes, les médecins ou les professionnels de la santé mentale. Les réponses de l'IA peuvent être incomplètes ou erronées. Les résultats de dépistage ne sont qu'une indication.",
+          "MumWell n'est pas un service d'urgence. Si vous ou votre bébé êtes en danger, ou si vous pensez à vous faire du mal, appelez immédiatement le 112 ou votre numéro d'urgence local."
+        ]
+      },
+      {
+        "heading": "3. Qui peut utiliser MumWell",
+        "paragraphs": [
+          "Vous devez avoir au moins 18 ans et donner les consentements demandés lors de l'inscription."
+        ]
+      },
+      {
+        "heading": "4. Votre compte",
+        "paragraphs": [
+          "Gardez votre mot de passe confidentiel et prévenez-nous si vous pensez que quelqu'un a accédé à votre compte sans autorisation. Vous pouvez supprimer votre compte à tout moment."
+        ]
+      },
+      {
+        "heading": "5. Utilisation acceptable",
+        "paragraphs": [
+          "N'utilisez pas le service de manière abusive, ne tentez pas d'accéder aux données d'autrui, ne perturbez pas le service et ne l'utilisez pas pour produire des contenus préjudiciables."
+        ]
+      },
+      {
+        "heading": "6. Disponibilité et modifications",
+        "paragraphs": [
+          "Nous faisons en sorte que MumWell reste disponible, sans pouvoir garantir un accès ininterrompu. Nous pouvons faire évoluer les fonctionnalités et les présentes conditions ; les changements importants seront annoncés dans l'application."
+        ]
+      },
+      {
+        "heading": "7. Responsabilité",
+        "paragraphs": [
+          "Rien dans ces conditions ne limite une responsabilité qui ne peut l'être en vertu du droit applicable, y compris vos droits légaux en tant que consommatrice. [À compléter selon le droit applicable.]"
+        ]
+      },
+      {
+        "heading": "8. Droit applicable",
+        "paragraphs": [
+          "Les présentes conditions sont régies par le droit de [pays]. [Ajouter les modalités de règlement des litiges.]"
+        ]
+      }
+    ]
+  }
+}

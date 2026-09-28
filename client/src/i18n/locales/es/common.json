@@ -1,0 +1,150 @@
+{
+  "meta": {
+    "title": "MumWell · Apoyo en salud mental perinatal para cada madre"
+  },
+  "brand": {
+    "tagline": "Salud mental perinatal"
+  },
+  "nav": {
+    "about": "Quiénes somos",
+    "features": "Funciones",
+    "article": "Entender la depresión posparto",
+    "contact": "Contacto",
+    "dashboard": "Panel",
+    "test": "Cribado",
+    "consultation": "Consulta por voz",
+    "chat": "Chat con IA",
+    "program": "Mi programa",
+    "emergency": "Pedir ayuda",
+    "signIn": "Iniciar sesión",
+    "getStarted": "Empezar",
+    "signOut": "Cerrar sesión",
+    "notifications": "Recordatorios",
+    "account": "Cuenta y privacidad",
+    "openMenu": "Abrir menú",
+    "closeMenu": "Cerrar menú",
+    "accountMenu": "Menú de la cuenta",
+    "main": "Navegación principal",
+    "mobile": "Navegación móvil",
+    "skipToContent": "Saltar al contenido"
+  },
+  "language": {
+    "label": "Idioma",
+    "choose": "Elegir idioma"
+  },
+  "theme": {
+    "toggle": "Cambiar entre tema claro y oscuro"
+  },
+  "actions": {
+    "continue": "Continuar",
+    "back": "Atrás",
+    "next": "Siguiente",
+    "cancel": "Cancelar",
+    "save": "Guardar",
+    "saving": "Guardando…",
+    "close": "Cerrar",
+    "tryAgain": "Intentar de nuevo",
+    "done": "Hecho",
+    "refresh": "Actualizar",
+    "backHome": "Volver al inicio",
+    "backToDashboard": "Volver al panel",
+    "loading": "Cargando…"
+  },
+  "errors": {
+    "generic": "Algo ha salido mal. Inténtalo de nuevo.",
+    "network": "No podemos conectar con MumWell ahora mismo. Revisa tu conexión e inténtalo de nuevo.",
+    "timeout": "La solicitud ha tardado demasiado. Inténtalo de nuevo."
+  },
+  "footer": {
+    "tagline": "Apoyo basado en la evidencia y asistido por IA para madres durante el embarazo y el primer año tras el parto.",
+    "rights": "© {{year}} MumWell. Todos los derechos reservados.",
+    "disclaimer": "MumWell complementa, pero no sustituye, la atención profesional. En caso de emergencia, llama a tu número de emergencias local.",
+    "product": "El servicio",
+    "support": "Ayuda",
+    "legal": "Legal",
+    "privacy": "Política de privacidad",
+    "terms": "Condiciones de uso",
+    "getHelp": "Líneas de ayuda en crisis",
+    "noTracking": "Sin cookies publicitarias ni de seguimiento. Privacidad protegida según los estándares del RGPD.",
+    "photos": "Fotos: {{names}} vía",
+    "crisisTitle": "¿Necesitas ayuda ahora?",
+    "crisisBody": "Si tú o tu bebé estáis en peligro, llama a tu número de emergencias local o busca una línea de ayuda de tu país.",
+    "languagesTitle": "Idiomas",
+    "poweredBy": "Impulsado por"
+  },
+  "ai": {
+    "disclosure": "Estás hablando con una IA, no con una persona. Puede cometer errores y no sustituye la atención profesional."
+  },
+  "crisis": {
+    "compactTitle": "No tienes que pasar por esto sola.",
+    "compactBody": "Si piensas en hacerte daño o en hacer daño a tu bebé, o no te sientes segura, llama ahora a tu número de emergencias local o busca a alguien de confianza cerca de ti.",
+    "seeHelplines": "Ver líneas de ayuda",
+    "title": "¿Necesitas ayuda ahora?",
+    "intro": "Si estás en peligro inmediato, o piensas en hacerte daño o en hacer daño a tu bebé, contacta ahora con los servicios de emergencia o con una línea de ayuda. La depresión posparto es frecuente y tiene tratamiento: pedir ayuda es una muestra de fortaleza.",
+    "emergencyLabel": "Servicios de emergencia",
+    "supportLabel": "Línea europea de apoyo emocional",
+    "supportNote": "El 116 123 está disponible en muchos países europeos.",
+    "countryLabel": "Ver líneas de ayuda de",
+    "elsewhere": "¿En otro lugar? Encuentra una línea de ayuda gratuita y confidencial en",
+    "countries": {
+      "SE": "Suecia",
+      "DE": "Alemania",
+      "AT": "Austria",
+      "CH": "Suiza",
+      "FR": "Francia",
+      "BE": "Bélgica",
+      "ES": "España",
+      "IE": "Irlanda",
+      "GB": "Reino Unido",
+      "NL": "Países Bajos",
+      "US": "Estados Unidos",
+      "CA": "Canadá",
+      "AU": "Australia",
+      "NZ": "Nueva Zelanda",
+      "NG": "Nigeria"
+    },
+    "notes": {
+      "free247": "24 horas, gratuita",
+      "always": "24 horas",
+      "mindChat": "También ofrece chat en mind.se",
+      "healthAdvice": "Consejo sanitario 24 horas",
+      "medicalEmergency": "Emergencia médica",
+      "dutch247": "En neerlandés, 24 horas",
+      "french247": "En francés, 24 horas",
+      "urgentEngland": "Ayuda urgente en salud mental (Inglaterra)",
+      "callOrText247": "Llamada o mensaje, 24 horas",
+      "perinatal": "Apoyo en salud mental perinatal",
+      "also112": "El 112 también funciona",
+      "also112Mobile": "El 112 también funciona desde móviles",
+      "allEu": "Los 27 países de la UE"
+    },
+    "noLocalHelplines": "Aún no tenemos líneas de ayuda para tu país. Llama a tu número de emergencias local o elige un país cercano abajo.",
+    "call": "Llamar",
+    "callNumber": "Llamar al {{number}}, número de emergencias en {{country}}",
+    "directoryTitle": "Números de emergencia por país",
+    "directoryIntro": "Si tú o tu bebé estáis en peligro inmediato, llama ahora al número de emergencias del país en el que te encuentres. Toca un número para llamar.",
+    "euTitle": "Unión Europea"
+  },
+  "notFound": {
+    "title": "No hemos encontrado esa página",
+    "body": "Puede que la página se haya movido o que el enlace no sea correcto."
+  },
+  "consentGate": {
+    "title": "Antes de continuar",
+    "body": "Hemos mejorado cómo te protegemos: si pareces estar en riesgo inmediato, MumWell ahora puede avisar a una línea de ayuda en crisis para que alguien se ponga en contacto contigo. Revisa y confirma los puntos siguientes para continuar.",
+    "confirm": "Confirmar y continuar",
+    "signOutInstead": "Prefiero cerrar sesión"
+  },
+  "consent": {
+    "terms": "He leído y acepto las <terms>condiciones de uso</terms> y la <privacy>política de privacidad</privacy>.",
+    "health": "Doy mi consentimiento explícito para que MumWell trate información sobre mi salud y bienestar (como el estado de ánimo, los resultados del cribado y las conversaciones) con el fin de prestar el servicio. Puedo retirar este consentimiento en cualquier momento eliminando mi cuenta. Si parezco estar en riesgo inmediato de hacerme daño o de hacer daño a mi bebé, MumWell puede compartir mis datos de contacto y el mensaje preocupante con su línea de ayuda en crisis para que una persona formada pueda contactarme.",
+    "age": "Tengo 18 años o más.",
+    "required": "Confirma los tres puntos para continuar."
+  },
+  "supportBar": {
+    "text": "¿En crisis o preocupada por tu seguridad? Llama a tu número de emergencias local.",
+    "link": "Buscar una línea de ayuda"
+  },
+  "notYet": "Aún no",
+  "notAvailable": "No disponible"
+}

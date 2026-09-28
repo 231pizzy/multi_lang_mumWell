@@ -1,0 +1,283 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+@import "@fontsource-variable/inter";
+@import "@fontsource-variable/plus-jakarta-sans";
+@plugin "@tailwindcss/typography";
+
+@custom-variant dark (&:is(.dark *));
+
+/*
+ * MumWell design system — "clinical warmth".
+ * Deep indigo carries trust and clinical credibility, rose adds warmth (both taken from the
+ * logo gradient), teal signals wellbeing and amber is reserved for caution.
+ * Fonts are bundled with the app (no requests to Google) for GDPR compliance.
+ */
+
+@theme inline {
+  --font-sans: "Inter Variable", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Plus Jakarta Sans Variable", "Inter Variable", ui-sans-serif, sans-serif;
+
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+
+  /* Brand colours for direct use (bg-coral, text-sage, …) */
+  --color-navy: var(--navy);
+  --color-coral: var(--coral);
+  --color-coral-foreground: var(--coral-foreground);
+  --color-coral-soft: var(--coral-soft);
+  --color-sage: var(--sage);
+  --color-sage-foreground: var(--sage-foreground);
+  --color-sage-soft: var(--sage-soft);
+  --color-sky-soft: var(--sky-soft);
+  --color-amber: var(--amber);
+  --color-amber-soft: var(--amber-soft);
+
+  --radius-sm: calc(var(--radius) - 6px);
+  --radius-md: calc(var(--radius) - 3px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+  --radius-2xl: calc(var(--radius) + 10px);
+
+  --shadow-soft: 0 1px 2px rgb(30 22 90 / 0.04), 0 8px 24px -12px rgb(30 22 90 / 0.14);
+  --shadow-lift: 0 2px 4px rgb(30 22 90 / 0.05), 0 24px 48px -20px rgb(30 22 90 / 0.3);
+  --shadow-glow: 0 0 0 1px rgb(106 91 214 / 0.08), 0 30px 60px -24px rgb(106 91 214 / 0.35);
+
+  --animate-fadeIn: fadeIn 0.45s ease-out both;
+  --animate-float: float 7s ease-in-out infinite;
+
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(8px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  @keyframes float {
+    0%,
+    100% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(-10px);
+    }
+  }
+}
+
+:root {
+  --radius: 0.875rem;
+
+  --background: #f8f7fc;
+  --foreground: #161433;
+
+  --card: #ffffff;
+  --card-foreground: #161433;
+  --popover: #ffffff;
+  --popover-foreground: #161433;
+
+  --primary: #2a2170;
+  --primary-foreground: #ffffff;
+  --secondary: #efedf8;
+  --secondary-foreground: #2a2170;
+  --muted: #f1eff8;
+  --muted-foreground: #5c5878;
+  --accent: #fdecf2;
+  --accent-foreground: #9c2857;
+
+  --destructive: #c53030;
+  --destructive-foreground: #ffffff;
+
+  --border: #e6e3f1;
+  --input: #d9d5ea;
+  --ring: #6a5bd6;
+
+  /* Brand roles: token names are historical — "navy" is the indigo ink, "coral" the rose accent. */
+  --navy: #2a2170;
+  --coral: #c23a6b;
+  --coral-foreground: #ffffff;
+  --coral-soft: #fdecf2;
+  --sage: #1f7563;
+  --sage-foreground: #ffffff;
+  --sage-soft: #e7f4f0;
+  --sky-soft: #efedfb;
+  --amber: #b45309;
+  --amber-soft: #fef3e2;
+
+  --logo-from: #43238f;
+  --logo-mid: #b24ea3;
+  --logo-to: #f47a9c;
+  --brand-ink: #2b1f6e;
+
+  --hero-glow-1: #e9e4ff;
+  --hero-glow-2: #ffe4ee;
+  --grid-dot: rgb(42 33 112 / 0.09);
+}
+
+.dark {
+  --background: #0f0d22;
+  --foreground: #ece9fb;
+
+  --card: #18162f;
+  --card-foreground: #ece9fb;
+  --popover: #18162f;
+  --popover-foreground: #ece9fb;
+
+  --primary: #a99cff;
+  --primary-foreground: #0f0d22;
+  --secondary: #221f3f;
+  --secondary-foreground: #dcd6ff;
+  --muted: #1d1a36;
+  --muted-foreground: #a39fbd;
+  --accent: #3a1a2b;
+  --accent-foreground: #ffb3c9;
+
+  --destructive: #f07167;
+  --destructive-foreground: #0f0d22;
+
+  --border: #2a2748;
+  --input: #34305a;
+  --ring: #a99cff;
+
+  --navy: #a99cff;
+  --coral: #ff8fb0;
+  --coral-foreground: #1a0b12;
+  --coral-soft: #3a1a2b;
+  --sage: #7fd1bb;
+  --sage-foreground: #0f0d22;
+  --sage-soft: #13302a;
+  --sky-soft: #221f3f;
+  --amber: #fbbf6a;
+  --amber-soft: #3a2a12;
+
+  --logo-from: #9a7ff0;
+  --logo-mid: #d173c2;
+  --logo-to: #ff8fac;
+  --brand-ink: #ece8ff;
+
+  --hero-glow-1: #2a2160;
+  --hero-glow-2: #3a1a35;
+  --grid-dot: rgb(169 156 255 / 0.1);
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+
+  html {
+    -webkit-text-size-adjust: 100%;
+  }
+
+  body {
+    @apply bg-background text-foreground font-sans antialiased;
+    font-feature-settings: "cv11", "ss01";
+  }
+
+  h1,
+  h2,
+  h3,
+  h4 {
+    @apply font-display tracking-tight;
+  }
+
+  :focus-visible {
+    @apply outline-2 outline-offset-2 outline-ring;
+  }
+}
+
+@layer components {
+  /* Section eyebrow label, e.g. "How it works" */
+  .eyebrow {
+    @apply inline-flex items-center gap-2 rounded-full border border-coral/20 bg-coral-soft px-3 py-1 text-xs font-semibold uppercase tracking-[0.14em] text-accent-foreground;
+  }
+  .eyebrow::before {
+    content: "";
+    @apply h-1.5 w-1.5 rounded-full bg-coral;
+  }
+
+  .surface {
+    @apply rounded-2xl border bg-card text-card-foreground shadow-[var(--shadow-soft)];
+  }
+
+  /* Card that lifts on hover */
+  .surface-interactive {
+    @apply rounded-2xl border bg-card text-card-foreground shadow-[var(--shadow-soft)] transition duration-300 hover:-translate-y-1 hover:border-primary/25 hover:shadow-[var(--shadow-lift)];
+  }
+
+  /* Brand gradient text, taken from the logo */
+  .text-gradient {
+    background: linear-gradient(100deg, var(--logo-from), var(--logo-mid) 55%, var(--logo-to));
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+  }
+
+  .bg-brand-gradient {
+    background: linear-gradient(120deg, var(--logo-from), var(--logo-mid) 60%, var(--logo-to));
+  }
+
+  /* Faint dot grid used behind heroes */
+  .bg-dot-grid {
+    background-image: radial-gradient(var(--grid-dot) 1px, transparent 1px);
+    background-size: 22px 22px;
+  }
+
+  /* Soft two-colour glow behind heroes */
+  .bg-hero-glow {
+    background:
+      radial-gradient(60% 60% at 85% 10%, var(--hero-glow-1), transparent 70%),
+      radial-gradient(50% 50% at 5% 90%, var(--hero-glow-2), transparent 70%);
+  }
+
+  /* Small uppercase label above numbers and data */
+  .kicker {
+    @apply text-[0.7rem] font-semibold uppercase tracking-[0.16em] text-muted-foreground;
+  }
+}
+
+/* Horizontal carousels: keep scrolling but hide the scrollbar */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+@media print {
+  header,
+  footer {
+    display: none !important;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

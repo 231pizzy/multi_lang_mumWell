@@ -1,0 +1,13 @@
+{
+  "title": "Paramètres des rappels",
+  "intro": "Des rappels bienveillants par e-mail 1 heure, 30 minutes et 10 minutes avant votre bilan bien-être quotidien.",
+  "needsProgram": "Les rappels font partie de votre programme de 90 jours. <link>Créez d'abord votre programme</link>, puis revenez choisir une heure.",
+  "enable": "Rappels par e-mail",
+  "enableHint": "Activez ou désactivez les rappels de votre bilan quotidien.",
+  "time": "Heure du bilan quotidien",
+  "timezone": "Fuseau horaire",
+  "save": "Enregistrer les modifications",
+  "saved": "Paramètres des rappels mis à jour.",
+  "saveFailed": "Impossible de mettre à jour vos paramètres. Veuillez réessayer.",
+  "loadFailed": "Impossible de charger vos paramètres de rappel."
+}

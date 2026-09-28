@@ -1,0 +1,242 @@
+{
+  "hero": {
+    "eyebrow": "Perinatale psychische Gesundheit",
+    "title": "Unterstützung für jede Mutter, <accent>in ihrer eigenen Sprache.</accent>",
+    "subtitle": "MumWell verbindet validiertes Screening, eine einfühlsame KI-Begleitung und ein persönliches 90-Tage-Programm, das Mütter durch die Schwangerschaft und das erste Jahr nach der Geburt begleitet auf English, Svenska, Deutsch, Français und Español.",
+    "primaryCta": "Kostenloses Konto erstellen",
+    "secondaryCta": "EPDS-Screening starten",
+    "trust": {
+      "languages": "5 Sprachen",
+      "gdpr": "Datenschutz nach DSGVO",
+      "available": "Tag und Nacht erreichbar",
+      "evidence": "Evidenzbasiert"
+    },
+    "cardLanguageTitle": "Hej! Hallo! Bonjour! ¡Hola!",
+    "cardLanguageValue": "Sprich in deiner Sprache",
+    "badge": "Screening · KI-Begleitung · Sprachberatung",
+    "cardScreeningTitle": "EPDS-Screening",
+    "cardScreeningStep": "Frage 4 von 10",
+    "cardChatUser": "Ich habe seit Wochen nicht richtig geschlafen und fühle mich so allein.",
+    "cardChatAi": "Das klingt erschöpfend. Du bist nicht allein lass, uns einen Schritt nach dem anderen gehen.",
+    "cardSafetyTitle": "Krisenhilfe bereit",
+    "cardSafetyBody": "Lokale Hotlines, nur einen Tipp entfernt"
+  },
+  "standards": {
+    "title": "Gestaltet unter Bezug auf",
+    "items": [
+      "WHO-Leitlinien zur perinatalen psychischen Gesundheit",
+      "Edinburgh Postnatal Depression Scale (EPDS)",
+      "EU-Datenschutz-Grundverordnung (DSGVO)",
+      "Transparenzpflichten der EU-KI-Verordnung",
+      "WCAG-Richtlinien für Barrierefreiheit"
+    ]
+  },
+  "stats": {
+    "eyebrow": "Die globale Herausforderung",
+    "title": "Häufig, behandelbar und zu oft übersehen",
+    "body": "Psychische Erkrankungen rund um Schwangerschaft und Geburt betreffen Mütter in jedem Land. Unerkannt belasten sie Bindung, Stillen und die Versorgung des Babys. Mit rechtzeitiger Unterstützung erholen sich die meisten Frauen vollständig.",
+    "items": [
+      {
+        "value": "10 %",
+        "label": "der Schwangeren weltweit erleben eine psychische Erkrankung, vor allem Depressionen."
+      },
+      {
+        "value": "13 %",
+        "label": "der Frauen, die gerade entbunden haben, erleben eine psychische Erkrankung."
+      },
+      {
+        "value": "19,8 %",
+        "label": "der Frauen nach der Geburt in Entwicklungsländern: eine weit höhere Last, wo Versorgung knapp ist."
+      },
+      {
+        "value": "Besser",
+        "label": "entwickeln sich Neugeborene, wenn die Depression der Mutter behandelt wird."
+      }
+    ],
+    "source": "Quelle: Weltgesundheitsorganisation (WHO), Maternal mental health.",
+    "sourceLink": "Quelle ansehen"
+  },
+  "how": {
+    "eyebrow": "Der MumWell-Versorgungspfad",
+    "title": "Gestufte Unterstützung vom ersten Check-in bis zur professionellen Versorgung",
+    "body": "Niedrigschwellige Selbsthilfe für alle, mehr Unterstützung, wenn sie nötig ist, und ein klarer Weg zu Fachkräften und Krisendiensten, wenn es darauf ankommt.",
+    "steps": [
+      {
+        "title": "Screenen",
+        "body": "Ein validierter EPDS-Check-in mit zehn Fragen, sofort ausgewertet, mit klaren und einfühlsamen nächsten Schritten.",
+        "tag": "5 Minuten"
+      },
+      {
+        "title": "Sprechen",
+        "body": "Eine einfühlsame KI-Begleitung, die Tag und Nacht zuhört und Anzeichen von Belastung erkennt.",
+        "tag": "Tag und Nacht"
+      },
+      {
+        "title": "Wachsen",
+        "body": "Ein persönliches 90-Tage-Programm mit kleinen täglichen Schritten für Ruhe, Erholung und Bindung.",
+        "tag": "90 Tage"
+      },
+      {
+        "title": "Beraten",
+        "body": "Sprachberatungen mit neun KI-Fachleuten, jeweils mit schriftlicher Zusammenfassung.",
+        "tag": "9 Fachleute"
+      },
+      {
+        "title": "Verbinden",
+        "body": "Zusammenfassungen für Hebamme oder Ärztin und lokale Hotlines, wenn es dringend ist.",
+        "tag": "Menschliche Versorgung"
+      }
+    ]
+  },
+  "features": {
+    "eyebrow": "Das bietet MumWell",
+    "title": "Unterstützung, die in den Alltag mit Neugeborenem passt",
+    "items": {
+      "screening": {
+        "title": "Validiertes Screening",
+        "body": "Der EPDS-Fragebogen, den Gesundheitsdienste weltweit nutzen, mit klaren nächsten Schritten für jedes Ergebnis.",
+        "tag": "Validiertes Instrument",
+        "points": [
+          "Die EPDS mit zehn Fragen, ausgewertet wie in der klinischen Praxis",
+          "Ergebnisse in klarer Sprache, mit einem nächsten Schritt für jeden Wert",
+          "Jeder Hinweis auf Selbstverletzung zeigt sofort Krisenhilfe an"
+        ]
+      },
+      "companion": {
+        "title": "KI-Begleitung",
+        "body": "Ein warmherziger, evidenzbasierter Chat, der sich an euer Gespräch erinnert und erkennt, wenn du dringend Hilfe brauchst.",
+        "tag": "Tag und Nacht",
+        "points": [
+          "Erinnert sich an euer Gespräch, damit du nichts wiederholen musst",
+          "Erkennt Krisensprache in allen fünf Sprachen",
+          "Behutsame Antworten ohne Wertung, in deiner Sprache"
+        ]
+      },
+      "specialists": {
+        "title": "Sprachberatungen",
+        "body": "Neun KI-Fachleute von Geburtshilfe über Stillberatung bis zu psychischer Gesundheit, mit denen du einfach sprechen kannst.",
+        "tag": "Neun Fachleute",
+        "points": [
+          "Von Geburtshilfe, Kinderheilkunde und Stillberatung bis zu psychischer Gesundheit und Ernährung",
+          "Natürliche Stimmen auf Englisch, Schwedisch, Deutsch, Französisch und Spanisch",
+          "Nach jeder Beratung eine druckbare Zusammenfassung"
+        ]
+      },
+      "programme": {
+        "title": "90-Tage-Programm",
+        "body": "Persönliche tägliche Schritte für Ruhe, Erholung, Bindung und Verbundenheit, abgestimmt auf deine Situation.",
+        "tag": "Drei Phasen",
+        "points": [
+          "Abgestimmt auf deine Situation, dein Umfeld und deine Vorgeschichte",
+          "Die Phasen Fundament, Aufbau und Aufblühen über 90 Tage",
+          "Tägliche Aufgaben, Reflexionen und optionale E-Mail-Erinnerungen"
+        ]
+      }
+    },
+    "cta": "Alle Funktionen entdecken"
+  },
+  "safety": {
+    "eyebrow": "Klinische Sicherheit",
+    "title": "Sicherheit von Anfang an mitgedacht",
+    "body": "Jede Nachricht wird auf Anzeichen einer Krise geprüft. Wird ein Risiko erkannt, antwortet MumWell behutsam, zeigt die Notruf- und Hotline-Nummern für das Land der Mutter und ermutigt sie, sich an eine Vertrauensperson zu wenden.",
+    "flow": [
+      {
+        "title": "Sie meldet sich",
+        "body": "Eine Mutter schreibt oder spricht in ihrer eigenen Sprache."
+      },
+      {
+        "title": "Das Risiko wird erkannt",
+        "body": "Krisensprache wird in fünf Sprachen erkannt, ergänzt durch eine KI-Risikoeinschätzung."
+      },
+      {
+        "title": "Sicherheit zuerst",
+        "body": "Die Antwort wird ruhig, klar und auf ihre unmittelbare Sicherheit ausgerichtet."
+      },
+      {
+        "title": "Hilfe mit einem Tipp",
+        "body": "Lokale Notruf- und Hotline-Nummern erscheinen sofort."
+      }
+    ],
+    "doesTitle": "Was die KI von MumWell tut",
+    "does": [
+      "Hört zu, spiegelt und bietet evidenzbasierte Bewältigungsstrategien",
+      "Erklärt Screening-Ergebnisse in klarer Sprache",
+      "Verweist auf professionelle und Notfallversorgung"
+    ],
+    "doesntTitle": "Was sie niemals tut",
+    "doesnt": [
+      "Diagnosen stellen oder Medikamente verordnen",
+      "Hebammen, Ärztinnen oder Fachleute für psychische Gesundheit ersetzen",
+      "Persönliche Daten verkaufen, weitergeben oder für Werbung nutzen"
+    ],
+    "aiNotice": "Nutzerinnen erfahren immer, wenn sie mit einer KI sprechen."
+  },
+  "mood": {
+    "title": "Wie geht es dir gerade?",
+    "subtitle": "Es gibt keine falsche Antwort. Hinzuspüren ist der erste Schritt.",
+    "hint": "Wähle das Gesicht, das deinem Befinden am nächsten kommt.",
+    "labels": [
+      "Sehr schlecht",
+      "Schlecht",
+      "Okay",
+      "Gut",
+      "Sehr gut"
+    ],
+    "responses": [
+      "Danke für deine Ehrlichkeit. Du verdienst Unterstützung, und du bist nicht allein.",
+      "Schwere Tage gehören dazu. Kleine Schritte und freundliche Worte an dich selbst zählen.",
+      "Okay ist okay. Es ist wichtig, bei dir selbst nachzuspüren.",
+      "Schön zu hören. Achte darauf, was dir heute guttut.",
+      "Wunderbar. Halte dieses Gefühl fest und auch das, was es dir geschenkt hat."
+    ],
+    "cta": "Dein Wohlbefinden begleiten",
+    "kicker": "Ein Moment für dich"
+  },
+  "global": {
+    "eyebrow": "Global gedacht",
+    "title": "Deine Sprache. Deine Daten. Deine Rechte.",
+    "body": "Wo auch immer du bist: MumWell schützt dich nach den strengsten Datenschutzstandards der Welt, einschließlich der DSGVO der EU, und spricht deine Sprache.",
+    "points": [
+      "Das gesamte Angebot, auch KI-Chat und Sprachberatung, auf Englisch, Schwedisch, Deutsch, Französisch und Spanisch",
+      "Ausdrückliche Einwilligung, bevor Gesundheitsdaten verarbeitet werden",
+      "Deine Daten jederzeit herunterladen oder dauerhaft löschen",
+      "Keine Werbung, keine Tracking-Cookies und niemals Datenverkauf"
+    ],
+    "languagesTitle": "Verfügbar auf",
+    "helplines": "Notruf- und Hotline-Nummern für 15 Länder auf vier Kontinenten"
+  },
+  "principles": {
+    "eyebrow": "Unsere Prinzipien",
+    "title": "Technologie mit menschlichem Herz",
+    "items": [
+      {
+        "title": "Sicherheit zuerst",
+        "body": "Jedes Gespräch wird auf Anzeichen einer Krise geprüft. Notruf und Hotlines sind nur einen Tipp entfernt."
+      },
+      {
+        "title": "Evidenzbasiert",
+        "body": "Aufgebaut auf validierten Instrumenten und Ansätzen wie KVT, Verhaltensaktivierung und Selbstmitgefühl."
+      },
+      {
+        "title": "Datenschutz von Anfang an",
+        "body": "Nur die Daten, die wir brauchen, um dir zu helfen, geschützt durch Einwilligung, verschlüsselte Übertragung und dein Recht auf Löschung."
+      },
+      {
+        "title": "Ergänzt die Versorgung",
+        "body": "MumWell unterstützt Hebammen, Ärztinnen und Ärzte, Familienhebammen und Fachleute für psychische Gesundheit, ersetzt sie aber nie."
+      }
+    ]
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "Häufige Fragen",
+    "more": "Weitere Fragen? Schreib uns"
+  },
+  "cta": {
+    "title": "Du verdienst es, dich unterstützt zu fühlen.",
+    "body": "Erstelle in weniger als einer Minute ein kostenloses Konto und geh heute den ersten behutsamen Schritt.",
+    "button": "Jetzt starten",
+    "secondary": "Zum Screening",
+    "note": "Kostenlos · Privat · In deiner Sprache"
+  }
+}

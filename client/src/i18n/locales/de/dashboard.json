@@ -1,0 +1,158 @@
+{
+  "welcome": "Willkommen zurück, {{name}}",
+  "welcomeFallback": "Willkommen zurück",
+  "subtitle": "Wie geht es dir heute? Jeder kleine Schritt zählt.",
+  "reminders": "Einstellungen für Erinnerungen",
+  "quick": {
+    "title": "Schnellzugriff",
+    "subtitle": "Wähle, was sich heute richtig anfühlt",
+    "voice": "Sprachberatung",
+    "voiceSub": "Mit KI-Fachleuten sprechen",
+    "chat": "Mit MumWell chatten",
+    "chatSub": "Deine KI-Begleitung, jederzeit",
+    "test": "EPDS-Screening",
+    "program": "Mein Programm",
+    "mood": "Stimmung erfassen",
+    "moodSub": "Wie fühlst du dich?",
+    "activity": "Aktivität eintragen",
+    "activitySub": "Selbstfürsorge festhalten"
+  },
+  "overview": {
+    "title": "Heutige Übersicht",
+    "subtitle": "Dein Wohlbefinden auf einen Blick: {{date}}",
+    "refresh": "Aktualisieren",
+    "noData": "Noch keine Daten",
+    "moodTitle": "Stimmungswert",
+    "moodChecked": "Erfasst {{when}}",
+    "moodEmpty": "Erfasse deine Stimmung, um sie hier zu sehen",
+    "activeTitle": "Aktive Tage",
+    "activeDesc": "Tage mit Check-in oder Aktivität in dieser Woche",
+    "todayTitle": "Aktivitäten heute",
+    "todayDesc": "Eingetragene Aktivitäten und Übungen",
+    "epdsTitle": "EPDS-Wert",
+    "epdsEmpty": "Screening machen",
+    "updated": "Zuletzt aktualisiert um {{time}}",
+    "loadError": "Einige Daten konnten nicht geladen werden. Bitte aktualisiere die Seite."
+  },
+  "insights": {
+    "title": "Einblicke",
+    "subtitle": "Behutsame Beobachtungen zu deiner letzten Aktivität",
+    "empty": "Mach ein paar Check-ins oder Aktivitäten, um persönliche Einblicke zu sehen.",
+    "moodUp": {
+      "title": "Stimmung hellt sich auf",
+      "body": "Deine letzte Stimmung liegt über deinem Wochendurchschnitt. Mach weiter mit dem, was dir guttut."
+    },
+    "moodDown": {
+      "title": "Eine schwerere Phase",
+      "body": "Deine Stimmung ist zuletzt gesunken. Eine kurze Atemübung oder ein Gespräch mit MumWell kann helfen."
+    },
+    "consistent": {
+      "title": "Regelmäßige Praxis",
+      "body": "Du machst regelmäßig Entspannungsübungen. Das hilft, Stress abzubauen."
+    },
+    "mindful": {
+      "title": "Raum für Ruhe",
+      "body": "Probier, eine kurze Entspannungsübung in deinen Tag einzubauen."
+    },
+    "start": {
+      "title": "Klein anfangen",
+      "body": "Erfasse deine Stimmung oder probier unten eine Entspannungsübung aus. Kleine Schritte zählen."
+    },
+    "morning": {
+      "title": "Morgenrhythmus",
+      "body": "Du bist morgens am aktivsten. Plane deine Selbstfürsorge doch dann ein."
+    },
+    "evening": {
+      "title": "Abendrhythmus",
+      "body": "Du bist eher abends aktiv. Denk daran, vor dem Schlafen zur Ruhe zu kommen."
+    }
+  },
+  "moodDialog": {
+    "title": "Wie fühlst du dich?",
+    "subtitle": "Bewege den Regler, um deine aktuelle Stimmung festzuhalten.",
+    "labels": [
+      "Sehr schlecht",
+      "Schlecht",
+      "Okay",
+      "Gut",
+      "Sehr gut"
+    ],
+    "note": "Was beschäftigt dich? (optional)",
+    "save": "Stimmung speichern",
+    "saved": "Stimmung gespeichert",
+    "savedBody": "Danke, dass du dir einen Moment für dich genommen hast.",
+    "failed": "Deine Stimmung konnte nicht gespeichert werden."
+  },
+  "activity": {
+    "title": "Aktivität eintragen",
+    "subtitle": "Halte fest, was du für dein Wohlbefinden getan hast.",
+    "type": "Art der Aktivität",
+    "typePlaceholder": "Art auswählen",
+    "types": {
+      "meditation": "Meditation",
+      "exercise": "Bewegung",
+      "walking": "Spaziergang",
+      "reading": "Lesen",
+      "journaling": "Tagebuch schreiben",
+      "therapy": "Therapiesitzung"
+    },
+    "name": "Bezeichnung",
+    "namePlaceholder": "Morgenmeditation, Abendspaziergang…",
+    "duration": "Dauer (Minuten)",
+    "description": "Notizen (optional)",
+    "descriptionPlaceholder": "Wie war es?",
+    "save": "Aktivität speichern",
+    "saved": "Aktivität eingetragen",
+    "required": "Bitte wähle eine Art aus und gib der Aktivität eine Bezeichnung.",
+    "failed": "Die Aktivität konnte nicht eingetragen werden."
+  },
+  "games": {
+    "title": "Entspannungsübungen",
+    "subtitle": "Kurze, beruhigende Übungen für unruhige oder überwältigende Momente",
+    "start": "{{name}} starten",
+    "items": {
+      "breathing": {
+        "title": "Atemmuster",
+        "description": "Folge einem beruhigenden Atemrhythmus mit visueller Anleitung",
+        "duration": "5 Min."
+      },
+      "garden": {
+        "title": "Zen-Garten",
+        "description": "Gestalte deinen eigenen kleinen Ruheort",
+        "duration": "10 Min."
+      },
+      "forest": {
+        "title": "Achtsamer Wald",
+        "description": "Entspanne bei Vogelgezwitscher und raschelnden Blättern",
+        "duration": "5 Min."
+      },
+      "waves": {
+        "title": "Meereswellen",
+        "description": "Atme im Rhythmus sanfter Wellen",
+        "duration": "5 Min."
+      }
+    },
+    "breatheIn": "Einatmen",
+    "hold": "Halten",
+    "breatheOut": "Ausatmen",
+    "round": "Runde {{round}} von {{total}}",
+    "pause": "Pause",
+    "resume": "Fortsetzen",
+    "greatJob": "Gut gemacht",
+    "completed": "Du hast {{total}} Runden ruhiges Atmen geschafft. Wie fühlst du dich jetzt?",
+    "again": "Noch einmal",
+    "volume": "Lautstärke",
+    "play": "Abspielen",
+    "wavesHint": "Atme ein, wenn die Welle steigt, und aus, wenn sie sinkt",
+    "gardenHint": "Wähle ein Element und tippe dann auf den Sand, um es zu platzieren"
+  },
+  "hero": {
+    "programmeLabel": "Dein 90-Tage-Programm",
+    "programmeDay": "Tag {{day}} von {{total}}",
+    "programmeDone": "{{count}} Tage abgeschlossen",
+    "programmeCta": "Heute weitermachen",
+    "noProgrammeTitle": "Starte dein persönliches 90-Tage-Programm",
+    "noProgrammeBody": "Kleine tägliche Schritte für Ruhe, Erholung und Bindung, auf dich abgestimmt.",
+    "noProgrammeCta": "Mein Programm erstellen"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "title": "Escala de Depresión Postnatal de Edimburgo (EPDS)",
+  "intro": "Un cuestionario de cribado muy utilizado para valorar el bienestar emocional durante el embarazo y después del parto. Se tarda unos tres minutos. Es un cribado, no un diagnóstico.",
+  "question": "Pregunta {{current}} de {{total}}",
+  "timeframe": "En los últimos 7 días…",
+  "previous": "Pregunta anterior",
+  "score": "Tu puntuación EPDS: {{score}} / 30",
+  "saved": "Se ha guardado el resultado de tu cribado.",
+  "saveFailed": "No hemos podido guardar tu resultado.",
+  "retake": "Repetir el cribado",
+  "shareNote": "Te recomendamos compartir el resultado con tu matrona, tu médico o tu enfermera pediátrica: pueden ayudarte a decidir los siguientes pasos.",
+  "footer": "Lo que sientes importa. No estás sola.",
+  "levels": {
+    "Low Risk": "Riesgo bajo",
+    "Mild Risk": "Posibles síntomas leves",
+    "High Risk": "Posible depresión: busca apoyo"
+  },
+  "results": {
+    "low": {
+      "message": "Tus respuestas indican pocas señales de depresión en este momento. Sigue dando prioridad al descanso, al apoyo y al autocuidado, y repite el cribado si algo cambia.",
+      "chat": "Habla con MumWell sobre cómo seguir bien"
+    },
+    "mild": {
+      "message": "Tus respuestas sugieren algunos cambios en tu estado de ánimo. Hablar con personas cercanas, con tu matrona o con tu médico puede ayudarte, y conviene repetir el cribado dentro de dos semanas.",
+      "chat": "Háblalo con MumWell"
+    },
+    "high": {
+      "message": "Tus respuestas sugieren que podrías estar pasando por una depresión. Contacta pronto con tu matrona, tu médico o tu enfermera pediátrica para una valoración: el apoyo ayuda de verdad.",
+      "chat": "Habla ahora con MumWell"
+    }
+  },
+  "questions": [
+    {
+      "q": "He sido capaz de reírme y ver el lado bueno de las cosas.",
+      "options": ["Tanto como siempre", "No tanto ahora", "Mucho menos ahora", "No, nada"]
+    },
+    {
+      "q": "He mirado las cosas con ilusión.",
+      "options": ["Tanto como siempre", "Algo menos de lo que solía", "Mucho menos de lo que solía", "Casi nada"]
+    },
+    {
+      "q": "Me he culpado innecesariamente cuando las cosas no salían bien.",
+      "options": ["No, nunca", "No muy a menudo", "Sí, a veces", "Sí, la mayor parte del tiempo"]
+    },
+    {
+      "q": "He estado nerviosa o preocupada sin tener motivo.",
+      "options": ["No, para nada", "Casi nada", "Sí, a veces", "Sí, a menudo"]
+    },
+    {
+      "q": "He sentido miedo o he estado asustada sin motivo.",
+      "options": ["No, nada", "No, no mucho", "Sí, a veces", "Sí, bastante"]
+    },
+    {
+      "q": "Las cosas me han agobiado.",
+      "options": [
+        "No, he podido sobrellevarlas tan bien como siempre",
+        "No, la mayor parte del tiempo las he sobrellevado bastante bien",
+        "Sí, a veces no he podido sobrellevarlas tan bien como siempre",
+        "Sí, la mayor parte del tiempo no he podido sobrellevarlas en absoluto"
+      ]
+    },
+    {
+      "q": "Me he sentido tan infeliz que he tenido dificultades para dormir.",
+      "options": ["No, nada", "No muy a menudo", "Sí, a veces", "Sí, la mayor parte del tiempo"]
+    },
+    {
+      "q": "Me he sentido triste y desgraciada.",
+      "options": ["No, nada", "No muy a menudo", "Sí, bastante a menudo", "Sí, casi siempre"]
+    },
+    {
+      "q": "Me he sentido tan infeliz que he estado llorando.",
+      "options": ["No, nunca", "Solo en alguna ocasión", "Sí, bastante a menudo", "Sí, casi siempre"]
+    },
+    {
+      "q": "He pensado en hacerme daño a mí misma.",
+      "options": ["Nunca", "Casi nunca", "A veces", "Sí, bastante a menudo"]
+    }
+  ],
+  "source": "EPDS: Cox, J.L., Holden, J.M. y Sagovsky, R. (1987). British Journal of Psychiatry, 150, 782–786."
+}

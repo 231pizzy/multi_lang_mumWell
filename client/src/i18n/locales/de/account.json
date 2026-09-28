@@ -1,0 +1,50 @@
+{
+  "title": "Konto & Datenschutz",
+  "intro": "Verwalte deine Angaben, deine Sprache und deine Daten. Du behältst immer die Kontrolle über deine Informationen.",
+  "profile": {
+    "title": "Profil",
+    "name": "Name",
+    "email": "E-Mail",
+    "language": "Sprache",
+    "languageHint": "Wird für die App, KI-Gespräche, Sprachberatungen und E-Mails verwendet.",
+    "country": "Land",
+    "save": "Änderungen speichern",
+    "saved": "Deine Angaben wurden aktualisiert."
+  },
+  "password": {
+    "title": "Passwort ändern",
+    "current": "Aktuelles Passwort",
+    "new": "Neues Passwort",
+    "confirm": "Neues Passwort bestätigen",
+    "submit": "Passwort ändern",
+    "mismatch": "Die neuen Passwörter stimmen nicht überein.",
+    "otherSessions": "Andere Geräte werden abgemeldet."
+  },
+  "consents": {
+    "title": "Deine Einwilligungen",
+    "terms": "Nutzungsbedingungen und Datenschutzerklärung",
+    "health": "Verarbeitung von Gesundheits- und Wohlbefindensdaten",
+    "age": "Bestätigt: mindestens 18 Jahre",
+    "given": "Erteilt am {{date}}",
+    "withdraw": "Du kannst deine Einwilligung in die Verarbeitung von Gesundheitsdaten jederzeit widerrufen, indem du unten dein Konto löschst. Ohne sie kann MumWell nicht funktionieren."
+  },
+  "data": {
+    "title": "Deine Daten",
+    "body": "Lade eine Kopie aller Daten herunter, die MumWell über dich speichert (Konto, Check-ins, Screening-Ergebnisse, Gespräche, Programm und Beratungszusammenfassungen), als JSON-Datei.",
+    "download": "Meine Daten herunterladen",
+    "downloading": "Wird vorbereitet…",
+    "downloaded": "Dein Datenexport wurde heruntergeladen.",
+    "retention": "Chats werden 24 Stunden nach der letzten Nachricht automatisch gelöscht. Alles andere bleibt gespeichert, bis du dein Konto löschst."
+  },
+  "delete": {
+    "title": "Konto löschen",
+    "body": "Lösche dein Konto und alle deine Daten dauerhaft aus MumWell. Das kann nicht rückgängig gemacht werden.",
+    "button": "Mein Konto löschen",
+    "confirmTitle": "Konto dauerhaft löschen?",
+    "confirmBody": "Alle deine Check-ins, Screening-Ergebnisse, Gespräche, dein Programm und deine Beratungszusammenfassungen werden sofort gelöscht. Gib zur Bestätigung dein Passwort ein.",
+    "password": "Dein Passwort",
+    "confirm": "Endgültig löschen",
+    "deleting": "Wird gelöscht…",
+    "done": "Dein Konto wurde gelöscht."
+  }
+}

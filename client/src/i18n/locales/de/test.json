@@ -1,0 +1,125 @@
+{
+  "title": "Edinburgh Postnatal Depression Scale (EPDS)",
+  "intro": "Ein weit verbreiteter Screening-Fragebogen zum emotionalen Wohlbefinden in der Schwangerschaft und nach der Geburt. Er dauert etwa drei Minuten. Es handelt sich um ein Screening, keine Diagnose.",
+  "question": "Frage {{current}} von {{total}}",
+  "timeframe": "In den letzten 7 Tagen…",
+  "previous": "Vorherige Frage",
+  "score": "Dein EPDS-Wert: {{score}} / 30",
+  "saved": "Dein Screening-Ergebnis wurde gespeichert.",
+  "saveFailed": "Dein Ergebnis konnte nicht gespeichert werden.",
+  "retake": "Screening wiederholen",
+  "shareNote": "Besprich dein Ergebnis gern mit deiner Hebamme, Ärztin oder Familienhebamme. Sie helfen dir, die nächsten Schritte zu planen.",
+  "footer": "Deine Gefühle zählen. Du bist nicht allein.",
+  "levels": {
+    "Low Risk": "Geringes Risiko",
+    "Mild Risk": "Mögliche leichte Symptome",
+    "High Risk": "Mögliche Depression: Bitte hol dir Unterstützung"
+  },
+  "results": {
+    "low": {
+      "message": "Deine Antworten deuten derzeit auf wenige Anzeichen einer Depression hin. Achte weiter auf Ruhe, Unterstützung und Selbstfürsorge und wiederhole das Screening, wenn sich etwas verändert.",
+      "chat": "Mit MumWell übers Wohlbefinden sprechen"
+    },
+    "mild": {
+      "message": "Deine Antworten deuten auf einige Stimmungsveränderungen hin. Gespräche mit nahestehenden Menschen, deiner Hebamme oder Ärztin können helfen, und es lohnt sich, das Screening in zwei Wochen zu wiederholen.",
+      "chat": "Mit MumWell darüber sprechen"
+    },
+    "high": {
+      "message": "Deine Antworten deuten darauf hin, dass du eine Depression haben könntest. Wende dich bitte bald an deine Hebamme, Ärztin oder Familienhebamme für eine gründliche Abklärung. Unterstützung hilft wirklich.",
+      "chat": "Jetzt mit MumWell sprechen"
+    }
+  },
+  "questions": [
+    {
+      "q": "Ich konnte lachen und die lustige Seite der Dinge sehen.",
+      "options": [
+        "So wie ich es immer konnte",
+        "Nicht ganz so wie früher",
+        "Deutlich weniger als früher",
+        "Überhaupt nicht"
+      ]
+    },
+    {
+      "q": "Ich konnte mich so richtig auf etwas freuen.",
+      "options": [
+        "So wie immer",
+        "Etwas weniger als sonst",
+        "Deutlich weniger als früher",
+        "Kaum"
+      ]
+    },
+    {
+      "q": "Ich habe mir grundlos Vorwürfe gemacht, wenn etwas schiefging.",
+      "options": [
+        "Nein, nie",
+        "Nicht sehr oft",
+        "Ja, manchmal",
+        "Ja, meistens"
+      ]
+    },
+    {
+      "q": "Ich war ohne guten Grund ängstlich oder besorgt.",
+      "options": [
+        "Nein, überhaupt nicht",
+        "Kaum",
+        "Ja, manchmal",
+        "Ja, sehr oft"
+      ]
+    },
+    {
+      "q": "Ich erschrak leicht oder geriet ohne guten Grund in Panik.",
+      "options": [
+        "Nein, überhaupt nicht",
+        "Nein, kaum",
+        "Ja, manchmal",
+        "Ja, ziemlich oft"
+      ]
+    },
+    {
+      "q": "Mir ist alles zu viel geworden.",
+      "options": [
+        "Nein, ich kam so gut zurecht wie immer",
+        "Nein, meistens kam ich gut zurecht",
+        "Ja, manchmal kam ich nicht so gut zurecht wie sonst",
+        "Ja, meistens kam ich überhaupt nicht zurecht"
+      ]
+    },
+    {
+      "q": "Ich war so unglücklich, dass ich schlecht schlafen konnte.",
+      "options": [
+        "Nein, überhaupt nicht",
+        "Nicht sehr oft",
+        "Ja, manchmal",
+        "Ja, meistens"
+      ]
+    },
+    {
+      "q": "Ich habe mich traurig oder elend gefühlt.",
+      "options": [
+        "Nein, überhaupt nicht",
+        "Nicht sehr oft",
+        "Ja, ziemlich oft",
+        "Ja, meistens"
+      ]
+    },
+    {
+      "q": "Ich war so unglücklich, dass ich geweint habe.",
+      "options": [
+        "Nein, nie",
+        "Nur gelegentlich",
+        "Ja, ziemlich oft",
+        "Ja, meistens"
+      ]
+    },
+    {
+      "q": "Der Gedanke, mir selbst etwas anzutun, ist mir gekommen.",
+      "options": [
+        "Nie",
+        "Kaum",
+        "Manchmal",
+        "Ja, ziemlich oft"
+      ]
+    }
+  ],
+  "source": "EPDS: Cox, J.L., Holden, J.M. & Sagovsky, R. (1987). British Journal of Psychiatry, 150, 782–786."
+}

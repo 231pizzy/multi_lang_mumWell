@@ -1,0 +1,111 @@
+{
+  "about": {
+    "eyebrow": "Om MumWell",
+    "title": "Varje mamma förtjänar att bli hörd",
+    "intro": "MumWell är en plattform för perinatal psykisk hälsa som stöttar mammor genom graviditet, förlossningsdepression och vardagens utmaningar som nybliven förälder. Vi kombinerar validerad screening, en empatisk AI-följeslagare och personliga program så att hjälpen finns där när den behövs, på mammans eget språk.",
+    "sections": [
+      {
+        "title": "Vårt uppdrag",
+        "body": "Att göra tillgängligt, empatiskt och evidensbaserat stöd för perinatal psykisk hälsa möjligt för varje mamma, var hon än bor och vilket språk hon än talar."
+      },
+      {
+        "title": "Vår vision",
+        "body": "En värld där ingen mamma kämpar ensam: där symtom upptäcks tidigt, där det inte är skamligt att be om hjälp och där varje familj kan må bra."
+      },
+      {
+        "title": "Därför är det viktigt",
+        "body": "Psykisk ohälsa hör till de vanligaste komplikationerna under graviditeten och året efter förlossningen. Tidig upptäckt och stöd ger bättre resultat, inte bara för mammor utan även för deras barn, partner och hela familjer."
+      },
+      {
+        "title": "Så hjälper vi",
+        "body": "Mammor kan göra EPDS-screeningen, prata med vår AI-följeslagare när som helst, följa ett 90-dagarsprogram och prata med AI-specialister via röst. Varje steg visar vägen till professionell vård när det behövs."
+      },
+      {
+        "title": "Tillsammans med vården",
+        "body": "MumWell är utformat för att komplettera barnmorskor, BVC-sköterskor, läkare och team för perinatal psykiatri. Det hjälper mammor att förstå när de ska söka hjälp och att komma till besöken med en tydligare bild av hur de har mått."
+      }
+    ],
+    "valuesTitle": "Det här vägleder oss",
+    "values": [
+      "Medkänsla",
+      "Säkerhet",
+      "Integritet",
+      "Inkludering",
+      "Evidens"
+    ]
+  },
+  "features": {
+    "eyebrow": "Funktioner",
+    "title": "Allt en nybliven mamma behöver, på en lugn plats",
+    "intro": "MumWell samlar de verktyg som betyder mest under den perinatala perioden. De är utformade med omsorg, tillgängliga på fem språk och skyddade enligt de strängaste internationella integritetsstandarderna.",
+    "detailTitle": "Dessutom ingår",
+    "details": [
+      {
+        "title": "Humör- och aktivitetsdagbok",
+        "body": "Snabba dagliga incheckningar och personliga insikter som visar mönster över tid."
+      },
+      {
+        "title": "Avslappningsövningar",
+        "body": "Guidad andning, en zenträdgård och lugnande naturljud för oroliga stunder."
+      },
+      {
+        "title": "Varsamma påminnelser",
+        "body": "Valfria påminnelser via e-post om din dagliga incheckning, vid en tid som passar dig."
+      },
+      {
+        "title": "Skriftliga sammanfattningar",
+        "body": "En tydlig sammanfattning efter varje röstkonsultation som du kan skriva ut eller dela med vården."
+      },
+      {
+        "title": "Stöd vid kris",
+        "body": "Automatisk upptäckt av krisuttryck, med nödnummer och stödlinjer för ditt land."
+      },
+      {
+        "title": "Dina uppgifter, din kontroll",
+        "body": "Ladda ned allt vi lagrar om dig, eller radera ditt konto permanent, när du vill."
+      }
+    ]
+  },
+  "contact": {
+    "eyebrow": "Kontakt",
+    "title": "Vi finns här för att hjälpa",
+    "intro": "Frågor om MumWell, samarbeten eller forskning? Hör av dig. Om du behöver akut stöd, använd stödlinjerna nedan.",
+    "emailLabel": "E-post",
+    "privacyLabel": "Integritet och dataskydd",
+    "responseTime": "Vi strävar efter att svara inom två arbetsdagar.",
+    "faqTitle": "Vanliga frågor",
+    "faqs": [
+      {
+        "q": "Ersätter MumWell min barnmorska eller läkare?",
+        "a": "Nej. MumWell stöttar ditt välmående mellan besöken och hjälper dig att förstå när du ska söka hjälp, men ställer inga diagnoser och ger ingen behandling. Håll kontakten med din barnmorska, läkare eller BVC-sköterska."
+      },
+      {
+        "q": "Hur startar jag en konsultation?",
+        "a": "Logga in och starta en chatt eller en röstkonsultation från din översikt. Båda finns tillgängliga när som helst."
+      },
+      {
+        "q": "Vilka språk kan jag använda?",
+        "a": "Hela appen, även AI-chatten, röstkonsultationerna och e-posten, fungerar på engelska, svenska, tyska, franska och spanska. Byt språk när som helst med jordgloben."
+      },
+      {
+        "q": "Är mina uppgifter säkra?",
+        "a": "Vi samlar bara in det som behövs för att stötta dig, ber om ditt uttryckliga samtycke innan vi behandlar hälsouppgifter och säljer aldrig uppgifter eller använder spårning för reklam. Du kan ladda ned eller radera dina uppgifter permanent under dina kontoinställningar."
+      },
+      {
+        "q": "Vad händer om jag säger att jag är i kris?",
+        "a": "AI:n är instruerad att svara med omsorg och uppmana dig att genast kontakta räddningstjänsten eller en stödlinje, och appen visar numren till stödlinjer. MumWell är ingen larmtjänst. Ring ditt lokala nödnummer i en nödsituation."
+      }
+    ]
+  },
+  "article": {
+    "eyebrow": "Om förlossningsdepression",
+    "title": "Tecken, stöd och vägen till återhämtning",
+    "intro": "Förlossningsdepression är vanligt, det är inte ditt fel och det går att behandla. Den här guiden förklarar vad du ska vara uppmärksam på och var du hittar hjälp.",
+    "readTime": "6 minuters läsning",
+    "reviewNote": "Den här artikeln är allmän information och ersätter inte råd från vårdpersonal."
+  },
+  "notFound": {
+    "title": "Vi hittade inte sidan",
+    "body": "Sidan kan ha flyttats eller så är länken felaktig."
+  }
+}

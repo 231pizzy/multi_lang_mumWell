@@ -1,0 +1,13 @@
+{
+  "title": "Einstellungen für Erinnerungen",
+  "intro": "Sanfte E-Mail-Erinnerungen 1 Stunde, 30 Minuten und 10 Minuten vor deinem täglichen Check-in.",
+  "needsProgram": "Erinnerungen gehören zu deinem 90-Tage-Programm. <link>Erstelle zuerst dein Programm</link> und komm dann zurück, um eine Uhrzeit zu wählen.",
+  "enable": "E-Mail-Erinnerungen",
+  "enableHint": "Erinnerungen an deinen täglichen Check-in ein- oder ausschalten.",
+  "time": "Uhrzeit des täglichen Check-ins",
+  "timezone": "Zeitzone",
+  "save": "Änderungen speichern",
+  "saved": "Einstellungen für Erinnerungen aktualisiert.",
+  "saveFailed": "Deine Einstellungen konnten nicht aktualisiert werden. Bitte versuche es erneut.",
+  "loadFailed": "Deine Einstellungen für Erinnerungen konnten nicht geladen werden."
+}

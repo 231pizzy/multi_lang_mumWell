@@ -1,0 +1,158 @@
+{
+  "welcome": "Bon retour, {{name}}",
+  "welcomeFallback": "Bon retour parmi nous",
+  "subtitle": "Comment allez-vous aujourd'hui ? Chaque petit pas compte.",
+  "reminders": "Paramètres des rappels",
+  "quick": {
+    "title": "Accès rapides",
+    "subtitle": "Choisissez ce qui vous convient aujourd'hui",
+    "voice": "Consultation vocale",
+    "voiceSub": "Parler à un spécialiste IA",
+    "chat": "Discuter avec MumWell",
+    "chatSub": "Votre compagnon IA, à tout moment",
+    "test": "Dépistage EPDS",
+    "program": "Mon programme",
+    "mood": "Noter mon humeur",
+    "moodSub": "Comment vous sentez-vous ?",
+    "activity": "Ajouter une activité",
+    "activitySub": "Noter un moment pour soi"
+  },
+  "overview": {
+    "title": "Aperçu du jour",
+    "subtitle": "Votre bien-être en un coup d'œil, {{date}}",
+    "refresh": "Actualiser",
+    "noData": "Pas encore de données",
+    "moodTitle": "Humeur",
+    "moodChecked": "Notée {{when}}",
+    "moodEmpty": "Notez votre humeur pour la voir ici",
+    "activeTitle": "Jours actifs",
+    "activeDesc": "Jours avec un bilan ou une activité cette semaine",
+    "todayTitle": "Activités du jour",
+    "todayDesc": "Activités et exercices enregistrés",
+    "epdsTitle": "Score EPDS",
+    "epdsEmpty": "Faire le dépistage",
+    "updated": "Mis à jour à {{time}}",
+    "loadError": "Certaines données n'ont pas pu être chargées. Essayez d'actualiser la page."
+  },
+  "insights": {
+    "title": "Observations",
+    "subtitle": "Des observations bienveillantes sur votre activité récente",
+    "empty": "Faites quelques bilans ou activités pour voir des observations personnalisées.",
+    "moodUp": {
+      "title": "Une humeur en hausse",
+      "body": "Votre dernière humeur est supérieure à votre moyenne de la semaine. Continuez ce qui vous fait du bien."
+    },
+    "moodDown": {
+      "title": "Une période plus difficile",
+      "body": "Votre humeur a baissé récemment. Un court exercice de respiration ou un échange avec MumWell peut aider."
+    },
+    "consistent": {
+      "title": "Une pratique régulière",
+      "body": "Vous faites régulièrement des exercices de relaxation, et cela aide à réduire le stress."
+    },
+    "mindful": {
+      "title": "Une place pour le calme",
+      "body": "Essayez d'ajouter un court exercice de relaxation à votre journée."
+    },
+    "start": {
+      "title": "Commencer en douceur",
+      "body": "Notez votre humeur ou essayez un exercice de relaxation ci-dessous. Chaque petit pas compte."
+    },
+    "morning": {
+      "title": "Rythme du matin",
+      "body": "Vous êtes plus active le matin. Pensez à y prévoir un moment pour vous."
+    },
+    "evening": {
+      "title": "Rythme du soir",
+      "body": "Vous êtes plutôt active le soir. Pensez à vous détendre avant d'aller dormir."
+    }
+  },
+  "moodDialog": {
+    "title": "Comment vous sentez-vous ?",
+    "subtitle": "Déplacez le curseur pour noter votre humeur du moment.",
+    "labels": [
+      "Très mal",
+      "Mal",
+      "Correct",
+      "Bien",
+      "Très bien"
+    ],
+    "note": "Quelque chose vous préoccupe ? (facultatif)",
+    "save": "Enregistrer mon humeur",
+    "saved": "Humeur enregistrée",
+    "savedBody": "Merci d'avoir pris un moment pour vous.",
+    "failed": "Impossible d'enregistrer votre humeur."
+  },
+  "activity": {
+    "title": "Ajouter une activité",
+    "subtitle": "Notez ce que vous avez fait pour votre bien-être.",
+    "type": "Type d'activité",
+    "typePlaceholder": "Choisissez un type",
+    "types": {
+      "meditation": "Méditation",
+      "exercise": "Activité physique",
+      "walking": "Marche",
+      "reading": "Lecture",
+      "journaling": "Écriture d'un journal",
+      "therapy": "Séance de thérapie"
+    },
+    "name": "Nom",
+    "namePlaceholder": "Méditation du matin, promenade du soir…",
+    "duration": "Durée (minutes)",
+    "description": "Notes (facultatif)",
+    "descriptionPlaceholder": "Comment cela s'est-il passé ?",
+    "save": "Enregistrer l'activité",
+    "saved": "Activité enregistrée",
+    "required": "Veuillez choisir un type et donner un nom à l'activité.",
+    "failed": "Impossible d'enregistrer l'activité."
+  },
+  "games": {
+    "title": "Exercices de relaxation",
+    "subtitle": "De courtes activités apaisantes pour les moments d'anxiété ou de surcharge",
+    "start": "Lancer {{name}}",
+    "items": {
+      "breathing": {
+        "title": "Rythmes respiratoires",
+        "description": "Suivez un rythme de respiration apaisant guidé visuellement",
+        "duration": "5 min"
+      },
+      "garden": {
+        "title": "Jardin zen",
+        "description": "Créez votre petit jardin paisible",
+        "duration": "10 min"
+      },
+      "forest": {
+        "title": "Forêt apaisante",
+        "description": "Détendez-vous au chant des oiseaux et au bruissement des feuilles",
+        "duration": "5 min"
+      },
+      "waves": {
+        "title": "Vagues de l'océan",
+        "description": "Respirez au rythme de vagues douces",
+        "duration": "5 min"
+      }
+    },
+    "breatheIn": "Inspirez",
+    "hold": "Retenez",
+    "breatheOut": "Expirez",
+    "round": "Cycle {{round}} sur {{total}}",
+    "pause": "Pause",
+    "resume": "Reprendre",
+    "greatJob": "Bravo",
+    "completed": "Vous avez terminé {{total}} cycles de respiration apaisante. Comment vous sentez-vous maintenant ?",
+    "again": "Recommencer",
+    "volume": "Volume",
+    "play": "Lecture",
+    "wavesHint": "Inspirez quand la vague monte, expirez quand elle redescend",
+    "gardenHint": "Choisissez un élément, puis touchez le sable pour le placer"
+  },
+  "hero": {
+    "programmeLabel": "Votre programme de 90 jours",
+    "programmeDay": "Jour {{day}} sur {{total}}",
+    "programmeDone": "{{count}} jours terminés",
+    "programmeCta": "Continuer aujourd'hui",
+    "noProgrammeTitle": "Commencez votre programme personnel de 90 jours",
+    "noProgrammeBody": "De petites étapes quotidiennes pour le repos, la récupération et le lien, adaptées à vous.",
+    "noProgrammeCta": "Créer mon programme"
+  }
+}

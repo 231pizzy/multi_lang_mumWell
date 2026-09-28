@@ -1,0 +1,37 @@
+{
+  "title": "Compañía MumWell",
+  "sessions": "Conversaciones",
+  "showSessions": "Conversaciones",
+  "closeSessions": "Cerrar conversaciones",
+  "newSession": "Nueva conversación",
+  "noSessions": "Aún no hay conversaciones anteriores.",
+  "newChat": "Nueva conversación",
+  "noMessages": "Aún no hay mensajes",
+  "messageCount_one": "{{count}} mensaje",
+  "messageCount_other": "{{count}} mensajes",
+  "justNow": "Ahora mismo",
+  "you": "Tú",
+  "assistant": "MumWell",
+  "typing": "Escribiendo…",
+  "welcomeTitle": "Hola, estoy aquí para ti",
+  "welcomeBody": "Este es un espacio seguro para compartir lo que te preocupa, sea grande o pequeño. ¿Cómo te sientes hoy?",
+  "starters": [
+    "Últimamente me siento desbordada",
+    "No consigo dormir, ni siquiera cuando el bebé duerme",
+    "Me siento culpable todo el tiempo",
+    "Solo necesito hablar con alguien"
+  ],
+  "placeholder": "Escribe lo que tienes en mente…",
+  "message": "Mensaje",
+  "send": "Enviar mensaje",
+  "hint": "Intro para enviar · Mayús + Intro para una línea nueva",
+  "privacy": "Las conversaciones se eliminan automáticamente 24 horas después de tu último mensaje.",
+  "missing": "Esta conversación ya no está disponible. Para proteger tu privacidad, las conversaciones se eliminan 24 horas después del último mensaje.",
+  "startNew": "Empezar una conversación nueva",
+  "errors": {
+    "create": "No se ha podido empezar una conversación nueva.",
+    "list": "No se han podido cargar tus conversaciones anteriores.",
+    "load": "No se ha podido cargar esta conversación.",
+    "send": "Ahora mismo tengo problemas de conexión. Inténtalo de nuevo."
+  }
+}

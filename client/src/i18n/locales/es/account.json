@@ -1,0 +1,50 @@
+{
+  "title": "Cuenta y privacidad",
+  "intro": "Gestiona tus datos, tu idioma y tu información. Siempre tienes el control.",
+  "profile": {
+    "title": "Perfil",
+    "name": "Nombre",
+    "email": "Correo electrónico",
+    "language": "Idioma",
+    "languageHint": "Se usa en la aplicación, las conversaciones con IA, las consultas por voz y los correos.",
+    "country": "País",
+    "save": "Guardar cambios",
+    "saved": "Tus datos se han actualizado."
+  },
+  "password": {
+    "title": "Cambiar contraseña",
+    "current": "Contraseña actual",
+    "new": "Contraseña nueva",
+    "confirm": "Confirmar contraseña nueva",
+    "submit": "Cambiar contraseña",
+    "mismatch": "Las contraseñas nuevas no coinciden.",
+    "otherSessions": "Se cerrará la sesión en otros dispositivos."
+  },
+  "consents": {
+    "title": "Tus consentimientos",
+    "terms": "Condiciones de uso y política de privacidad",
+    "health": "Tratamiento de datos de salud y bienestar",
+    "age": "Mayor de 18 años confirmado",
+    "given": "Otorgado el {{date}}",
+    "withdraw": "Puedes retirar en cualquier momento tu consentimiento al tratamiento de datos de salud eliminando tu cuenta más abajo. MumWell no puede funcionar sin él."
+  },
+  "data": {
+    "title": "Tus datos",
+    "body": "Descarga una copia de todo lo que MumWell guarda sobre ti (cuenta, registros, resultados del cribado, conversaciones, programa y resúmenes de consultas) en un archivo JSON.",
+    "download": "Descargar mis datos",
+    "downloading": "Preparando…",
+    "downloaded": "Se ha descargado la exportación de tus datos.",
+    "retention": "Los chats se eliminan automáticamente 24 horas después del último mensaje. Todo lo demás se conserva hasta que elimines tu cuenta."
+  },
+  "delete": {
+    "title": "Eliminar cuenta",
+    "body": "Elimina definitivamente tu cuenta y todos tus datos de MumWell. No se puede deshacer.",
+    "button": "Eliminar mi cuenta",
+    "confirmTitle": "¿Eliminar tu cuenta definitivamente?",
+    "confirmBody": "Todos tus registros, resultados del cribado, conversaciones, tu programa y tus resúmenes de consultas se borrarán de inmediato. Introduce tu contraseña para confirmarlo.",
+    "password": "Tu contraseña",
+    "confirm": "Eliminar definitivamente",
+    "deleting": "Eliminando…",
+    "done": "Tu cuenta se ha eliminado."
+  }
+}

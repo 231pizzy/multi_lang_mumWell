@@ -1,0 +1,111 @@
+{
+  "about": {
+    "eyebrow": "Über MumWell",
+    "title": "Jede Mutter verdient es, gehört zu werden",
+    "intro": "MumWell ist eine Plattform für perinatale psychische Gesundheit, die Mütter durch Schwangerschaft, Wochenbettdepression und die alltäglichen Herausforderungen der frühen Elternschaft begleitet. Wir verbinden validiertes Screening, eine einfühlsame KI-Begleitung und persönliche Programme, damit Hilfe genau dann da ist, wenn sie gebraucht wird, und zwar in der Sprache der Mutter.",
+    "sections": [
+      {
+        "title": "Unsere Mission",
+        "body": "Zugängliche, einfühlsame und evidenzbasierte Unterstützung für die perinatale psychische Gesundheit für jede Mutter, egal, wo sie lebt oder welche Sprache sie spricht."
+      },
+      {
+        "title": "Unsere Vision",
+        "body": "Eine Welt, in der keine Mutter allein kämpft: in der Symptome früh erkannt werden, Hilfe zu suchen kein Stigma ist und jede Familie aufblühen kann."
+      },
+      {
+        "title": "Warum es wichtig ist",
+        "body": "Psychische Erkrankungen gehören zu den häufigsten Komplikationen in der Schwangerschaft und im ersten Jahr nach der Geburt. Frühe Erkennung und Unterstützung verbessern die Situation nicht nur für Mütter, sondern auch für ihre Babys, Partnerinnen und Partner und ganze Familien."
+      },
+      {
+        "title": "Wie wir helfen",
+        "body": "Mütter können das EPDS-Screening ausfüllen, jederzeit mit unserer KI-Begleitung sprechen, einem 90-Tage-Programm folgen und per Stimme mit KI-Fachleuten sprechen. Jeder Schritt weist den Weg zur professionellen Versorgung, wenn sie nötig ist."
+      },
+      {
+        "title": "Zusammen mit der Versorgung",
+        "body": "MumWell ergänzt Hebammen, Familienhebammen, Hausärztinnen und Hausärzte sowie perinatale psychiatrische Teams. Es hilft Müttern zu erkennen, wann sie Hilfe suchen sollten, und mit einem klareren Bild ihres Befindens in Termine zu gehen."
+      }
+    ],
+    "valuesTitle": "Was uns leitet",
+    "values": [
+      "Mitgefühl",
+      "Sicherheit",
+      "Datenschutz",
+      "Inklusion",
+      "Evidenz"
+    ]
+  },
+  "features": {
+    "eyebrow": "Funktionen",
+    "title": "Alles, was eine junge Mutter braucht, an einem ruhigen Ort",
+    "intro": "MumWell vereint die Werkzeuge, die in der perinatalen Zeit am wichtigsten sind: sorgfältig gestaltet, in fünf Sprachen verfügbar und nach den strengsten internationalen Datenschutzstandards geschützt.",
+    "detailTitle": "Außerdem enthalten",
+    "details": [
+      {
+        "title": "Stimmungs- und Aktivitätstagebuch",
+        "body": "Kurze tägliche Check-ins und persönliche Einblicke, die Muster über die Zeit sichtbar machen."
+      },
+      {
+        "title": "Entspannungsübungen",
+        "body": "Geführtes Atmen, ein Zen-Garten und beruhigende Naturklänge für unruhige Momente."
+      },
+      {
+        "title": "Sanfte Erinnerungen",
+        "body": "Optionale E-Mail-Erinnerungen an deinen täglichen Check-in, zu einer Uhrzeit, die dir passt."
+      },
+      {
+        "title": "Schriftliche Zusammenfassungen",
+        "body": "Nach jeder Sprachberatung eine klare Zusammenfassung zum Ausdrucken oder Teilen mit deinem Behandlungsteam."
+      },
+      {
+        "title": "Unterstützung in Krisen",
+        "body": "Automatische Erkennung von Krisensignalen mit Notruf- und Hotline-Nummern für dein Land."
+      },
+      {
+        "title": "Deine Daten, deine Kontrolle",
+        "body": "Lade alles herunter, was wir über dich speichern, oder lösche dein Konto dauerhaft, wann immer du möchtest."
+      }
+    ]
+  },
+  "contact": {
+    "eyebrow": "Kontakt",
+    "title": "Wir sind für dich da",
+    "intro": "Fragen zu MumWell, zu Partnerschaften oder Forschungskooperationen? Melde dich. Wenn du dringend Unterstützung brauchst, nutze die Hotlines unten.",
+    "emailLabel": "E-Mail",
+    "privacyLabel": "Datenschutz",
+    "responseTime": "Wir antworten in der Regel innerhalb von zwei Werktagen.",
+    "faqTitle": "Häufige Fragen",
+    "faqs": [
+      {
+        "q": "Ersetzt MumWell meine Hebamme oder Ärztin?",
+        "a": "Nein. MumWell unterstützt dein Wohlbefinden zwischen den Terminen und hilft dir zu erkennen, wann du Hilfe suchen solltest, stellt aber keine Diagnosen und behandelt nicht. Bleib bitte mit deiner Hebamme, Hausärztin oder Familienhebamme in Kontakt."
+      },
+      {
+        "q": "Wie starte ich eine Beratung?",
+        "a": "Melde dich an und starte in deiner Übersicht einen Chat oder eine Sprachberatung. Beides ist jederzeit verfügbar."
+      },
+      {
+        "q": "Welche Sprachen kann ich nutzen?",
+        "a": "Die gesamte App, einschließlich KI-Chat, Sprachberatung und E-Mails, funktioniert auf Englisch, Schwedisch, Deutsch, Französisch und Spanisch. Über das Globus-Symbol kannst du die Sprache jederzeit ändern."
+      },
+      {
+        "q": "Sind meine Daten sicher?",
+        "a": "Wir erheben nur, was nötig ist, um dich zu unterstützen, holen deine ausdrückliche Einwilligung ein, bevor wir Gesundheitsdaten verarbeiten, und verkaufen niemals Daten oder nutzen Werbe-Tracking. In den Kontoeinstellungen kannst du deine Daten herunterladen oder dauerhaft löschen."
+      },
+      {
+        "q": "Was passiert, wenn ich sage, dass ich in einer Krise bin?",
+        "a": "Die KI ist angewiesen, einfühlsam zu antworten und dich zu ermutigen, sofort den Notruf oder eine Krisen-Hotline zu kontaktieren, und die App zeigt dir die Nummern an. MumWell ist kein Notdienst. Im Notfall wähle deine örtliche Notrufnummer."
+      }
+    ]
+  },
+  "article": {
+    "eyebrow": "Wochenbettdepression verstehen",
+    "title": "Anzeichen, Unterstützung und der Weg zur Genesung",
+    "intro": "Eine Wochenbettdepression ist häufig, sie ist nicht deine Schuld und sie ist behandelbar. Dieser Leitfaden erklärt, worauf du achten kannst und wo du Hilfe findest.",
+    "readTime": "6 Minuten Lesezeit",
+    "reviewNote": "Dieser Artikel dient der allgemeinen Information und ersetzt keine Beratung durch Fachpersonal."
+  },
+  "notFound": {
+    "title": "Diese Seite haben wir nicht gefunden",
+    "body": "Die Seite wurde möglicherweise verschoben oder der Link ist fehlerhaft."
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "hero": {
+    "eyebrow": "Perinatal mental health",
+    "title": "Support for every mother, <accent>in her own language.</accent>",
+    "subtitle": "MumWell combines validated screening, a compassionate AI companion and a personal 90-day programme to help mothers through pregnancy and the first year after birth in English, Svenska, Deutsch, Français and Español.",
+    "primaryCta": "Create a free account",
+    "secondaryCta": "Take the EPDS screening",
+    "trust": {
+      "languages": "5 languages",
+      "gdpr": "GDPR-first privacy",
+      "available": "Available day and night",
+      "evidence": "Evidence-informed"
+    },
+    "cardLanguageTitle": "Hej! Hallo! Bonjour! ¡Hola!",
+    "cardLanguageValue": "Talk in your language",
+    "badge": "Screening · AI companion · Voice care",
+    "cardScreeningTitle": "EPDS screening",
+    "cardScreeningStep": "Question 4 of 10",
+    "cardChatUser": "I haven't slept properly in weeks and I feel so alone.",
+    "cardChatAi": "That sounds exhausting. You're not alone, let's take this one step at a time.",
+    "cardSafetyTitle": "Crisis support ready",
+    "cardSafetyBody": "Local helplines, one tap away"
+  },
+  "standards": {
+    "title": "Designed with reference to",
+    "items": [
+      "WHO guidance on perinatal mental health",
+      "Edinburgh Postnatal Depression Scale (EPDS)",
+      "EU General Data Protection Regulation",
+      "EU AI Act transparency duties",
+      "WCAG accessibility guidelines"
+    ]
+  },
+  "stats": {
+    "eyebrow": "The global challenge",
+    "title": "Common, treatable and too often unseen",
+    "body": "Mental health conditions around pregnancy and birth affect mothers in every country. Unrecognised, they weigh on bonding, breastfeeding and infant care. With timely support, most women recover fully.",
+    "items": [
+      {
+        "value": "10%",
+        "label": "of pregnant women worldwide experience a mental disorder, primarily depression."
+      },
+      {
+        "value": "13%",
+        "label": "of women who have just given birth experience a mental disorder."
+      },
+      {
+        "value": "19.8%",
+        "label": "of women after childbirth in developing countries, a far higher burden where care is scarce."
+      },
+      {
+        "value": "Better",
+        "label": "growth and development for newborns when maternal depression is treated."
+      }
+    ],
+    "source": "Source: World Health Organization, Maternal mental health.",
+    "sourceLink": "View source"
+  },
+  "how": {
+    "eyebrow": "The MumWell care pathway",
+    "title": "Stepped support, from first check-in to professional care",
+    "body": "Light-touch self-help for everyone, more support when it's needed, and a clear route to health professionals and crisis services when it matters most.",
+    "steps": [
+      {
+        "title": "Screen",
+        "body": "A validated 10-question EPDS check-in, scored instantly with clear, compassionate next steps.",
+        "tag": "5 minutes"
+      },
+      {
+        "title": "Talk",
+        "body": "An empathetic AI companion that listens day or night and recognises signs of distress.",
+        "tag": "Day and night"
+      },
+      {
+        "title": "Grow",
+        "body": "A personal 90-day programme of small daily actions for rest, recovery and bonding.",
+        "tag": "90 days"
+      },
+      {
+        "title": "Consult",
+        "body": "Voice consultations with nine AI specialists, each followed by a written summary.",
+        "tag": "9 specialists"
+      },
+      {
+        "title": "Connect",
+        "body": "Summaries to share with a midwife or doctor, and local helplines whenever care is urgent.",
+        "tag": "Human care"
+      }
+    ]
+  },
+  "features": {
+    "eyebrow": "What MumWell offers",
+    "title": "Care that fits into real life with a newborn",
+    "items": {
+      "screening": {
+        "title": "Validated screening",
+        "body": "The EPDS questionnaire used by health services around the world, with clear next steps for every result.",
+        "tag": "Validated tool",
+        "points": [
+          "The 10-item EPDS, scored the way clinicians score it",
+          "Plain-language results with a next step for every score",
+          "Any sign of self-harm immediately brings up crisis resources"
+        ]
+      },
+      "companion": {
+        "title": "AI companion",
+        "body": "A warm, evidence-informed chat that remembers your conversation and recognises when you need urgent help.",
+        "tag": "Day and night",
+        "points": [
+          "Remembers your conversation, so you never have to repeat yourself",
+          "Recognises crisis language in all five languages",
+          "Gentle, non-judgemental replies in the language you choose"
+        ]
+      },
+      "specialists": {
+        "title": "Voice consultations",
+        "body": "Nine AI specialists, from obstetrics and lactation to mental health specialists that you can simply talk to.",
+        "tag": "Nine specialists",
+        "points": [
+          "From obstetrics, paediatrics and lactation to mental health and nutrition",
+          "Natural voices in English, Swedish, German, French and Spanish",
+          "A printable written summary after every consultation"
+        ]
+      },
+      "programme": {
+        "title": "90-day programme",
+        "body": "Personalised daily steps for rest, recovery, bonding and connection, adapted to your situation.",
+        "tag": "Three phases",
+        "points": [
+          "Tailored to your situation, support network and history",
+          "Foundation, Building and Thriving phases over 90 days",
+          "Daily tasks, reflections and optional email reminders"
+        ]
+      }
+    },
+    "cta": "Explore all features"
+  },
+  "safety": {
+    "eyebrow": "Clinical safety",
+    "title": "Safety designed in, not added on",
+    "body": "Every message is checked for signs of crisis. When risk is detected, MumWell responds with care, shows the emergency and helpline numbers for the mother's country, and encourages her to reach someone she trusts.",
+    "flow": [
+      {
+        "title": "She reaches out",
+        "body": "A mother writes or speaks in her own language."
+      },
+      {
+        "title": "Risk is recognised",
+        "body": "Crisis language is detected in five languages, alongside an AI risk assessment."
+      },
+      {
+        "title": "Safety comes first",
+        "body": "The reply becomes calm, direct and focused on her immediate safety."
+      },
+      {
+        "title": "Help is one tap away",
+        "body": "Local emergency and helpline numbers appear instantly."
+      }
+    ],
+    "doesTitle": "What MumWell's AI does",
+    "does": [
+      "Listens, reflects and offers evidence-informed coping strategies",
+      "Explains screening results in plain language",
+      "Signposts to professional and emergency care"
+    ],
+    "doesntTitle": "What it never does",
+    "doesnt": [
+      "Diagnose conditions or prescribe medication",
+      "Replace midwives, doctors or mental health professionals",
+      "Sell, share or advertise with personal data"
+    ],
+    "aiNotice": "People are always told when they are talking to an AI."
+  },
+  "mood": {
+    "title": "How are you feeling right now?",
+    "subtitle": "There is no wrong answer. Noticing is the first step.",
+    "hint": "Choose the face that feels closest to how you are.",
+    "labels": [
+      "Very low",
+      "Low",
+      "Okay",
+      "Good",
+      "Great"
+    ],
+    "responses": [
+      "Thank you for being honest. You deserve support, and you're not alone.",
+      "Low days happen. Small steps and a kind word to yourself count.",
+      "Okay is okay. Checking in with yourself matters.",
+      "That's good to hear. Notice what's helping today.",
+      "Wonderful. Hold on to this feeling and what brought it."
+    ],
+    "cta": "Start tracking your wellbeing",
+    "kicker": "A moment for you"
+  },
+  "global": {
+    "eyebrow": "Global by design",
+    "title": "Your language. Your data. Your rights.",
+    "body": "Wherever you are, MumWell protects you to the world's strictest privacy standards, including the EU's GDPR, and meets you in your own language.",
+    "points": [
+      "The full experience including AI chat and voice in English, Swedish, German, French and Spanish",
+      "Explicit consent before any health data is processed",
+      "Download or permanently delete your data at any time",
+      "No advertising, tracking cookies or data selling ever"
+    ],
+    "languagesTitle": "Available in",
+    "helplines": "Emergency and helpline numbers for 15 countries across four continents"
+  },
+  "principles": {
+    "eyebrow": "Our principles",
+    "title": "Technology with a human heart",
+    "items": [
+      {
+        "title": "Safety first",
+        "body": "Every conversation is checked for signs of crisis, with emergency and helpline numbers one tap away."
+      },
+      {
+        "title": "Evidence-informed",
+        "body": "Built on validated tools and approaches such as CBT, behavioural activation and self-compassion."
+      },
+      {
+        "title": "Private by design",
+        "body": "Only the data needed to help you, protected by consent, encryption in transit and your right to erase it."
+      },
+      {
+        "title": "Complements care",
+        "body": "MumWell supports, but never replaces, midwives, GPs, health visitors and mental health professionals."
+      }
+    ]
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "Questions, answered",
+    "more": "More questions? Contact us"
+  },
+  "cta": {
+    "title": "You deserve to feel supported.",
+    "body": "Create a free account in under a minute and take the first gentle step today.",
+    "button": "Get started",
+    "secondary": "Take the screening",
+    "note": "Free · Private · In your language"
+  }
+}

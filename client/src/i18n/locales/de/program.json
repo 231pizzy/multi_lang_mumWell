@@ -1,0 +1,141 @@
+{
+  "loadingTitle": "Dein Programm wird vorbereitet…",
+  "loadingBody": "Einen Moment, wir stimmen deinen Weg zu mehr Wohlbefinden auf dich ab.",
+  "errorTitle": "Etwas ist schiefgelaufen",
+  "loadFailed": "Dein Programm konnte nicht geladen werden.",
+  "createFailed": "Dein Programm konnte nicht erstellt werden. Bitte versuche es erneut.",
+  "ready": "Dein 90-Tage-Programm ist fertig!",
+  "readyTip": "Tipp: Aktiviere tägliche Erinnerungen in den Einstellungen für Erinnerungen.",
+  "generating": "Dein persönliches 90-Tage-Programm wird erstellt. Das dauert meist etwa eine Minute, bitte lass diese Seite geöffnet.",
+  "pleaseWait": "Bitte warten",
+  "complete": {
+    "title": "Du hast dein 90-Tage-Programm abgeschlossen!",
+    "body": "Das ist eine echte Leistung. Nutze weiter, was dir geholfen hat, und starte ein neues Programm, wann immer du weitere Unterstützung möchtest.",
+    "restart": "Neues Programm starten"
+  },
+  "checkinDone": {
+    "title": "Check-in abgeschlossen",
+    "body": "Du hast Stimmung, Stress, Schlaf und Energie heute schon erfasst. Du kannst mit dem heutigen Programm weitermachen.",
+    "continue": "Zum heutigen Programm"
+  },
+  "setup": {
+    "title": "Erstelle dein Programm",
+    "intro": "Ein paar kurze Fragen, Schritt für Schritt, damit wir 90 Tage behutsame Unterstützung auf dich abstimmen können.",
+    "step": "Schritt {{step}} von 3",
+    "name": "Dein Name",
+    "age": "Alter",
+    "ageError": "Bitte gib ein Alter zwischen 18 und 70 ein.",
+    "pregnant": "Bist du zurzeit schwanger?",
+    "yes": "Ja",
+    "no": "Nein",
+    "children": "Anzahl der Kinder",
+    "support": "Wer unterstützt dich?",
+    "supportOptions": {
+      "partner": "Partner/in",
+      "family": "Familie",
+      "friends": "Freundinnen/Freunde"
+    },
+    "supportOther": "Andere Unterstützung",
+    "history": "Hattest du früher schon psychische Schwierigkeiten?",
+    "historyNotes": "Möchtest du uns etwas mitteilen? (optional)",
+    "delivery": "Art der Geburt",
+    "deliveryPlaceholder": "Auswählen",
+    "deliveryOptions": {
+      "vaginal": "Vaginale Geburt",
+      "c-section": "Kaiserschnitt"
+    },
+    "weeks": "Wochen seit der Geburt",
+    "weeksPlaceholder": "Auswählen",
+    "week": "Woche {{week}}",
+    "create": "Mein Programm erstellen",
+    "creating": "Programm wird erstellt…",
+    "privacy": "Deine Antworten werden nur genutzt, um dein Programm anzupassen. Dein Name wird nie an die KI gesendet.",
+    "footer": "Deine Gefühle zählen. Du bist nicht allein."
+  },
+  "wellness": {
+    "title": "Täglicher Check-in",
+    "intro": "Nimm dir einen Moment, um zu spüren, wie es dir geht. Es gibt keine richtigen Antworten.",
+    "step": "Schritt {{step}} von {{total}}",
+    "finish": "Fertig",
+    "saved": "Check-in gespeichert",
+    "savedBody": "Danke, dass du heute bei dir nachgespürt hast.",
+    "failed": "Dein Check-in konnte nicht gespeichert werden.",
+    "metrics": {
+      "mood": {
+        "title": "Stimmung",
+        "question": "Wie geht es dir heute emotional?",
+        "labels": [
+          "Sehr schlecht",
+          "Schlecht",
+          "Okay",
+          "Gut",
+          "Sehr gut"
+        ]
+      },
+      "stress": {
+        "title": "Stress",
+        "question": "Wie viel Druck oder Anspannung spürst du gerade?",
+        "labels": [
+          "Sehr ruhig",
+          "Ruhig",
+          "Neutral",
+          "Gestresst",
+          "Überfordert"
+        ]
+      },
+      "sleep": {
+        "title": "Schlaf",
+        "question": "Wie gut hast du letzte Nacht geschlafen?",
+        "labels": [
+          "Sehr schlecht",
+          "Schlecht",
+          "Okay",
+          "Gut",
+          "Sehr gut"
+        ]
+      },
+      "energy": {
+        "title": "Energie",
+        "question": "Wie viel Energie hast du heute?",
+        "labels": [
+          "Sehr wenig",
+          "Wenig",
+          "Mittel",
+          "Gut",
+          "Viel"
+        ]
+      }
+    }
+  },
+  "day": {
+    "progress": "Tag {{day}} von {{total}} · Schritt {{step}} von 3",
+    "welcome": "Schön, dass du da bist",
+    "theme": "Thema des Tages",
+    "objectives": "Ziele für heute",
+    "tasks": "Aufgaben für heute",
+    "tasksNote": "Mach, was sich heute machbar anfühlt. Jeder kleine Schritt zählt.",
+    "reflection": "Reflexion",
+    "reflectionNote": "Nimm dir einen Moment, um deine Mühe und deine Gefühle wahrzunehmen.",
+    "reflectionPlaceholder": "Schreib deine Gedanken hier auf…",
+    "reflectionLabel": "Deine Reflexion",
+    "done": "Tag abschließen",
+    "submitting": "Wird gespeichert…",
+    "failed": "Das heutige Programm konnte nicht gespeichert werden.",
+    "celebrateTitle": "Gut gemacht!",
+    "celebrateBody": "Du hast das heutige Programm abgeschlossen. Du kümmerst dich großartig um dich und dein Baby.",
+    "talkTitle": "Möchtest du mit jemandem sprechen?",
+    "talkBody": "Eine unserer KI-Beraterinnen oder -Berater kann mit dir über deine Stimmung, die heutigen Aufgaben oder alles, was dich beschäftigt, sprechen."
+  },
+  "consultants": {
+    "1": {
+      "specialist": "Perinatale Psychologin",
+      "description": "Unterstützt dich bei Gefühlen, Stress, Umstellung und Bindung mit evidenzbasierter Psychologie.",
+      "firstMessage": "Hallo, ich bin deine perinatale Psychologin bei MumWell. Wie fühlst du dich nach den heutigen Aktivitäten?"
+    },
+    "2": {
+      "specialist": "Coach für Wohlbefinden",
+      "description": "Hilft dir, kleine, realistische Routinen für Ruhe, Erholung und Verbundenheit aufzubauen.",
+      "firstMessage": "Hallo, ich bin dein Coach für Wohlbefinden bei MumWell. Wie haben sich die heutigen Aufgaben für dich angefühlt?"
+    }
+  }
+}

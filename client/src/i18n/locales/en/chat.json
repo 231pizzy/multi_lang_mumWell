@@ -1,0 +1,37 @@
+{
+  "title": "MumWell companion",
+  "sessions": "Conversations",
+  "showSessions": "Conversations",
+  "closeSessions": "Close conversations",
+  "newSession": "New conversation",
+  "noSessions": "No previous conversations yet.",
+  "newChat": "New conversation",
+  "noMessages": "No messages yet",
+  "messageCount_one": "{{count}} message",
+  "messageCount_other": "{{count}} messages",
+  "justNow": "Just now",
+  "you": "You",
+  "assistant": "MumWell",
+  "typing": "Writing…",
+  "welcomeTitle": "Hi, I'm here for you",
+  "welcomeBody": "This is a safe space to share whatever is on your mind, big or small. How are you feeling today?",
+  "starters": [
+    "I've been feeling overwhelmed lately",
+    "I can't sleep, even when the baby sleeps",
+    "I feel guilty all the time",
+    "I just need someone to talk to"
+  ],
+  "placeholder": "Share what's on your mind…",
+  "message": "Message",
+  "send": "Send message",
+  "hint": "Enter to send · Shift + Enter for a new line",
+  "privacy": "Conversations are deleted automatically 24 hours after your last message.",
+  "missing": "This conversation is no longer available. For your privacy, conversations are deleted 24 hours after the last message.",
+  "startNew": "Start a new conversation",
+  "errors": {
+    "create": "Couldn't start a new conversation.",
+    "list": "Couldn't load your previous conversations.",
+    "load": "Couldn't load this conversation.",
+    "send": "I'm having trouble connecting right now. Please try again."
+  }
+}

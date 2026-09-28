@@ -1,0 +1,50 @@
+{
+  "title": "Compte et confidentialité",
+  "intro": "Gérez vos informations, votre langue et vos données. Vous gardez toujours le contrôle.",
+  "profile": {
+    "title": "Profil",
+    "name": "Prénom",
+    "email": "E-mail",
+    "language": "Langue",
+    "languageHint": "Utilisée pour l'application, les conversations IA, les consultations vocales et les e-mails.",
+    "country": "Pays",
+    "save": "Enregistrer les modifications",
+    "saved": "Vos informations ont été mises à jour."
+  },
+  "password": {
+    "title": "Changer de mot de passe",
+    "current": "Mot de passe actuel",
+    "new": "Nouveau mot de passe",
+    "confirm": "Confirmer le nouveau mot de passe",
+    "submit": "Changer le mot de passe",
+    "mismatch": "Les nouveaux mots de passe ne correspondent pas.",
+    "otherSessions": "Les autres appareils seront déconnectés."
+  },
+  "consents": {
+    "title": "Vos consentements",
+    "terms": "Conditions d'utilisation et politique de confidentialité",
+    "health": "Traitement des données de santé et de bien-être",
+    "age": "Âge de 18 ans ou plus confirmé",
+    "given": "Donné le {{date}}",
+    "withdraw": "Vous pouvez retirer à tout moment votre consentement au traitement des données de santé en supprimant votre compte ci-dessous. MumWell ne peut pas fonctionner sans lui."
+  },
+  "data": {
+    "title": "Vos données",
+    "body": "Téléchargez une copie de tout ce que MumWell conserve à votre sujet (compte, bilans, résultats de dépistage, conversations, programme et comptes rendus de consultation) sous forme de fichier JSON.",
+    "download": "Télécharger mes données",
+    "downloading": "Préparation…",
+    "downloaded": "L'export de vos données a été téléchargé.",
+    "retention": "Les conversations sont supprimées automatiquement 24 heures après le dernier message. Tout le reste est conservé jusqu'à la suppression de votre compte."
+  },
+  "delete": {
+    "title": "Supprimer le compte",
+    "body": "Supprimez définitivement votre compte et toutes vos données de MumWell. Cette action est irréversible.",
+    "button": "Supprimer mon compte",
+    "confirmTitle": "Supprimer définitivement votre compte ?",
+    "confirmBody": "Tous vos bilans, résultats de dépistage, conversations, votre programme et vos comptes rendus de consultation seront effacés immédiatement. Saisissez votre mot de passe pour confirmer.",
+    "password": "Votre mot de passe",
+    "confirm": "Supprimer définitivement",
+    "deleting": "Suppression…",
+    "done": "Votre compte a été supprimé."
+  }
+}

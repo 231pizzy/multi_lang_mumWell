@@ -1,0 +1,168 @@
+{
+  "draftNotice": "Entwurf zur Prüfung: Dieser Text muss vor dem öffentlichen Start von einer auf Datenschutz spezialisierten Rechtsanwältin oder einem Rechtsanwalt geprüft werden. Angaben in [eckigen Klammern] müssen ergänzt werden.",
+  "lastUpdated": "Zuletzt aktualisiert: {{date}}",
+  "contents": "Inhalt",
+  "privacy": {
+    "eyebrow": "Datenschutzerklärung",
+    "title": "So schützen wir deine Daten",
+    "intro": "MumWell verarbeitet sensible Informationen über deine Gesundheit und dein Wohlbefinden. Diese Erklärung beschreibt, was wir erheben, warum, wer die Daten verarbeitet und welche Rechte du nach der Datenschutz-Grundverordnung der EU (DSGVO) hast.",
+    "sections": [
+      {
+        "heading": "1. Wer für deine Daten verantwortlich ist",
+        "paragraphs": [
+          "Verantwortlicher ist [rechtlicher Name des Unternehmens], [Sitz/Anschrift], [Registernummer] („MumWell“, „wir“). Bei Fragen zum Datenschutz erreichst du uns unter support@mumwell.org.",
+          "[Falls benannt: Unsere Datenschutzbeauftragte / unseren Datenschutzbeauftragten erreichst du unter …]"
+        ]
+      },
+      {
+        "heading": "2. Welche Daten wir erheben",
+        "bullets": [
+          "Kontodaten: dein Name, deine E-Mail-Adresse, deine Telefonnummer, dein Land, ein sicher gehashtes Passwort und deine bevorzugte Sprache.",
+          "Einwilligungsnachweise: welche Einwilligungen du wann erteilt hast.",
+          "Gesundheits- und Wohlbefindensdaten (besondere Kategorien personenbezogener Daten): Stimmungs-Check-ins, Antworten und Punktzahlen des EPDS-Screenings, Aktivitäten, tägliche Check-ins, dein 90-Tage-Programm und deine Reflexionen, Nachrichten im KI-Chat, Transkripte und Zusammenfassungen von Sprachberatungen sowie Angaben bei der Erstellung deines Programms (z. B. Schwangerschaft oder frühere psychische Erkrankungen).",
+          "Einstellungen für Erinnerungen: ob Erinnerungen aktiviert sind, die gewählte Uhrzeit und Zeitzone.",
+          "Technische Daten: Anmeldesitzungen (Gerätetyp und Ablaufzeit), die für die Sicherheit deines Kontos nötig sind.",
+          "Aufzeichnungen zu Krisenalarmen: wann du in unmittelbarer Gefahr zu sein schienst, was die Sorge ausgelöst hat und ob unsere Krisen-Hotline benachrichtigt wurde."
+        ],
+        "paragraphs": [
+          "Wir verwenden keine Werbe- oder Tracking-Cookies und verkaufen niemals deine Daten."
+        ]
+      },
+      {
+        "heading": "3. Zwecke und Rechtsgrundlagen",
+        "bullets": [
+          "Um den Dienst bereitzustellen, für den du dich registriert hast, also Konto, Programm, Tagebuch und Erinnerungen (Art. 6 Abs. 1 lit. b DSGVO, Vertragserfüllung).",
+          "Um Gesundheits- und Wohlbefindensdaten zu verarbeiten, ausschließlich mit deiner ausdrücklichen Einwilligung (Art. 9 Abs. 2 lit. a DSGVO). Du kannst sie jederzeit widerrufen, indem du dein Konto löschst.",
+          "Um den Dienst sicher zu halten und Missbrauch zu verhindern, z. B. durch Anfragebegrenzung und Anmeldeschutz (Art. 6 Abs. 1 lit. f DSGVO, berechtigte Interessen).",
+          "Um gesetzliche Pflichten zu erfüllen, sofern anwendbar (Art. 6 Abs. 1 lit. c DSGVO).",
+          "Zu deinem Schutz in einer Krise: Deutet eine Nachricht, eine Screening-Antwort oder eine Sprachberatung darauf hin, dass du dir oder deinem Baby etwas antun könntest, senden wir deine Kontaktdaten, eine Adresse oder Telefonnummer, die du im Gespräch selbst teilst, relevante Profil- und Screening-Angaben sowie die besorgniserregenden Worte per E-Mail an unsere Krisen-Hotline, damit eine geschulte Person dich erreichen kann (Art. 9 Abs. 2 lit. a, ausdrückliche Einwilligung; wenn du nicht einwilligen kannst, Art. 9 Abs. 2 lit. c und Art. 6 Abs. 1 lit. d, lebenswichtige Interessen)."
+        ]
+      },
+      {
+        "heading": "4. Künstliche Intelligenz",
+        "paragraphs": [
+          "MumWell nutzt KI-Modelle, um im Chat zu antworten, dein Programm zu erstellen, Fachleute vorzuschlagen und Sprachberatungen zusammenzufassen. Du wirst immer darüber informiert, wenn du mit einer KI interagierst. Die KI schätzt außerdem ein, ob eine Nachricht auf eine Krise hindeuten könnte, damit wir Notfallinformationen anzeigen können; sie trifft keine Entscheidungen mit rechtlicher oder ähnlich erheblicher Wirkung für dich und stellt keine Diagnosen."
+        ]
+      },
+      {
+        "heading": "5. Wer deine Daten verarbeitet",
+        "paragraphs": [
+          "Wir setzen sorgfältig ausgewählte Dienstleister (Auftragsverarbeiter) auf Grundlage von Auftragsverarbeitungsverträgen ein:"
+        ],
+        "bullets": [
+          "MongoDB Atlas: Datenbank für Konto, Chat und Tagebuch, gehostet in der EU (Irland).",
+          "Neon: Datenbank für Programme und Beratungen. [Derzeit in den USA gehostet; Umzug in eine EU-Region geplant.]",
+          "Google (Gemini API): KI-Texterzeugung.",
+          "Vapi und seine Sprachdienstleister: Sprachberatungen (Spracherkennung, Stimme und Sprachmodell).",
+          "[E-Mail-Anbieter]: E-Mails zum Zurücksetzen des Passworts und Erinnerungen.",
+          "[Organisation der Krisen-Hotline]: erhält Krisenalarme per E-Mail und kontaktiert dich unter ihrer eigenen Schweigepflicht."
+        ]
+      },
+      {
+        "heading": "6. Übermittlungen in Drittländer",
+        "paragraphs": [
+          "Verarbeitet ein Dienstleister Daten außerhalb des Europäischen Wirtschaftsraums, stützen wir uns auf einen Angemessenheitsbeschluss (etwa das EU-US Data Privacy Framework) oder auf Standardvertragsklauseln mit ergänzenden Maßnahmen. [Mechanismus je Dienstleister angeben.]"
+        ]
+      },
+      {
+        "heading": "7. Wie lange wir Daten speichern",
+        "bullets": [
+          "KI-Chats: werden 24 Stunden nach der letzten Nachricht automatisch gelöscht.",
+          "Anmeldesitzungen: werden nach Ablauf automatisch gelöscht.",
+          "Links zum Zurücksetzen des Passworts: eine Stunde gültig.",
+          "Aufzeichnungen zu Krisenalarmen: bis zur Löschung deines Kontos. Bereits zugestellte Alarm-E-Mails bewahrt die Krisen-Hotline nach ihren eigenen Regeln auf. [Aufbewahrungsfrist der Hotline angeben.]",
+          "Alle anderen Konto- und Gesundheitsdaten: werden gespeichert, bis du dein Konto löschst, und dann dauerhaft aus unseren aktiven Systemen entfernt. [Aufbewahrungsdauer der Backups angeben.]"
+        ]
+      },
+      {
+        "heading": "8. Deine Rechte",
+        "paragraphs": [
+          "Nach der DSGVO hast du das Recht auf:"
+        ],
+        "bullets": [
+          "Auskunft und eine Kopie deiner Daten: Nutze „Meine Daten herunterladen“ unter Konto & Datenschutz.",
+          "Datenübertragbarkeit: Der Download ist eine maschinenlesbare JSON-Datei.",
+          "Löschung: Nutze „Mein Konto löschen“, um deine Daten dauerhaft zu entfernen.",
+          "Berichtigung: Ändere Namen und Einstellungen unter Konto & Datenschutz oder kontaktiere uns.",
+          "Widerruf deiner Einwilligung jederzeit, ohne dass die Rechtmäßigkeit der bis dahin erfolgten Verarbeitung berührt wird.",
+          "Einschränkung der Verarbeitung oder Widerspruch: Kontaktiere uns.",
+          "Beschwerde bei einer Datenschutz-Aufsichtsbehörde, insbesondere in dem EU-Land, in dem du lebst."
+        ]
+      },
+      {
+        "heading": "9. Sicherheit",
+        "paragraphs": [
+          "Daten werden bei der Übertragung verschlüsselt, Passwörter als gesalzene Hashwerte gespeichert, Sitzungen können widerrufen werden, der Zugriff ist auf dein eigenes Konto beschränkt und Gesprächsinhalte werden nie in unsere Protokolle geschrieben."
+        ]
+      },
+      {
+        "heading": "10. Alter",
+        "paragraphs": [
+          "MumWell richtet sich an Erwachsene ab 18 Jahren."
+        ]
+      },
+      {
+        "heading": "11. Änderungen",
+        "paragraphs": [
+          "Wenn wir diese Erklärung wesentlich ändern, informieren wir dich in der App und bitten dich, wo erforderlich, erneut um deine Einwilligung."
+        ]
+      }
+    ]
+  },
+  "terms": {
+    "eyebrow": "Nutzungsbedingungen",
+    "title": "MumWell sicher nutzen",
+    "intro": "Diese Bedingungen erklären, was MumWell ist, was es nicht ist und welche Verantwortung mit der Nutzung verbunden ist.",
+    "sections": [
+      {
+        "heading": "1. Was MumWell ist",
+        "paragraphs": [
+          "MumWell ist ein digitales Angebot für das Wohlbefinden mit Screening, KI-gestützten Gesprächen, Sprachberatungen mit KI-Fachleuten und einem persönlichen Programm für Mütter in der Schwangerschaft und nach der Geburt. Anbieter ist [rechtlicher Name des Unternehmens]."
+        ]
+      },
+      {
+        "heading": "2. Kein medizinischer Dienst und kein Notdienst",
+        "paragraphs": [
+          "MumWell stellt keine Diagnosen, behandelt nicht, gibt keine medizinische Beratung und ersetzt weder Hebammen noch Ärztinnen, Ärzte oder Fachleute für psychische Gesundheit. KI-Antworten können unvollständig oder falsch sein. Screening-Ergebnisse sind nur ein Hinweis.",
+          "MumWell ist kein Notdienst. Wenn du oder dein Baby in Gefahr seid oder du daran denkst, dir etwas anzutun, wähle sofort 112 oder deine örtliche Notrufnummer."
+        ]
+      },
+      {
+        "heading": "3. Wer MumWell nutzen darf",
+        "paragraphs": [
+          "Du musst mindestens 18 Jahre alt sein und die bei der Registrierung erfragten Einwilligungen erteilen."
+        ]
+      },
+      {
+        "heading": "4. Dein Konto",
+        "paragraphs": [
+          "Halte dein Passwort geheim und informiere uns, wenn du vermutest, dass jemand unbefugt auf dein Konto zugegriffen hat. Du kannst dein Konto jederzeit löschen."
+        ]
+      },
+      {
+        "heading": "5. Zulässige Nutzung",
+        "paragraphs": [
+          "Missbrauche den Dienst nicht, versuche nicht, auf Daten anderer zuzugreifen, störe den Dienst nicht und nutze ihn nicht, um schädliche Inhalte zu erzeugen."
+        ]
+      },
+      {
+        "heading": "6. Verfügbarkeit und Änderungen",
+        "paragraphs": [
+          "Wir bemühen uns um eine hohe Verfügbarkeit von MumWell, können aber keinen unterbrechungsfreien Zugang garantieren. Wir können Funktionen und diese Bedingungen anpassen; wesentliche Änderungen kündigen wir in der App an."
+        ]
+      },
+      {
+        "heading": "7. Haftung",
+        "paragraphs": [
+          "Nichts in diesen Bedingungen beschränkt eine Haftung, die nach geltendem Recht nicht beschränkt werden kann, einschließlich deiner gesetzlichen Verbraucherrechte. [Entsprechend dem anwendbaren Recht ergänzen.]"
+        ]
+      },
+      {
+        "heading": "8. Anwendbares Recht",
+        "paragraphs": [
+          "Für diese Bedingungen gilt das Recht von [Land]. [Angaben zur Streitbeilegung ergänzen.]"
+        ]
+      }
+    ]
+  }
+}

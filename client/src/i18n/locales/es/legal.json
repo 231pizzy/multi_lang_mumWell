@@ -1,0 +1,168 @@
+{
+  "draftNotice": "Borrador pendiente de revisión: este texto debe revisarlo un abogado especializado en protección de datos antes del lanzamiento público. Los elementos entre [corchetes] deben completarse.",
+  "lastUpdated": "Última actualización: {{date}}",
+  "contents": "Índice",
+  "privacy": {
+    "eyebrow": "Política de privacidad",
+    "title": "Cómo protegemos tus datos",
+    "intro": "MumWell trata información sensible sobre tu salud y tu bienestar. Esta política explica qué datos recogemos, para qué, quién los trata y qué derechos tienes según el Reglamento General de Protección de Datos de la UE (RGPD).",
+    "sections": [
+      {
+        "heading": "1. Responsable del tratamiento",
+        "paragraphs": [
+          "El responsable del tratamiento es [razón social], [domicilio social], [número de registro] («MumWell», «nosotros»). Puedes escribirnos sobre privacidad a support@mumwell.org.",
+          "[Si se ha designado: nuestro delegado de protección de datos está disponible en …]"
+        ]
+      },
+      {
+        "heading": "2. Qué datos recogemos",
+        "bullets": [
+          "Datos de la cuenta: tu nombre, tu correo electrónico, tu número de teléfono, tu país, una contraseña cifrada de forma segura y tu idioma preferido.",
+          "Registro de consentimientos: qué consentimientos has dado y cuándo.",
+          "Datos de salud y bienestar (categorías especiales de datos): registros de estado de ánimo, respuestas y puntuaciones del cribado EPDS, actividades, registros diarios, tu programa de 90 días y tus reflexiones, mensajes del chat con IA, transcripciones y resúmenes de las consultas por voz, y la información que aportas al crear tu programa (por ejemplo, embarazo o antecedentes de salud mental).",
+          "Ajustes de recordatorios: si están activados, la hora y la zona horaria elegidas.",
+          "Datos técnicos: sesiones de inicio de sesión (tipo de dispositivo y caducidad) necesarias para mantener tu cuenta segura.",
+          "Registros de alertas de crisis: cuándo parecías estar en riesgo inmediato, qué causó la preocupación y si se avisó a nuestra línea de ayuda en crisis."
+        ],
+        "paragraphs": [
+          "No usamos cookies publicitarias ni de seguimiento y nunca vendemos tus datos."
+        ]
+      },
+      {
+        "heading": "3. Finalidades y base jurídica",
+        "bullets": [
+          "Prestar el servicio en el que te has registrado: cuenta, programa, registros y recordatorios (art. 6.1.b RGPD, ejecución de un contrato).",
+          "Tratar datos de salud y bienestar: solo con tu consentimiento explícito (art. 9.2.a RGPD). Puedes retirarlo en cualquier momento eliminando tu cuenta.",
+          "Mantener la seguridad del servicio y evitar abusos, por ejemplo limitando solicitudes y protegiendo el inicio de sesión (art. 6.1.f, interés legítimo).",
+          "Cumplir obligaciones legales cuando proceda (art. 6.1.c).",
+          "Para protegerte en una crisis: si un mensaje, una respuesta del cribado o una consulta por voz indican que podrías hacerte daño o hacer daño a tu bebé, enviamos por correo a nuestra línea de ayuda en crisis tus datos de contacto, cualquier dirección o teléfono que decidas compartir en esa conversación, la información relevante de tu perfil y del cribado y las palabras que causaron preocupación, para que una persona formada pueda contactarte (art. 9.2.a, consentimiento explícito; si no puedes consentir, art. 9.2.c y art. 6.1.d, intereses vitales)."
+        ]
+      },
+      {
+        "heading": "4. Inteligencia artificial",
+        "paragraphs": [
+          "MumWell utiliza modelos de IA para responder en el chat, crear tu programa, sugerir especialistas y resumir las consultas por voz. Siempre se te informa cuando interactúas con una IA. La IA también estima si un mensaje puede indicar una crisis para mostrar información de emergencia; no toma decisiones con efectos jurídicos ni similares significativos para ti y no realiza diagnósticos."
+        ]
+      },
+      {
+        "heading": "5. Quién trata tus datos",
+        "paragraphs": [
+          "Trabajamos con proveedores cuidadosamente seleccionados (encargados del tratamiento) con contratos de encargo:"
+        ],
+        "bullets": [
+          "MongoDB Atlas: base de datos de la cuenta, el chat y los registros, alojada en la UE (Irlanda).",
+          "Neon: base de datos de programas y consultas. [Actualmente alojada en EE. UU.; está prevista su migración a una región de la UE.]",
+          "Google (API de Gemini): generación de texto con IA.",
+          "Vapi y sus proveedores de voz: consultas por voz (reconocimiento de voz, síntesis de voz y modelo de lenguaje).",
+          "[Proveedor de correo]: correos de restablecimiento de contraseña y recordatorios.",
+          "[Organización de la línea de ayuda en crisis]: recibe las alertas de crisis por correo y te contacta bajo su propio deber de confidencialidad."
+        ]
+      },
+      {
+        "heading": "6. Transferencias internacionales",
+        "paragraphs": [
+          "Cuando un proveedor trata datos fuera del Espacio Económico Europeo, nos basamos en una decisión de adecuación (como el Marco de Privacidad de Datos UE-EE. UU.) o en cláusulas contractuales tipo con medidas complementarias. [Indicar el mecanismo utilizado con cada proveedor.]"
+        ]
+      },
+      {
+        "heading": "7. Plazos de conservación",
+        "bullets": [
+          "Conversaciones del chat con IA: se eliminan automáticamente 24 horas después del último mensaje.",
+          "Sesiones: se eliminan automáticamente al caducar.",
+          "Enlaces para restablecer la contraseña: válidos durante una hora.",
+          "Registros de alertas de crisis: se conservan hasta que elimines tu cuenta. Los correos de alerta ya entregados a la línea de ayuda los conserva esta según su propia política. [Indicar el plazo de conservación de la línea de ayuda.]",
+          "El resto de datos de la cuenta y de salud: se conservan hasta que eliminas tu cuenta y entonces se borran definitivamente de nuestros sistemas activos. [Indicar el plazo de conservación de las copias de seguridad.]"
+        ]
+      },
+      {
+        "heading": "8. Tus derechos",
+        "paragraphs": [
+          "Según el RGPD tienes derecho a:"
+        ],
+        "bullets": [
+          "Acceder a tus datos y obtener una copia: usa «Descargar mis datos» en Cuenta y privacidad.",
+          "La portabilidad de los datos: la descarga es un archivo JSON legible por máquina.",
+          "La supresión: usa «Eliminar mi cuenta» para borrar tus datos definitivamente.",
+          "La rectificación: actualiza tu nombre y tus ajustes en Cuenta y privacidad o contáctanos.",
+          "Retirar tu consentimiento en cualquier momento, sin que ello afecte a la licitud del tratamiento previo.",
+          "Solicitar la limitación del tratamiento u oponerte a él: contáctanos.",
+          "Presentar una reclamación ante una autoridad de protección de datos, en particular la del país de la UE donde vives (en España, la AEPD)."
+        ]
+      },
+      {
+        "heading": "9. Seguridad",
+        "paragraphs": [
+          "Los datos se cifran en tránsito, las contraseñas se guardan como hashes con sal, las sesiones pueden revocarse, el acceso está limitado a tu propia cuenta y el contenido de las conversaciones nunca se escribe en nuestros registros técnicos."
+        ]
+      },
+      {
+        "heading": "10. Edad",
+        "paragraphs": [
+          "MumWell está dirigido a personas adultas de 18 años o más."
+        ]
+      },
+      {
+        "heading": "11. Cambios",
+        "paragraphs": [
+          "Si hacemos cambios importantes en esta política, te lo comunicaremos en la aplicación y, cuando sea necesario, volveremos a pedir tu consentimiento."
+        ]
+      }
+    ]
+  },
+  "terms": {
+    "eyebrow": "Condiciones de uso",
+    "title": "Usar MumWell de forma segura",
+    "intro": "Estas condiciones explican qué es MumWell, qué no es y las responsabilidades que implica usarlo.",
+    "sections": [
+      {
+        "heading": "1. Qué es MumWell",
+        "paragraphs": [
+          "MumWell es un servicio digital de bienestar que ofrece cribado, conversaciones asistidas por IA, consultas por voz con especialistas de IA y un programa personal para madres durante el embarazo y después del parto. Lo presta [razón social]."
+        ]
+      },
+      {
+        "heading": "2. No es un servicio médico ni de emergencias",
+        "paragraphs": [
+          "MumWell no diagnostica, no trata, no ofrece consejo médico y no sustituye a matronas, médicos ni profesionales de la salud mental. Las respuestas de la IA pueden ser incompletas o erróneas. Los resultados del cribado son solo orientativos.",
+          "MumWell no es un servicio de emergencias. Si tú o tu bebé estáis en peligro, o piensas en hacerte daño, llama de inmediato al 112 o a tu número de emergencias local."
+        ]
+      },
+      {
+        "heading": "3. Quién puede usar MumWell",
+        "paragraphs": [
+          "Debes tener al menos 18 años y dar los consentimientos que se solicitan al registrarte."
+        ]
+      },
+      {
+        "heading": "4. Tu cuenta",
+        "paragraphs": [
+          "Mantén tu contraseña en secreto y avísanos si crees que alguien ha accedido a tu cuenta sin permiso. Puedes eliminar tu cuenta en cualquier momento."
+        ]
+      },
+      {
+        "heading": "5. Uso aceptable",
+        "paragraphs": [
+          "No hagas un uso indebido del servicio, no intentes acceder a datos de otras personas, no interrumpas el servicio ni lo utilices para generar contenido dañino."
+        ]
+      },
+      {
+        "heading": "6. Disponibilidad y cambios",
+        "paragraphs": [
+          "Trabajamos para que MumWell esté disponible, pero no podemos garantizar un acceso ininterrumpido. Podemos actualizar funciones y estas condiciones; los cambios importantes se anunciarán en la aplicación."
+        ]
+      },
+      {
+        "heading": "7. Responsabilidad",
+        "paragraphs": [
+          "Nada de lo dispuesto en estas condiciones limita la responsabilidad que no pueda limitarse según la ley aplicable, incluidos tus derechos legales como consumidora. [Completar según la ley aplicable.]"
+        ]
+      },
+      {
+        "heading": "8. Ley aplicable",
+        "paragraphs": [
+          "Estas condiciones se rigen por la legislación de [país]. [Añadir la información sobre resolución de conflictos.]"
+        ]
+      }
+    ]
+  }
+}

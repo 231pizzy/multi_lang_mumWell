@@ -1,0 +1,37 @@
+{
+  "title": "Compagnon MumWell",
+  "sessions": "Conversations",
+  "showSessions": "Conversations",
+  "closeSessions": "Fermer les conversations",
+  "newSession": "Nouvelle conversation",
+  "noSessions": "Aucune conversation pour le moment.",
+  "newChat": "Nouvelle conversation",
+  "noMessages": "Aucun message pour le moment",
+  "messageCount_one": "{{count}} message",
+  "messageCount_other": "{{count}} messages",
+  "justNow": "À l'instant",
+  "you": "Vous",
+  "assistant": "MumWell",
+  "typing": "Rédaction…",
+  "welcomeTitle": "Bonjour, je suis là pour vous",
+  "welcomeBody": "Cet espace est sûr pour partager tout ce qui vous préoccupe, petit ou grand. Comment vous sentez-vous aujourd'hui ?",
+  "starters": [
+    "Je me sens dépassée ces derniers temps",
+    "Je n'arrive pas à dormir, même quand le bébé dort",
+    "Je me sens coupable tout le temps",
+    "J'ai juste besoin de parler à quelqu'un"
+  ],
+  "placeholder": "Écrivez ce que vous avez en tête…",
+  "message": "Message",
+  "send": "Envoyer le message",
+  "hint": "Entrée pour envoyer · Maj + Entrée pour aller à la ligne",
+  "privacy": "Les conversations sont supprimées automatiquement 24 heures après votre dernier message.",
+  "missing": "Cette conversation n'est plus disponible. Pour protéger votre vie privée, les conversations sont supprimées 24 heures après le dernier message.",
+  "startNew": "Commencer une nouvelle conversation",
+  "errors": {
+    "create": "Impossible de démarrer une nouvelle conversation.",
+    "list": "Impossible de charger vos conversations précédentes.",
+    "load": "Impossible de charger cette conversation.",
+    "send": "J'ai du mal à me connecter pour le moment. Veuillez réessayer."
+  }
+}

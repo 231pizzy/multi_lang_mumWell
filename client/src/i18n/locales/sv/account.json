@@ -1,0 +1,50 @@
+{
+  "title": "Konto och integritet",
+  "intro": "Hantera dina uppgifter, ditt språk och dina data. Du har alltid kontroll över din information.",
+  "profile": {
+    "title": "Profil",
+    "name": "Namn",
+    "email": "E-post",
+    "language": "Språk",
+    "languageHint": "Används för appen, AI-samtal, röstkonsultationer och e-post.",
+    "country": "Land",
+    "save": "Spara ändringar",
+    "saved": "Dina uppgifter har uppdaterats."
+  },
+  "password": {
+    "title": "Byt lösenord",
+    "current": "Nuvarande lösenord",
+    "new": "Nytt lösenord",
+    "confirm": "Bekräfta nytt lösenord",
+    "submit": "Byt lösenord",
+    "mismatch": "De nya lösenorden stämmer inte överens.",
+    "otherSessions": "Andra enheter loggas ut."
+  },
+  "consents": {
+    "title": "Dina samtycken",
+    "terms": "Användarvillkor och integritetspolicy",
+    "health": "Behandling av uppgifter om hälsa och välmående",
+    "age": "Bekräftat 18 år eller äldre",
+    "given": "Lämnat {{date}}",
+    "withdraw": "Du kan när som helst återkalla ditt samtycke till behandling av hälsouppgifter genom att radera ditt konto nedan. MumWell kan inte fungera utan det."
+  },
+  "data": {
+    "title": "Dina uppgifter",
+    "body": "Ladda ned en kopia av allt MumWell lagrar om dig (ditt konto, incheckningar, screeningresultat, samtal, program och konsultationssammanfattningar) som en JSON-fil.",
+    "download": "Ladda ned mina uppgifter",
+    "downloading": "Förbereder…",
+    "downloaded": "Dina uppgifter har laddats ned.",
+    "retention": "Chattar raderas automatiskt 24 timmar efter det senaste meddelandet. Allt annat sparas tills du raderar ditt konto."
+  },
+  "delete": {
+    "title": "Radera konto",
+    "body": "Radera ditt konto och alla dina uppgifter från MumWell permanent. Det går inte att ångra.",
+    "button": "Radera mitt konto",
+    "confirmTitle": "Radera ditt konto permanent?",
+    "confirmBody": "Alla dina incheckningar, screeningresultat, samtal, ditt program och dina konsultationssammanfattningar raderas omedelbart. Ange ditt lösenord för att bekräfta.",
+    "password": "Ditt lösenord",
+    "confirm": "Radera permanent",
+    "deleting": "Raderar…",
+    "done": "Ditt konto har raderats."
+  }
+}

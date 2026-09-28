@@ -1,0 +1,141 @@
+{
+  "loadingTitle": "Förbereder ditt program…",
+  "loadingBody": "Ett ögonblick medan vi anpassar din väg mot välmående.",
+  "errorTitle": "Något gick fel",
+  "loadFailed": "Vi kunde inte hämta ditt program.",
+  "createFailed": "Vi kunde inte skapa ditt program. Försök igen.",
+  "ready": "Ditt 90-dagarsprogram är klart!",
+  "readyTip": "Tips: aktivera dagliga påminnelser under Inställningar för påminnelser.",
+  "generating": "Vi skapar ditt personliga 90-dagarsprogram. Det tar oftast ungefär en minut, så låt sidan vara öppen.",
+  "pleaseWait": "Vänta lite",
+  "complete": {
+    "title": "Du har slutfört ditt 90-dagarsprogram!",
+    "body": "Det är en riktig prestation. Fortsätt med det som hjälpt dig och starta ett nytt program när du vill ha fortsatt stöd.",
+    "restart": "Starta ett nytt program"
+  },
+  "checkinDone": {
+    "title": "Dagens incheckning är klar",
+    "body": "Du har redan registrerat humör, stress, sömn och energi i dag. Du kan fortsätta till dagens program.",
+    "continue": "Gå till dagens program"
+  },
+  "setup": {
+    "title": "Skapa ditt program",
+    "intro": "Några korta frågor, ett steg i taget, så att vi kan anpassa 90 dagar av varsamt stöd efter dig.",
+    "step": "Steg {{step}} av 3",
+    "name": "Ditt namn",
+    "age": "Ålder",
+    "ageError": "Ange en ålder mellan 18 och 70.",
+    "pregnant": "Är du gravid just nu?",
+    "yes": "Ja",
+    "no": "Nej",
+    "children": "Antal barn",
+    "support": "Vem stöttar dig?",
+    "supportOptions": {
+      "partner": "Partner",
+      "family": "Familj",
+      "friends": "Vänner"
+    },
+    "supportOther": "Annat stöd",
+    "history": "Har du haft psykisk ohälsa tidigare?",
+    "historyNotes": "Något du vill att vi ska veta (valfritt)",
+    "delivery": "Typ av förlossning",
+    "deliveryPlaceholder": "Välj",
+    "deliveryOptions": {
+      "vaginal": "Vaginal förlossning",
+      "c-section": "Kejsarsnitt"
+    },
+    "weeks": "Veckor sedan förlossningen",
+    "weeksPlaceholder": "Välj",
+    "week": "Vecka {{week}}",
+    "create": "Skapa mitt program",
+    "creating": "Skapar programmet…",
+    "privacy": "Dina svar används bara för att anpassa ditt program. Ditt namn skickas aldrig till AI:n.",
+    "footer": "Dina känslor är viktiga. Du är inte ensam."
+  },
+  "wellness": {
+    "title": "Daglig incheckning",
+    "intro": "Ta en stund och känn efter hur du mår. Det finns inga rätta svar.",
+    "step": "Steg {{step}} av {{total}}",
+    "finish": "Klar",
+    "saved": "Incheckningen är sparad",
+    "savedBody": "Tack för att du checkade in i dag.",
+    "failed": "Det gick inte att spara din incheckning.",
+    "metrics": {
+      "mood": {
+        "title": "Humör",
+        "question": "Hur mår du känslomässigt i dag?",
+        "labels": [
+          "Mycket dåligt",
+          "Dåligt",
+          "Okej",
+          "Bra",
+          "Mycket bra"
+        ]
+      },
+      "stress": {
+        "title": "Stress",
+        "question": "Hur mycket press eller spänning känner du just nu?",
+        "labels": [
+          "Mycket lugn",
+          "Lugn",
+          "Neutral",
+          "Stressad",
+          "Överväldigad"
+        ]
+      },
+      "sleep": {
+        "title": "Sömn",
+        "question": "Hur sov du i natt?",
+        "labels": [
+          "Mycket dåligt",
+          "Dåligt",
+          "Okej",
+          "Bra",
+          "Mycket bra"
+        ]
+      },
+      "energy": {
+        "title": "Energi",
+        "question": "Hur mycket energi har du i dag?",
+        "labels": [
+          "Mycket lite",
+          "Lite",
+          "Måttlig",
+          "God",
+          "Hög"
+        ]
+      }
+    }
+  },
+  "day": {
+    "progress": "Dag {{day}} av {{total}} · Steg {{step}} av 3",
+    "welcome": "Välkommen tillbaka",
+    "theme": "Dagens tema",
+    "objectives": "Dagens mål",
+    "tasks": "Dagens uppgifter",
+    "tasksNote": "Gör det som känns möjligt i dag. Varje liten insats räknas.",
+    "reflection": "Reflektion",
+    "reflectionNote": "Ta en stund att uppmärksamma din insats och hur du känner dig.",
+    "reflectionPlaceholder": "Skriv dina tankar här…",
+    "reflectionLabel": "Din reflektion",
+    "done": "Slutför dagen",
+    "submitting": "Sparar…",
+    "failed": "Det gick inte att spara dagens program.",
+    "celebrateTitle": "Bra jobbat!",
+    "celebrateBody": "Du har slutfört dagens program. Du gör ett fantastiskt jobb med att ta hand om dig själv och ditt barn.",
+    "talkTitle": "Vill du prata med någon?",
+    "talkBody": "En av våra AI-rådgivare kan prata med dig om ditt humör, dagens uppgifter eller vad du än tänker på."
+  },
+  "consultants": {
+    "1": {
+      "specialist": "Perinatal psykolog",
+      "description": "Stöttar dina känslor, din stress, din omställning och anknytningen med evidensbaserad psykologi.",
+      "firstMessage": "Hej, jag är din perinatala psykolog på MumWell. Hur känner du dig efter dagens aktiviteter?"
+    },
+    "2": {
+      "specialist": "Coach för välmående",
+      "description": "Hjälper dig att bygga små, realistiska rutiner för vila, återhämtning och gemenskap.",
+      "firstMessage": "Hej, jag är din coach för välmående på MumWell. Hur kändes dagens uppgifter för dig?"
+    }
+  }
+}
