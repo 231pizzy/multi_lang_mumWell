@@ -6,7 +6,7 @@
   "createFailed": "Nous n'avons pas pu créer votre programme. Veuillez réessayer.",
   "ready": "Votre programme de 90 jours est prêt !",
   "readyTip": "Astuce : activez les rappels quotidiens dans les paramètres des rappels.",
-  "generating": "Nous créons votre programme personnalisé de 90 jours. Cela prend généralement environ une minute, merci de garder cette page ouverte.",
+  "generating": "Nous créons votre programme personnalisé de 90 jours. Cela prend généralement une à deux minutes, merci de garder cette page ouverte.",
   "pleaseWait": "Veuillez patienter",
   "complete": {
     "title": "Vous avez terminé votre programme de 90 jours !",

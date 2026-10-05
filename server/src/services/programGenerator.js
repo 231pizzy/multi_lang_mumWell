@@ -5,7 +5,12 @@ import { LANGUAGE_NAMES } from "../i18n/index.js";
 import { stripDashes } from "../utils/text.js";
 
 export const PROGRAM_DAYS = 90;
-const BATCH_SIZE = 15;
+// Three requests in parallel: stays under low per-minute AI quotas (Gemini's free tier allows 5).
+const BATCH_SIZE = 30;
+// Longest provider-requested wait we sit out before retrying. Longer waits mean a daily quota.
+const MAX_RETRY_WAIT_MS = 65_000;
+
+const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
 const SYSTEM_PROMPT = `You are MumWell's Clinical Program Generator.
 You write daily entries for a personalised 90-day maternal mental-health program.
@@ -92,13 +97,15 @@ Write every text value in ${LANGUAGE_NAMES[language] ?? "English"}, in a warm, n
   return days;
 }
 
-async function generateBatchWithRetry(profile, startDay, endDay, language, attempts = 2) {
+async function generateBatchWithRetry(profile, startDay, endDay, language, attempts = 3) {
   for (let attempt = 1; ; attempt++) {
     try {
       return await generateBatch(profile, startDay, endDay, language);
     } catch (err) {
       if (err.status === 503 || attempt >= attempts) throw err;
-      logger.warn("Program batch failed, retrying", { startDay, endDay, error: err.message });
+      if (err.retryAfterMs > MAX_RETRY_WAIT_MS) throw err;
+      logger.warn("Program batch failed, retrying", { startDay, endDay, error: err.message, waitMs: err.retryAfterMs });
+      if (err.retryAfterMs) await sleep(err.retryAfterMs + 500);
     }
   }
 }

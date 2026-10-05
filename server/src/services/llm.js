@@ -77,8 +77,19 @@ export async function generateText({ system, prompt, json = false, temperature =
     return await call({ system, prompt, json, temperature, maxTokens });
   } catch (err) {
     logger.error("LLM request failed", { provider, status: err.status, error: err.message });
-    throw new HttpError(502, "ai.unavailable");
+    const failure = new HttpError(502, "ai.unavailable");
+    // Rate limited: pass on how long the provider asked us to wait, so callers can retry.
+    if (err.status === 429) failure.retryAfterMs = retryAfterMs(err);
+    throw failure;
   }
+}
+
+/** Reads the provider's suggested wait from a 429 error, e.g. Gemini's "Please retry in 24.9s". */
+function retryAfterMs(err) {
+  const header = Number(err.headers?.["retry-after"] ?? err.headers?.get?.("retry-after"));
+  if (Number.isFinite(header) && header > 0) return header * 1000;
+  const match = String(err.message ?? "").match(/retry in ([\d.]+)s|"retryDelay":\s*"(\d+)s"/i);
+  return match ? Math.ceil(Number(match[1] ?? match[2]) * 1000) : undefined;
 }
 
 /** Generate and parse a JSON object. Throws HttpError(502) if the model returns invalid JSON. */
